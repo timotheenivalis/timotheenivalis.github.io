@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Timothée Bonnet
 locale:           en_US
 url:
 
@@ -46,7 +46,7 @@ owner:
   bio: "Evolutionary biologist/ecologist or something around that"
   email:
   disqus-shortname:
-  twitter: @TimotheeBonnet
+  twitter: TimotheeBonnet
   facebook: #username
   google:
     plus: #username
@@ -55,7 +55,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: timotheenivalis
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
