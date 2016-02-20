@@ -1,66 +1,23 @@
-# Jekyll Starter Theme - Minimial
+# Minimal Mistakes
 
+**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog built. Compatible with Jekyll 3.0 and up.
 
-A minimalistic Jekyll starter theme for "classic" web sites (e.g. just some web pages)
+## Minimal Mistakes is all about:
 
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments -- content first.
+* Optional large feature images for posts and pages.
+* Simple and clear permalink structure.
+* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
+* Support for Disqus Comments
 
-```
-├── _config.yml                  # site configuration
-├── _layouts
-|   └── default.html             # master layout template
-├── css
-|   └── style.css                # styles
-├── three.html                   # another sample page (in hypertext markup e.g. html)
-├── two.md                       # another sample page (in markdown e.g. md)
-└── index.md                     # index (start) sample page (in markdown e.g. md)
-```
+![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
 
-Becomes
+See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.
 
-```
-└── _site                        # output build folder; site gets generated here
-    ├── css
-    |   └── style.css            # styles for pages (copied 1:1 as is)
-    ├── three.html               # another sample page
-    ├── two.html                 # another sample page 
-    └── index.html               # index (start) sample page
-```
+## Getting Started
 
-### Live Demo
+Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require [Jekyll 2.x](https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.3) and will not work with older versions of Jekyll.
 
-See a live demo @ [`henrythemes.github.io/jekyll-starter-theme` »](http://henrythemes.github.io/jekyll-starter-theme)
-
-
-### Version 2.0
-
-Note: For a more "advanced" starter theme, see the
-[Jekyll Starter Theme V2](https://github.com/henrythemes/jekyll-starter-theme-v2).
-The V2 includes:
-
-- Shared (common) template/page building blocks using `_includes` e.g. `head.html`, `header.html`, `footer.html` etc.
-- CSS preprocessing using Sass/SCSS e.g. `_settings.scss` with `$link-color` etc.
-- Nav(igation) menu (auto-)built using a configuration / data block
-- And more
-
-### More Themes
-
-See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
-
-
-### More Quick Starter Wizard Scripts
-
-See the [Mr. Hyde's Scripts](https://github.com/mrhydescripts/scripts) library.
-
-
-
-## Meta
-
-#### License
-
-The starter theme is dedicated to the public domain.
-Use it as you please with no restrictions whatsoever.
-
-#### Questions? Comments?
-
-Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
-
+To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.

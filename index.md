@@ -1,38 +1,9 @@
 ---
-layout: default
-title:  Welcome
+layout: home
+excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: sample-image-1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-
-# {{Timothee Bonnet page draft }}
-
-
-_Add your text here_
-
-
-What's Markdown (`.md`)?
-
-Markdown is markup that lets you write hypertext (HTML) documents
-in easy-to-read and easy-to-write plain text.
-No angle brackets `<></>` required for
-paragraphs, lists, blockquotes, tables, etc.
-
-
-This is a paragraph (in Markdown). Some more
-text here.
-
-This is another paragraph.
-
-This is a list:
-
-- Orange
-- Apple
-- Blueberry
-
-
-
-Just getting started with Markdown?
-See [The Markdown Reference Book][writekit] for a
-HTML <-> Markdown Quick Reference (Cheat Sheet).
-
-
-[writekit]: http://writekit.github.io
