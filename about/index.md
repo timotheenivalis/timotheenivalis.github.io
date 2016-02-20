@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About
+tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: DSC00133.jpg
+  feature: churwalden.jpg
   credit: T. Bonnet
-  creditlink: #http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Website in construction!
