@@ -5,7 +5,7 @@ tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: nails.jpg
+  feature: nails.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
