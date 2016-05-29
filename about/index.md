@@ -5,9 +5,9 @@ tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-1.jpg
-  credit: wegraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: nails.jpg
+  credit: Timothee Bonnet
+  creditlink: http://timotheenivalis.github.io
 ---
 
 Website in construction!
