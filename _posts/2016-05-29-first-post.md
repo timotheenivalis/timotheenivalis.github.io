@@ -6,7 +6,7 @@ modified: 2016-05-29
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
-  feature: churwalden.jpg
-  credit: Timothee
+  feature: churwalden.JPG
+  credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
