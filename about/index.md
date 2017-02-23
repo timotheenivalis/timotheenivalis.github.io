@@ -9,8 +9,8 @@ image:
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
-
-This website is still being constructed, but already contains some information.
+## Warning
+This website is still being constructed, and might contain a random set of things related or not to Timothée.
 
 I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching.
 
