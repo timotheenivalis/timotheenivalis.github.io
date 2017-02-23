@@ -20,7 +20,9 @@ image:
 
 Bonnet T, Wandeler P, Camenisch G, Postma E (2017) Bigger Is Fitter? Quantitative Genetic Decomposition of Selection Reveals an Adaptive Evolutionary Decline of Body Mass in a Wild Rodent Population. PLoS Biol 15(1): e1002592. doi:10.1371/journal.pbio.1002592
 <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592" class="btn btn-success">Take me to the paper!</a>
-[Take me to the paper!](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){ :target= "_blank" }
+
+[link name](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){:target="_blank"}
+
 
 <section id="table-of-contents" class="toc">
   <header>
