@@ -9,18 +9,14 @@ image:
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
-## Warning
-This website is still being constructed, and might contain a random set of things related or not to Timothée.
+
 
 I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching.
 
-## The website should contain:
 
-* An overview of my research
-* Links to code and publications
-* Things...
-
-<div markdown="0"><a href="http://www.popecol.org/team/timothee-bonnet/" class="btn btn-success">PopEcol</a></div>
+## Warning
+This website is still being constructed, and might contain a random set of things related or not to Timothée.
+For now, you can find me at <div markdown="0"><a href="http://www.popecol.org/team/timothee-bonnet/" target="_blank">class="btn btn-success">PopEcol</a></div>
 
 This website is powered by Jekyll, hosted on GitHub and is based on the Minimal Mistakes Theme.
 
