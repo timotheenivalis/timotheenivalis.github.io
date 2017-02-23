@@ -16,8 +16,5 @@ I am an evolutionary biologist primarily interested in recent genetic evolution 
 
 ## Warning
 This website is still being constructed, and might contain a random set of things related or not to Timothée.
-For now, you can find me at <div markdown="0"><a href="http://www.popecol.org/team/timothee-bonnet/" class="btn btn-success">PopEcol</a></div>
-
-This website is powered by Jekyll, hosted on GitHub and is based on the Minimal Mistakes Theme.
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+For now, you can find me at
+ <div markdown="0"><a href="http://www.popecol.org/team/timothee-bonnet/" class="btn btn-success">PopEcol</a></div>
