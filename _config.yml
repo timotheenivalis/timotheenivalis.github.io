@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: Timothée Bonnet
-  avatar: bio-photo.jpg
+  avatar: biophoto.jpg
   bio: "Evolutionary biologist/ecologist or something around that"
   email: timothee.bonnet@ieu.uzh.ch
   disqus-shortname:
