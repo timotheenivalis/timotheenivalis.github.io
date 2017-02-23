@@ -12,10 +12,7 @@ image:
 ---
 # What it is about
 
-<figure>
-	<a href=""><img src="/images/mesnovole.JPG"></a>
-	<figcaption><a href="" title="Furry friend">Furry frien</a>.</figcaption>
-</figure>
+
 
 # Why on hell would I do that?
 
@@ -36,3 +33,8 @@ Bonnet T, Wandeler P, Camenisch G, Postma E (2017) Bigger Is Fitter? Quantitativ
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
+
+<figure>
+	<a href=""><img src="/images/mesnovole.JPG"></a>
+	<figcaption><a href="" title="Furry friend">Furry friend</a>.</figcaption>
+</figure>
