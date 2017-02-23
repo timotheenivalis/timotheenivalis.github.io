@@ -12,16 +12,19 @@ image:
 ---
 # What it is about
 
+<figure>
+	<a href=""><img src="/images/mesnovole.JPG"></a>
+	<figcaption><a href="" title="Furry friend">Furry frien</a>.</figcaption>
+</figure>
+
 # Why on hell would I do that?
 
 # What happened
 
 ## References
 
-Bonnet T, Wandeler P, Camenisch G, Postma E (2017) Bigger Is Fitter? Quantitative Genetic Decomposition of Selection Reveals an Adaptive Evolutionary Decline of Body Mass in a Wild Rodent Population. PLoS Biol 15(1): e1002592. doi:10.1371/journal.pbio.1002592
-<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592" class="btn btn-success">Take me to the paper! target="_blank">Take me to the paper! </a>
-
-[link name](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){:target="_blank"}
+Bonnet T, Wandeler P, Camenisch G, Postma E (2017) Bigger Is Fitter? Quantitative Genetic Decomposition of Selection Reveals an Adaptive Evolutionary Decline of Body Mass in a Wild Rodent Population. **PLoS Biology** 15(1): e1002592. doi:10.1371/journal.pbio.1002592
+[doi:10.1371/journal.pbio.1002592](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){:target="_blank"}
 
 
 <section id="table-of-contents" class="toc">
