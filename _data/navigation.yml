@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: /pages/about/
 
 - title: Research
   url: /posts/
@@ -13,7 +13,7 @@
   url: /posts/
 
   - title: Contact
-    url: /pages/Contact
+    url: /pages/contact/
 
 #- title: Theme Setup
 #  url: /theme-setup/
