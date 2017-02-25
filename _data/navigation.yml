@@ -6,11 +6,11 @@ main:
 - title: Research
   url: /posts/
 
+- title: The Outside World
+    url: /posts/
+
 - title: Every Post Ever
   url: /posts/
-
-  - title: Contact
-    url: /posts/
 
 #- title: Theme Setup
 #  url: /theme-setup/
