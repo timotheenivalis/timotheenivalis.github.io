@@ -1,11 +1,11 @@
 ---
-layout: post-index
-title: My Research
-tags: [research, voles]
-excerpt: "What I do with my days"
+layout: page
+title: 
+date: 2017-02-26T00:15:47+01:00
+modified:
+excerpt:
+tags: []
 image:
-  feature: churwalden.JPG
-  credit: Timothee Bonnet
-  creditlink: http://timotheenivalis.github.io
-
+  feature:
 ---
+
