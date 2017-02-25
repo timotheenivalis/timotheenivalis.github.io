@@ -1,3 +1,8 @@
+# Just a personal page to present my research
+**[This page](https://timotheenivalis.github.io)** will be a personal website presenting my research.
+
+I use **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** to create it. Read more about it below.
+
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog built. Compatible with Jekyll 3.0 and up.

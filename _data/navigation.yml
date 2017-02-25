@@ -1,5 +1,5 @@
 # Site navigation links
-
+main:
 - title: About
   url: /pages/about/
 
@@ -17,9 +17,3 @@
 
 #- title: Theme Setup
 #  url: /theme-setup/
-
-main:
-- title: About
-  url: /about/
-- title: Every Post Ever
-  url: /posts/
