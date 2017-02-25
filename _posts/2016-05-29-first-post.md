@@ -11,7 +11,7 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 # What it is about
-Voles
+Snow voles
 
 
 # Why in hell would I do that?

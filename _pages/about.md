@@ -4,14 +4,14 @@ title: About
 tags: [about]
 modified: 2016-05-29
 comments: true
-permalink: /about/
+permalink: /pages/about/
 image:
   feature: nails.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
 
-V2
+V2 
 I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching.
 
 
