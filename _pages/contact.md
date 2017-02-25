@@ -1,12 +1,14 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: page
+title: About
+tags: [about]
+modified: 2016-05-29
+comments: true
+permalink: /pages/about/
+image:
+  feature: nails.JPG
+  credit: Timothee Bonnet
+  creditlink: http://timotheenivalis.github.io
 ---
 
 ## Warning

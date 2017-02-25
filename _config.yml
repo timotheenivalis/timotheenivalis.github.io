@@ -3,8 +3,8 @@
 title:            Timothée Bonnet
 locale:           en_US
 url:			  https://timotheenivalis.github.io/
-description: "A personal page to present my research."
-teaser: /assets/images/svpurple.jpg
+#description: "A personal page to present my research."
+#teaser: /assets/images/svpurple.jpg
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -38,17 +38,17 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
-defaults:
+#defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
 
 # Site owner
 owner:
@@ -84,5 +84,5 @@ owner:
   codepen: #username
 
 include: [".htaccess"]
-include: ["_pages"]
+#include: ["_pages"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

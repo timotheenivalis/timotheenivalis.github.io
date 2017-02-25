@@ -10,7 +10,7 @@ main:
   url: /posts/
 
   - title: Contact
-    url: /pages/
+    url: /posts/
 
 #- title: Theme Setup
 #  url: /theme-setup/
