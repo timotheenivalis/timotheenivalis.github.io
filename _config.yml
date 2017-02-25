@@ -38,6 +38,17 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Site owner
 owner:
