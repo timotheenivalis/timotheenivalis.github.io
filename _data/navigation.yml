@@ -1,12 +1,9 @@
 # Site navigation links
 main:
 - title: About
-  url: /pages/about/
+  url: /about/
 
 - title: Research
-  url: /posts/
-
-- title: The Outside World
   url: /posts/
 
 - title: Every Post Ever
