@@ -18,8 +18,8 @@ image:
 http://www.cebc.cnrs.fr/GB_index.htm
 
 <figure>
-	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/logo_CEBC.png"></a>
-	<figcaption><a href="" title="CEBS">cebc</a>.</figcaption>
+	<a href="http://www.cebc.cnrs.fr/GB_index.htm"{:target="_blank"}><img src="/images/logo_CEBC.png"></a>
+	<figcaption><a href="" title="CEBC"></a>.</figcaption>
 </figure>
 
 ## t-3: Center for Evolution and Ecology Synthesis (CEES), Oslo University
