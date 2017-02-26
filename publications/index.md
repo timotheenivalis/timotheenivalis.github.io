@@ -9,8 +9,6 @@ image:
   feature:
 ---
 
-% ## In press
-
 ## 2017
 - **Bonnet, T.**, Wandeler, P., Camenisch, G., & Postma, E. (2017). Bigger is fitter? Quantitative genetic decomposition of selection reveals an adaptive evolutionary decline of body mass in a wild rodent population. _PLoS Biology_ 15: e1002592.
 
