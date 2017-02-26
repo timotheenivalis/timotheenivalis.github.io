@@ -21,7 +21,7 @@ Collaborators: Raphaël Leblois, Pierre-André Crochet, François Rousset.
 Eight month internship during my gap year.
 Collaborators: Bertrand Gauffre, Adrien Pinot & Vincent Bretagnolle.
 <figure>
-	<a href="http://www.cebc.cnrs.fr/GB_index.htm><img src="/images/logo_CEBC.png"></a>
+	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/logo_CEBC.png"></a>
 	<figcaption><a href="" title="CEBC"></a>.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Four  month internship during my gap year.
 collaborators: Glenn-Peter Sætre, Tore Oldeide Elgvin, Jo Skeie Hermansen, Anna Fijarczyk.
 
 <figure>
-	<a href="http://www.cebc.cnrs.fr/GB_index.htm><img src="/images/cees.jpg"></a>
+	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/cees.jpg"></a>
 	<figcaption><a href="" title="CEES"></a>.</figcaption>
 </figure>
 ## t-4: Home Viane
