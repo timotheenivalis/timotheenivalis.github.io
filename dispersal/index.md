@@ -9,8 +9,22 @@ image:
   feature:
 ---
 
+## Current territory: Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 
+## t-1: Montpellier
 
+## t-2: Chizé Center for Biological Studies (CEBC)
+
+http://www.cebc.cnrs.fr/GB_index.htm
+
+<figure>
+	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/logo_CEBC.png"></a>
+	<figcaption><a href="" title="CEBS">cebc</a>.</figcaption>
+</figure>
+
+## t-3: Center for Evolution and Ecology Synthesis (CEES), Oslo University
+
+## t-4: Viane
 
 This page is based on an idea by my friend [Chelsea Little](https://chelseajeanlittle.com/){:target="_blank"}
 {: .notice}
