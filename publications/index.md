@@ -18,7 +18,7 @@ image:
 ## 2016
 - **Bonnet, T.** & Postma, E. (2016). Successful by chance? The power of mixed models and neutral simulations
 for the detection of individual fixed heterogeneity in fitness components. _**The American Naturalist**_
-187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}. Recommended by the [Faculty of 1000](https://f1000.com/prime/726131160){:target="_blank"}![F1000](/images/F1000badge.jpg)
+187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}. Recommended by  [![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
 
 
 
@@ -39,8 +39,7 @@ vole copes with modern farming: Insights from a capture-mark-recapture experimen
 Ecosystems & Environment**_ 177: 21–27. [doi:http://dx.doi.org/10.1016/j.agee.2013.05.005](http://dx.doi.org/10.1016/j.agee.2013.05.005){:target="_blank"}.
 
 - Elgvin, T.O., Hermansen, J.S., Fijarczyk, A., **Bonnet, T.**, Borge, T., Sæther, S. a, Voje, K.L. & Sætre,
-G.P. (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Molecular Ecology**_ 20: 3823–
-3837. [doi:10.1111/j.1365-294X.2011.05182.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract){:target="_blank"}.
+G.P. (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Molecular Ecology**_ 20: 3823–3837. [doi:10.1111/j.1365-294X.2011.05182.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract){:target="_blank"}.
 
 - **Bonnet, T.**, Slagsvold, P.K. & Sætre, G.P. (2011). Genetic species identification of a Collared Pied
 Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1007/s10336-011-0703-4](https://link.springer.com/article/10.1007%2Fs10336-011-0703-4){:target="_blank"}.
