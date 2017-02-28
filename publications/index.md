@@ -18,7 +18,7 @@ image:
 - **Bonnet, T.** & Postma, E. (2016). Successful by chance? The power of mixed models and neutral simulations
 for the detection of individual fixed heterogeneity in fitness components. _The American Naturalist_
 187(1): 60-74 .
-Recommended by Faculty of 1000 ![F1000](/images/F1000.png)
+Recommended by Faculty of 1000 ![F1000](/images/F1000.png){:class="img-responsive"}
 
 - García-Navas, V., **Bonnet, T.**, Waldvogel, D., Camenisch, G. & Postma, E. (2016).Consequences of female
 philopatry for reproductive success and mate choice in an Alpine rodent. _Behavioral Ecology_ 27: 1158-1166.
