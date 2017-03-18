@@ -15,8 +15,10 @@ Winterthurerstrasse 190
 8057 Zurich  
 Switzerland
 
+
 Office at Irchel Campus: Y13-J-34  
 phone: +41 (0)44 635 47 66
+
 
 timothee.bonnet AT ieu.uzh.ch  
 or  
