@@ -67,7 +67,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: timothéebonnet
   codepen: #username
 
 include: [".htaccess", "_pages"]

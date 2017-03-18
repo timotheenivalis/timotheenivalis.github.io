@@ -9,19 +9,18 @@ image:
   feature:
 ---
 
+## Post address ##
 Timothée Bonnet  
 IEU - University of Zurich  
 Winterthurerstrasse 190  
 8057 Zurich  
 Switzerland
 
-
-Office at Irchel Campus: Y13-J-34  
-phone: +41 (0)44 635 47 66
-
-
+## E-mails ##
 timothee.bonnet AT ieu.uzh.ch  
 or  
 timotheebonnetc AT gmail.com  
-or  
-send a pigeon
+
+## Office ##
+Irchel Campus: Y13-J-34  
+phone: +41 (0)44 635 47 66
