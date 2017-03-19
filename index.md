@@ -1,5 +1,6 @@
 ---
-layout: Home
+layout: home
+title: Home
 excerpt: "Timothée Bonnet's research website."
 tags: [Timothée Bonnet, research, quantitative gentics, chionomys nivalis, snow vole, home]
 image:
