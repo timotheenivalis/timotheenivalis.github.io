@@ -22,10 +22,19 @@ This website is still being constructed. You can have a look at my personal page
  ---
 
 
-# Contemporary evolution in the wild: how it works and why it matters  
+# Contemporary evolution: how it works and whether it matters  
 
 I primarily study the causes and consequences of contemporary evolution in a natural population of a small rodent (snow voles), and how evolution contributes to population dynamics.
 
-# Introgressive hybridization, recursive evolution and speciation
+# Recursive evolution: hybridization and speciation
 
 I am also interested in the evolutionary consequences of hybridization.
+
+# Biodiversity and human activities
+
+Although it is currently not a research focus of mine, I find hard to imagine doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides) .
+
+How do small field mammals deal with repeated disturbance associated with modern farming?
+For more on this thematic, check out the work of [Bertrand Gauffre](http://www.cebc.cnrs.fr/Fidentite/gauffre/GB_gauffre.htm), and the team [AgriPop](http://www.za.plainevalsevre.cnrs.fr/).
+
+I did an internship on the conservation of birds in extensive Alpine meadows and contributed with a local branch of Birdlife France ( [LPO Isère](http://isere.lpo.fr/) ).
