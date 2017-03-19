@@ -10,7 +10,7 @@ image:
 ---
 
 ## E-mails ##
-[timothee.bonnet AT ieu.uzh.ch](mailto:timothee.bonnet@ieu.uzh.ch)
+[timothee.bonnet AT ieu.uzh.ch](mailto:timothee.bonnet@ieu.uzh.ch)  
 or  
 [timotheebonnetc AT gmail.com](mailto:timotheebonnetc@gmail.com)
 
@@ -26,5 +26,6 @@ Irchel Campus: Y13-J-34
 phone: +41 (0)44 635 47 66
 
 ## "Social" media ##
-[ResearchGate](https://www.researchgate.net/profile/Timothee_Bonnet)
-[Twitter: @TimotheeBonnet](https://twitter.com/TimotheeBonnet)
+[ResearchGate](https://www.researchgate.net/profile/Timothee_Bonnet)  
+[Twitter: @TimotheeBonnet](https://twitter.com/TimotheeBonnet)  
+[GitHub: timotheenivalis](https://github.com/timotheenivalis/)
