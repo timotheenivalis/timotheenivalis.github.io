@@ -11,5 +11,14 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
+## Warning
+This website is still being constructed. You can have a look at my personal pages on the websites of my current groups:
+
+
+ <div markdown="0"><a href="http://www.popecol.org/team/timothee-bonnet/" class="btn btn-success">PopEcol</a></div>
+ <div markdown="0"><a href="http://erikpostma.net/group.html#timothee" class="btn btn-info">Postma's group</a></div>
+
+# Research themes
+
 I primarily study the causes and consequences of contemporary evolution in a natural population of a small rodent (snow voles), and how evolution contributes to population dynamics.
 I am also interested in the evolutionary consequences of hybridization.

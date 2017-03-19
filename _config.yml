@@ -5,10 +5,14 @@ locale:           en_US
 url:			  https://timotheenivalis.github.io/
 
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
@@ -36,6 +40,12 @@ page_layout: page
 
 # Format titles with titlecase?
 titlecase: true
+
+# Analytics
+#analytics:
+#  provider               : "google" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : ""
 
 # Site owner
 owner:
