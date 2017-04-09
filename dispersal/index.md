@@ -6,7 +6,9 @@ modified:
 excerpt: "Where I went, what I did, with who"
 tags: [collaborations, collaborators, dispersal, positions]
 image:
-  feature:
+  feature: trip.jpg
+  credit: Timothée Bonnet
+  creditlink: http://timotheenivalis.github.io
 ---
 
 # **Current territory:** Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
