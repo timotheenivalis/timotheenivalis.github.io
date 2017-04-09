@@ -3,11 +3,11 @@ layout: page
 title: Research themes
 date: 2017-02-26T00:15:47+01:00
 modified: 2017-03-18T22:30:00+01:00
-excerpt: "An overview of my research interests"
-tags: [timothee, research, biology, research]
+excerpt: "Timothée Bonnet's research interests"
+tags: [timothee, research, biology]
 image:
   feature: nails.JPG
-  credit: Timothee Bonnet
+  credit: Timothée Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
 <section id="table-of-contents" class="toc">
@@ -43,7 +43,7 @@ I am also interested in the evolutionary consequences of hybridization.
 
 # Biodiversity and human activities
 
-Although it is currently not a research focus of mine, I find hard to imagine doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides) .
+Although it is currently not a research focus of mine, I find hard to imagine doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides).
 
 How do small field mammals deal with repeated disturbance associated with modern farming?
 For more on this thematic, check out the work of [Bertrand Gauffre](http://www.cebc.cnrs.fr/Fidentite/gauffre/GB_gauffre.htm), and the team [AgriPop](http://www.za.plainevalsevre.cnrs.fr/).

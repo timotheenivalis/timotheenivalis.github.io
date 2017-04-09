@@ -2,9 +2,9 @@
 layout: page
 title: Publications
 date: 2017-02-26T00:22:34+01:00
-modified:
-excerpt:
-tags: [publications]
+modified: 2017-04-09T19:10:00+02:00
+excerpt: "Timothée Bonnet's publications"
+tags: [Timothée Bonnet, Chionomys nivalis, Evolution, publications]
 image:
   feature:
 ---

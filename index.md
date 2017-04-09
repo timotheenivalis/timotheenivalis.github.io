@@ -2,15 +2,13 @@
 layout: home
 title: Home
 excerpt: "Timothée Bonnet's research website."
-tags: [Timothée Bonnet, research, quantitative gentics, chionomys nivalis, snow vole, home]
+tags: [Timothée Bonnet, research, quantitative genetics, Chionomys nivalis, snow vole, home]
 image:
   feature: churwalden.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
-I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching.
-
-Thanks for visiting my website. Here is how it is (dis-) organized:
+I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching. *Thanks for visiting my website. Here is how it is (dis-)organized:*
 - [A brief overview of my research interests](/research/)
 - [A list of publications](/publications/)
 - [My current and past affiliations and collaborations](/dispersal/)
