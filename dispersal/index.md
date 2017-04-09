@@ -11,6 +11,8 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
+This page summarizes my trajectory among research institutions.
+
 ## **Current territory:** Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 __*PhD thesis and first Post-doc.*__
 
@@ -34,7 +36,7 @@ Eight month internship during my gap year.
 
 
 ## **t-3:** Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
-Four  month internship during my gap year.
+__*Four month internship during my gap year.*__
 
 **Collaborators:**
  Glenn-Peter Sætre, Tore Oldeide Elgvin, Jo Skeie Hermansen, Anna Fijarczyk.
@@ -45,7 +47,6 @@ Four  month internship during my gap year.
 </figure>
 
 ## **t-4:** Home is in Viane, Tarn, Occitanie, France
-
 
 
 This page is based on an idea by my friend the great ecologist and skier [Chelsea J. Little](https://chelseajeanlittle.com/){:target="_blank"}
