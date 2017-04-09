@@ -10,15 +10,29 @@ image:
   credit: Timothée Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-This page summarizes my trajectory among research institutions.
+This page summarizes my trajectory across time, space, and research institutions.
 
-## **Current territory:** Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
+## *Current territory:* Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 __*PhD thesis and first Post-doc.*__
 
 **Collaborators:** [Erik Postma](http://erikpostma.net/index.html), [Arpat Ozgul](http://www.popecol.org/team/arpat-ozgul/), [Koen van Benthem](http://www.popecol.org/team/koen-van-benthem/), [Vicente García-Navas](http://vicentegarcianavas.weebly.com/), [Glauco Camenisch](http://independent.academia.edu/GlaucoCamenisch), [Peter Wandeler](http://www.fr.ch/mhn/de/pub/museum/museums_mannschaft.htm).
 
 I did my PhD in Erik Postma's group. I am currently a Post-doc in the group PopEcol, in collaboration with Erik Postma and Arpat Ozgul.
+<figure>
+	<a href="http://www.ieu.uzh.ch/en.html"><img src="/images/uzhlogo.jpg"></a>
+	<figcaption><a href="" title="UZH"></a>.</figcaption>
+</figure>
+
 
 ## **t-1:** University of Montpellier (CBGP, CEFE, ISEM)
 __*Master thesis.*__
