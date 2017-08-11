@@ -9,16 +9,17 @@ image:
   feature:
 ---
 ## Get in touch
+An incomplete list of ways to get in touch with me
 
 ## E-mail ##
 [timotheebonnetc followed by "at gmail dot com" ](mailto:timotheebonnetc@gmail.com)
 
 ## Send a pigeon ##
 Timothée Bonnet  
-Research School of Biology
-46 Sullivans Creek Road,
-The Australian National University,
-Acton ACT 2601
+Research School of Biology  
+46 Sullivans Creek Road  
+The Australian National University  
+Acton ACT 2601  
 Australia
 
 ## "Social" media ##
