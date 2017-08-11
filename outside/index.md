@@ -6,8 +6,18 @@ modified: 2017-08-11T22:37:12+01:00
 excerpt: "It is in the world that you should live"
 tags: [timothée bonnet, Timothée Bonnet, outside, outreach, birdwatching]
 image:
-  feature:
+  feature: DSC_4429.jpg
+  credit: Timothée Bonnet
+  creditlink: http://timotheenivalis.github.io
 ---
+
+## Outreach
+
+
+
+[Dans les testicules de Darwin](http://danslestesticulesdedarwin.blogspot.com.au/)
+
+## Naturalism
 
 <figure>
 	<img src="/images/DSC_7517.jpg">
