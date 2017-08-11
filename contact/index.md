@@ -9,9 +9,7 @@ image:
   feature:
 ---
 
-why two titles
-
-## Get in touch
+## What is it
 
 An incomplete list of ways to get in touch with me
 
