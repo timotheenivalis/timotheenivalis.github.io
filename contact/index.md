@@ -9,11 +9,9 @@ image:
   feature:
 ---
 
-## What is it
-
 An incomplete list of ways to get in touch with me
 
-## E-mail ##
+## E-mail
 [timotheebonnetc followed by "at gmail dot com" ](mailto:timotheebonnetc@gmail.com)
 
 ## Send a pigeon ##
