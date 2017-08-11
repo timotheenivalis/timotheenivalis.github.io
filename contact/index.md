@@ -3,13 +3,11 @@ layout: page
 title: Get in touch
 date: 2017-02-25T23:28:58+01:00
 modified: 2017-08-11T20:36:00+02:00
-excerpt:"How to get in touch"
+excerpt: "How to get in touch"
 tags: [contact, Timothée bonnet, timothée bonnet, email, address, pigeon, social media]
-image:
-  feature:
 ---
 
-## Get in touch
+## Get in touch ##
 
 An incomplete list of ways to get in touch with me
 
