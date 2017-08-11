@@ -22,7 +22,11 @@ image:
 
 This page summarizes my trajectory across time, space, and research institutions.
 
-## __*Current territory:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
+## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
+__*Lecturer position*__
+**Collaborators$$ [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
+
+## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 __*PhD thesis and first Post-doc.*__
 
 **Collaborators:** [Erik Postma](http://erikpostma.net/index.html), [Arpat Ozgul](http://www.popecol.org/team/arpat-ozgul/), [Koen van Benthem](http://www.popecol.org/team/koen-van-benthem/), [Vicente García-Navas](http://vicentegarcianavas.weebly.com/), [Glauco Camenisch](http://independent.academia.edu/GlaucoCamenisch), [Peter Wandeler](http://www.fr.ch/mhn/de/pub/museum/museums_mannschaft.htm).
@@ -34,12 +38,12 @@ I did my PhD in Erik Postma's group. I am currently a Post-doc in the group PopE
 </figure>
 
 
-## __*t-1:*__ University of Montpellier (CBGP, CEFE, ISEM)
+## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
 __*Master thesis.*__
 
 **Collaborators:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
 
-## __*t-2:*__ Chizé Center for Biological Studies (CEBC)
+## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
 Eight month internship during my gap year.
 
 **Collaborators:** Bertrand Gauffre, Adrien Pinot & Vincent Bretagnolle.
@@ -49,7 +53,7 @@ Eight month internship during my gap year.
 </figure>
 
 
-## __*t-3:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
+## __*t-4:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
 __*Four month internship during my gap year.*__
 
 **Collaborators:**
@@ -60,7 +64,12 @@ __*Four month internship during my gap year.*__
 	<figcaption><a href="" title="CEES"></a>.</figcaption>
 </figure>
 
-## __*t-4:*__ Home is in Viane, Tarn, Occitanie, France
+## __*t-5:*__ Home is in Viane, Tarn, Occitanie, France
+
+<figure>
+	<a href="http://viane.fr/presentation/"><img src="/images/roqueceziere.jpg"></a>
+	<figcaption><a href="" title="Viane"></a>.</figcaption>
+</figure>
 
 
 This page is based on an idea by my friend the great ecologist and skier [Chelsea J. Little](https://chelseajeanlittle.com/){:target="_blank"}
