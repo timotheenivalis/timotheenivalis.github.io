@@ -24,14 +24,19 @@ This page summarizes my trajectory across time, space, and research institutions
 
 ## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 __*Lecturer position*__
-**Collaborators$$ [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
+**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
+
+<figure>
+	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
+	<figcaption><a href="" title="ANU"></a>.</figcaption>
+</figure>
+
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 __*PhD thesis and first Post-doc.*__
 
 **Collaborators:** [Erik Postma](http://erikpostma.net/index.html), [Arpat Ozgul](http://www.popecol.org/team/arpat-ozgul/), [Koen van Benthem](http://www.popecol.org/team/koen-van-benthem/), [Vicente García-Navas](http://vicentegarcianavas.weebly.com/), [Glauco Camenisch](http://independent.academia.edu/GlaucoCamenisch), [Peter Wandeler](http://www.fr.ch/mhn/de/pub/museum/museums_mannschaft.htm).
 
-I did my PhD in Erik Postma's group. I am currently a Post-doc in the group PopEcol, in collaboration with Erik Postma and Arpat Ozgul.
 <figure>
 	<a href="http://www.ieu.uzh.ch/en.html"><img src="/images/uzhlogo.jpg"></a>
 	<figcaption><a href="" title="UZH"></a>.</figcaption>
@@ -44,7 +49,7 @@ __*Master thesis.*__
 **Collaborators:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
 
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
-Eight month internship during my gap year.
+__*Internship during my gap year.*__
 
 **Collaborators:** Bertrand Gauffre, Adrien Pinot & Vincent Bretagnolle.
 <figure>
@@ -54,7 +59,7 @@ Eight month internship during my gap year.
 
 
 ## __*t-4:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
-__*Four month internship during my gap year.*__
+__*Internship during my gap year.*__
 
 **Collaborators:**
  Glenn-Peter Sætre, Tore Oldeide Elgvin, Jo Skeie Hermansen, Anna Fijarczyk.
@@ -65,6 +70,7 @@ __*Four month internship during my gap year.*__
 </figure>
 
 ## __*t-5:*__ Home is in Viane, Tarn, Occitanie, France
+__*Learning about European temperate wildlife from first hand experience.*__
 
 <figure>
 	<a href="http://viane.fr/presentation/"><img src="/images/roqueceziere.jpg"></a>
