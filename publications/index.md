@@ -9,7 +9,7 @@ image:
   feature:
 ---
 
-## 2017)
+## 2017
 - **Bonnet, T.**, Leblois, R., Rousset, F., Crochet, P.A. (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ Early view. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.
 
 
@@ -21,8 +21,11 @@ image:
 ## 2016
 - **Bonnet, T.** & Postma, E. (2016). Successful by chance? The power of mixed models and neutral simulations
 for the detection of individual fixed heterogeneity in fitness components. _**The American Naturalist**_
-187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}. Recommended by  [![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
+187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}.
 
+Recommended by  [![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
+
+Honorable Mention for the Student Paper Prize from The American Society of Naturalists [![AmNat](/images/amnat.jpg)](http://www.amnat.org/announcements/ANN2017StuPaper.html)
 
 
 - García-Navas, V., **Bonnet, T.**, Waldvogel, D., Camenisch, G. & Postma, E. (2016).Consequences of female
