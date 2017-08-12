@@ -22,10 +22,8 @@ image:
 
 
 # __*Current territory:*__ Research School of Biology, The Australian University, Canberra
-<figure>
-	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
-	<figcaption><a href="" title="ANU"></a>.</figcaption>
-</figure>__*Lecturer position*__  
+![alt text](/images/ANU.jpg "ANU") __*Lecturer position*__  
+
 **Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
 _______________________
 
