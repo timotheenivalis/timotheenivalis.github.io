@@ -31,6 +31,11 @@ image:
   width: 77%;
   text-align: right;
 }
+.column-full{
+  float: right;
+  width: 100%;
+  text-align: right;
+}
 </style>
 
 
@@ -46,6 +51,12 @@ __*Lecturer position*__
 </div>
 <div class="column-right">
 **Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
+</div>
+
+
+<div class="column-full">
+
+Teste oijioz
 </div>
 _______________________
 
