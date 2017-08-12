@@ -21,6 +21,10 @@ image:
 </section><!-- /#table-of-contents -->
 
 <style>
+.wrap {
+   width: 600px;
+   margin: 0 auto;
+}
 .left {
     float: left;
     width: 50%;
@@ -29,14 +33,11 @@ image:
     float: right;
     width: 50%;
 }
-.all {
-  float: left;
-  width: 100%;
-}
 </style>
 
 # Current territory: Research School of Biology, The Australian University, Canberra
 
+<div class="wrap">
 <div class="left">
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
@@ -46,10 +47,9 @@ image:
 <div class="right">
 Collaborators: Loeske Kruuk
 </div>
-
-<div class="all">
-e
 </div>
+
+_____________
 
 # Current territory: Research School of Biology, The Australian University, Canberra
 
