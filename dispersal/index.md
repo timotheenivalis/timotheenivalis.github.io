@@ -28,7 +28,12 @@ image:
 .right {
     margin-left: 50%;
 }
+.all {
+
+}
 </style>
+
+## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 
 <div class="left">
 <figure>
@@ -40,8 +45,6 @@ image:
 Loeske Kruuk  
 </div>
 
-
-This page summarizes my trajectory across time, space, and research institutions.
 
 ## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 __*Lecturer position*__
