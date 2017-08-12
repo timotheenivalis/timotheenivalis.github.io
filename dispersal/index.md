@@ -29,22 +29,22 @@ image:
     width: 25%;
 }
 .all {
-
+  width: 100%;
 }
 </style>
 
-#### __*Current territory:*__ Research School of Biology, The Australian University, Canberra
+# Current territory: Research School of Biology, The Australian University, Canberra
 
 <div class="left">
-<figure>
-	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
-	<figcaption><a href="" title="ANU"></a>.</figcaption>
-</figure>
+oeahf
 </div>
 <div class = "right">
-Loeske Kruuk  
+oizef
 </div>
 
+<div class="all">
+rorivi
+</div>
 
 #### __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 __*Lecturer position*__
