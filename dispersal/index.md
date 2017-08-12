@@ -22,14 +22,11 @@ image:
 
 
 # __*Current territory:*__ Research School of Biology, The Australian University, Canberra
-__*Lecturer position*__
-
-**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
-
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
-</figure>
+</figure>__*Lecturer position*__  
+**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
 _______________________
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
