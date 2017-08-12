@@ -20,15 +20,15 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-left {
+<style>
+.left {
     float: left;
     width: 50%;
 }
-
 .right {
     margin-left: 50%;
 }
-
+</style>
 
 <div class="left">
 <figure>
