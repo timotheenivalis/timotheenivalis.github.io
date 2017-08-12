@@ -20,17 +20,38 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+<style>
+.column-left{
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: right;
+}
+</style>
+
+
 This page summarizes my trajectory across time, space, and research institutions.
 
 ## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 __*Lecturer position*__
-
-**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
-
+<div class="column-left">
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
 </figure>
+</div>
+<div class="column-right">
+**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
+</div>
 _______________________
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
@@ -48,6 +69,7 @@ _______________________
 __*Master thesis.*__
 
 **Collaborators:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
+_______________________
 
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
 __*Internship during my gap year.*__
@@ -57,7 +79,7 @@ __*Internship during my gap year.*__
 	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/logo_CEBC.png"></a>
 	<figcaption><a href="" title="CEBC"></a>.</figcaption>
 </figure>
-
+_______________________
 
 ## __*t-4:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
 __*Internship during my gap year.*__
@@ -69,6 +91,7 @@ __*Internship during my gap year.*__
 	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/cees.jpg"></a>
 	<figcaption><a href="" title="CEES"></a>.</figcaption>
 </figure>
+_______________________
 
 ## __*t-5:*__ Home is in Viane, Tarn, Occitanie, France
 __*Learning about European temperate wildlife from first hand experience.*__
@@ -77,7 +100,6 @@ __*Learning about European temperate wildlife from first hand experience.*__
 	<a href="http://viane.fr/presentation/"><img src="/images/roqueceziere.jpg"></a>
 	<figcaption><a href="" title="Viane"></a>.</figcaption>
 </figure>
-
 
 This page is based on an idea by my friend the great ecologist and skier [Chelsea J. Little](https://chelseajeanlittle.com/){:target="_blank"}
 {: .notice}
