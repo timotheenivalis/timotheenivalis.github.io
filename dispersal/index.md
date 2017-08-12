@@ -20,18 +20,26 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+left {
+    float: left;
+    width: 50%;
+}
 
-<div class = "row">
-<div class = "col-md-6">
+.right {
+    margin-left: 50%;
+}
+
+
+<div class="left">
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
 </figure>
 </div>
-<div class = "col-md-6">
+<div class = "right">
 Loeske Kruuk  
 </div>
-</div>
+
 
 This page summarizes my trajectory across time, space, and research institutions.
 
