@@ -26,14 +26,9 @@ image:
   width: 33%;
   text-align: left;
 }
-.column-center{
-  display: inline-block;
-  width: 33%;
-  text-align: center;
-}
 .column-right{
   float: right;
-  width: 33%;
+  width: 77%;
   text-align: right;
 }
 </style>
