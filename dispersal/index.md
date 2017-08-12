@@ -42,10 +42,10 @@ image:
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
-</figure>
+</figure>  
 </div>
 <div class="right">
-Collaborators: Loeske Kruuk
+Collaborators: Loeske Kruuk  
 </div>
 </div>
 
