@@ -42,8 +42,8 @@ image:
 This page summarizes my trajectory across time, space, and research institutions.
 
 ## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
-__*Lecturer position*__
 <div class="column-left">
+__*Lecturer position*__
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
@@ -57,7 +57,8 @@ __*Lecturer position*__
 <div class="column-full">
 
 Teste oijioz
-</div>
+
+
 _______________________
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
@@ -69,6 +70,9 @@ __*PhD thesis and first Post-doc.*__
 	<a href="http://www.ieu.uzh.ch/en.html"><img src="/images/uzhlogo.jpg"></a>
 	<figcaption><a href="" title="UZH"></a>.</figcaption>
 </figure>
+
+</div>
+
 _______________________
 
 ## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
