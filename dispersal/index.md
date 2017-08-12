@@ -31,7 +31,7 @@ __*Lecturer position*__
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
 </figure>
-
+_______________________
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 __*PhD thesis and first Post-doc.*__
@@ -42,7 +42,7 @@ __*PhD thesis and first Post-doc.*__
 	<a href="http://www.ieu.uzh.ch/en.html"><img src="/images/uzhlogo.jpg"></a>
 	<figcaption><a href="" title="UZH"></a>.</figcaption>
 </figure>
-
+_______________________
 
 ## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
 __*Master thesis.*__
