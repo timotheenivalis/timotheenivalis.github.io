@@ -35,6 +35,7 @@ image:
 }
 </style>
 
+<body>
 # Current territory: Research School of Biology, The Australian University, Canberra
 
 <div class="wrap">
@@ -49,7 +50,7 @@ Collaborators: Loeske Kruuk
 </div>
 </div>
 <br/>
-
+</body>
 _____________
 
 # Current territory: Research School of Biology, The Australian University, Canberra
