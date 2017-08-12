@@ -29,8 +29,7 @@ image:
 </figure>
 </div>
 <div class = "col-md-6">
-**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
-
+Loeske Kruuk  
 </div>
 </div>
 
