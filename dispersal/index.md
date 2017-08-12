@@ -38,14 +38,17 @@ image:
 # Current territory: Research School of Biology, The Australian University, Canberra
 
 <div class="left">
-oeahf
+<figure>
+	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
+	<figcaption><a href="" title="ANU"></a>.</figcaption>
+</figure>
 </div>
 <div class="right">
-oizef
+Collaborators: Loeske Kruuk
 </div>
 
 <div class="all">
-rorivi
+e
 </div>
 
 #### __*Current territory:*__ Research School of Biology, The Australian University, Canberra
