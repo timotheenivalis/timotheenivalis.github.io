@@ -26,6 +26,7 @@ image:
     width: 25%;
 }
 .right {
+    float: right;
     width: 25%;
 }
 .all {
@@ -38,7 +39,7 @@ image:
 <div class="left">
 oeahf
 </div>
-<div class = "right">
+<div class="right">
 oizef
 </div>
 
