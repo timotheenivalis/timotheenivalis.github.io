@@ -23,13 +23,14 @@ image:
 <style>
 .left {
     float: left;
-    width: 25%;
+    width: 50%;
 }
 .right {
     float: right;
-    width: 25%;
+    width: 50%;
 }
 .all {
+  float: left;
   width: 100%;
 }
 </style>
