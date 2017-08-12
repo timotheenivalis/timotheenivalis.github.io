@@ -20,45 +20,31 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-<style>
-.column-left{
-  float: left;
-  width: 33%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 77%;
-  text-align: right;
-}
-.column-full{
-  float: right;
-  width: 100%;
-  text-align: right;
-}
-</style>
 
-
-This page summarizes my trajectory across time, space, and research institutions.
-
-## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
-<div class="column-left">
-__*Lecturer position*__
+<div class = "row">
+<div class = "col-md-6">
 <figure>
 	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
 	<figcaption><a href="" title="ANU"></a>.</figcaption>
 </figure>
 </div>
-<div class="column-right">
+<div class = "col-md-6">
 **Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
+
+</div>
 </div>
 
+This page summarizes my trajectory across time, space, and research institutions.
 
-<div class="column-full">
+## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
+__*Lecturer position*__
 
-Teste oijioz
+**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
 
-
+<figure>
+	<a href="http://biology.anu.edu.au/"><img src="/images/ANU.jpg"></a>
+	<figcaption><a href="" title="ANU"></a>.</figcaption>
+</figure>
 _______________________
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
@@ -70,9 +56,6 @@ __*PhD thesis and first Post-doc.*__
 	<a href="http://www.ieu.uzh.ch/en.html"><img src="/images/uzhlogo.jpg"></a>
 	<figcaption><a href="" title="UZH"></a>.</figcaption>
 </figure>
-
-</div>
-
 _______________________
 
 ## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
