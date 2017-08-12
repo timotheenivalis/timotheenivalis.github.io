@@ -26,14 +26,14 @@ image:
     width: 50%;
 }
 .right {
-    margin-left: 50%;
+    width: 50%;
 }
 .all {
 
 }
 </style>
 
-## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
+#### __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 
 <div class="left">
 <figure>
@@ -46,7 +46,7 @@ Loeske Kruuk
 </div>
 
 
-## __*Current territory:*__ Research School of Biology, The Australian University, Canberra
+#### __*Current territory:*__ Research School of Biology, The Australian University, Canberra
 __*Lecturer position*__
 
 **Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics)
