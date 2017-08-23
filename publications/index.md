@@ -8,6 +8,7 @@ tags: [Timothée Bonnet, timothée bonnet, Chionomys nivalis, Evolution, publica
 image:
   feature:
 ---
+<span id='badgeCont419579' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont419579&mashlet=badge&showTitle=false&className=a&rid=B-8899-2015'></script></span>
 
 ## 2017
 - **Bonnet, T.**, Leblois, R., Rousset, F., Crochet, P.A. (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ Early view. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.
