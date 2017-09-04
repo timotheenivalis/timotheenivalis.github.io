@@ -2,9 +2,9 @@
 layout: page
 title: Research themes
 date: 2017-02-26T00:15:47+01:00
-modified: 2017-03-18T22:30:00+01:00
+modified: 2017-09-02T12:30:00+01:00
 excerpt: "Timothée Bonnet's research interests"
-tags: [timothee, research, biology]
+tags: [timothee, timothée, Timothee, Timothée, Bonnet, Timothée Bonnet, research, biology, evolution, snow voles, chionomys nivalis, hybridization, introgression]
 image:
   feature: nails.JPG
   credit: Timothée Bonnet
@@ -35,11 +35,16 @@ This website is still being constructed. You can have a look at my personal page
 
 # Contemporary evolution: how it works and whether it matters  
 
-I primarily study the causes and consequences of contemporary evolution in a natural population of a small rodent (snow voles), and how evolution contributes to population dynamics.
+Human activities changes the environment of many species, to the point where they can go extinct. Genetic adaptation is one thing that can allow them to persist, but
+1) Does genetic adaptation to environmental changes happen on contemporary time scales in wild populations?
+A subsidiary question more rarely asked, but the one we need to know whether populations persist of go extinct, is:
+2) Does it matter for population dynamics?
+
+Spoilers: Based on my PhD and postdoc work on a snow vole population, the answers are 1) absolutely, yes; and 2) probably yes, but it is very difficult to be sure.
 
 # Recursive evolution: hybridization and speciation
 
-I am also interested in the evolutionary consequences of hybridization.
+I am also interested in the evolutionary consequences of hybridization, in particular how genetic introgression affects varies along genomes, and why.
 
 # Biodiversity and human activities
 
