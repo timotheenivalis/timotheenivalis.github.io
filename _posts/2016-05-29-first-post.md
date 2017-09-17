@@ -2,24 +2,36 @@
 layout: post
 title: The snow vole project
 excerpt: "Furry friends e-vole-ve!"
-modified: 2017-02-24
-tags: [research, project, vole, chionomys, snow]
+date: 2017-02-24T23:10:10+01:00
+modified: 2017-09-17T18:21:00+09:00
+tags: [research, project, vole, chionomys nivalis, snow, timothée bonnet]
 comments: true
 image:
   feature: churwalden.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
-# What it is about
+# Capturing voles
+
+During my PhD, every summer I spent a few weeks on a scree in the Swiss Alps.
 Snow voles
 
 
-# Why in hell would I do that?
+# You are guessing snow voles can't be that interesting, why in hell would I do that?
 
-Also, it is nice to work in the mountains
+
+Also, it is nice to work in the Alps. You get to see tons of wild flowers, grouses, eagles, ibex, chamois, black salamanders...
 {: .notice}
 
-# What happened
+# What we found
+
+The snow vole population had been evolving over the ten years of monitoring. In particular, they evolved to be lighter and shorter (these are two traits we could measure accurately, other unmeasured traits certainly evolved too). Evolution can be the result of different processes: immigration, mutations, random transmission of genes from parents to offspring (genetic drift), and natural selection (non-random differences in survival or reproduction). Natural selection is the main driver of adaptation, and is crucial for population to respond to changes in their environment on the middle- and long-term. In this population, we were able to rule out immigration, mutations, and drift as important causes of evolution, leaving natural selection alone as the main driver of evolution. Moreover, we were able to link selective pressures to a major climatic fluctuation that affected the Alps during the years 2000.
+This snow vole population therefore provides an example of current genetic evolution in response to climate.
+
+Data collected during this monitoring were also used to address other questions:
+- Why are females the larger sex in some species of rodents, but the smaller sex in other ones?
+- How much does immigration prevent the loss of genetic diversity in a population?
+- Why do female snow voles move so little (they tend to stay in their native territory all their life)?
 
 ## References
 
@@ -39,5 +51,5 @@ Bonnet T, Wandeler P, Camenisch G, Postma E (2017) Bigger Is Fitter? Quantitativ
 
 <figure>
 	<a href=""><img src="/images/mesnovole.JPG"></a>
-	<figcaption><a href="" title="Furry friend">Furry friend</a>.</figcaption>
+	<figcaption><a href="" title="Furry friend, a.k.a. snow vole (and me in the background)">Furry friend</a>.</figcaption>
 </figure>
