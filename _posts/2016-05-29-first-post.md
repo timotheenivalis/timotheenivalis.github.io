@@ -14,10 +14,17 @@ image:
 # Capturing voles
 
 During my PhD, every summer I spent a few weeks on a scree in the Swiss Alps.
-Snow voles
+Together with one or two colleagues, we would set about 120 traps on a corner of the scree in the afternoon, all duly baited with apple and a dash of peanut butter, open them upon sunset, and leave for a short night.
+
+Before the crack of dawn, we would quickly swallow muesli in yogurt and a bad coffee and run back on the top of our mountain armed with supermarket shopping bags reinforced with yellow duct tape. And there they would be... **snow voles** !
+<figure>
+	<a href=""><img src="/images/capturevole.jpg"></a>
+	Furry friend</a>.</figcaption>
+</figure>
 
 
 # You are guessing snow voles can't be that interesting, why in hell would I do that?
+
 
 
 Also, it is nice to work in the Alps. You get to see tons of wild flowers, grouses, eagles, ibex, chamois, black salamanders...
@@ -27,11 +34,6 @@ Also, it is nice to work in the Alps. You get to see tons of wild flowers, grous
 
 The snow vole population had been evolving over the ten years of monitoring. In particular, they evolved to be lighter and shorter (these are two traits we could measure accurately, other unmeasured traits certainly evolved too). Evolution can be the result of different processes: immigration, mutations, random transmission of genes from parents to offspring (genetic drift), and natural selection (non-random differences in survival or reproduction). Natural selection is the main driver of adaptation, and is crucial for population to respond to changes in their environment on the middle- and long-term. In this population, we were able to rule out immigration, mutations, and drift as important causes of evolution, leaving natural selection alone as the main driver of evolution. Moreover, we were able to link selective pressures to a major climatic fluctuation that affected the Alps during the years 2000.
 This snow vole population therefore provides an example of current genetic evolution in response to climate.
-
-Data collected during this monitoring were also used to address other questions:
-- Why are females the larger sex in some species of rodents, but the smaller sex in other ones?
-- How much does immigration prevent the loss of genetic diversity in a population?
-- Why do female snow voles move so little (they tend to stay in their native territory all their life)?
 
 ## References
 
