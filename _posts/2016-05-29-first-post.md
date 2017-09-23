@@ -11,14 +11,16 @@ image:
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
-# Capturing voles
+# Scree adventure
 
 During my PhD, every summer I spent a few weeks on a scree in the Swiss Alps.
 Together with one or two colleagues, we would set about 120 traps on a corner of the scree in the afternoon, all duly baited with apple and a dash of peanut butter, open them upon sunset, and leave for a short night.
 
 Before the crack of dawn, we would quickly swallow muesli in yogurt and a bad coffee and run back on the top of our mountain armed with supermarket shopping bags reinforced with yellow duct tape. And there they would be... **snow voles** !
+<figure>
+	<a href=""><img src="/images/capturevole.jpg">
+</figure>
 
-	<a href=""><img src="/images/capturevole.jpg"></a>
 
 # You are guessing snow voles can't be that interesting, why in hell would I do that?
 
