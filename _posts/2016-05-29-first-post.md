@@ -17,14 +17,15 @@ During my PhD, every summer I spent a few weeks on a scree in the Swiss Alps.
 Together with one or two colleagues, we would set about 120 traps on a corner of the scree in the afternoon, all duly baited with apple and a dash of peanut butter, open them upon sunset, and leave for a short night.
 
 Before the crack of dawn, we would quickly swallow muesli in yogurt and a bad coffee and run back on the top of our mountain armed with supermarket shopping bags reinforced with yellow duct tape. And there they would be... **snow voles** !
+
 <figure>
-	<a href=""><img src="/images/capturevole.jpg">
+  <img src="/images/capturevole.jpg">
 </figure>
 
 
 # You are guessing snow voles can't be that interesting, why in hell would I do that?
 
-
+We know the environment of many species is changing more rapidly than ever in human memory. These
 
 Also, it is nice to work in the Alps. You get to see tons of wild flowers, grouses, eagles, ibex, chamois, black salamanders...
 {: .notice}
