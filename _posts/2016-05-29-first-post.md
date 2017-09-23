@@ -16,7 +16,7 @@ image:
 During my PhD, every summer I spent a few weeks on a scree in the Swiss Alps.
 Together with one or two colleagues, we would set about 120 traps on a corner of the scree in the afternoon, all duly baited with apple and a dash of peanut butter, open them upon sunset, and leave for a short night.
 
-Before the crack of dawn, we would quickly swallow muesli in yogurt and a bad coffee and run back on the top of our mountain armed with supermarket shopping bags reinforced with yellow duct tape. And there they would be... **snow voles** !
+Before the crack of dawn, we would quickly swallow muesli in yogurt and a bad coffee and run back on the top of our mountain armed with supermarket shopping bags reinforced with yellow duct tape (these are to collect traps). And there they would be... **snow voles** !
 
 <figure>
   <img src="/images/capturevole.jpg">
@@ -25,9 +25,16 @@ Before the crack of dawn, we would quickly swallow muesli in yogurt and a bad co
 
 # You are guessing snow voles can't be that interesting, why in hell would I do that?
 
-We know the environment of many species is changing more rapidly than ever in human memory. These
+We know the environment of many species is changing more rapidly than ever in human memory. Biologists often recognize four ways in which wild populations can respond to these changes: they can genetically adapt, they can cope with changes plasticly (that is, they change directly in response to the environment, without genetic change), they can move to track their ideal conditions, or... sad face... they can die out.
 
-Also, it is nice to work in the Alps. You get to see tons of wild flowers, grouses, eagles, ibex, chamois, black salamanders...
+On the long run, the best way for populations to persist is to genetically adapt. We know that evolution can sometimes happen sufficiently fast to rescue populations from extinction, there are some good examples, but in general we don't know how likely rapid adaptive evolution is, and we don't understand well how environmental changes translates into evolution.
+
+How do we fix the ignorance of the human kind?
+By going to the field, collecting data in natural populations, and passing them through the sieve of the scientific method, statistics, muesli and bad coffee.
+
+Hence me hoping like an ibex with an Ikea bag on the scree.
+
+Also, it is nice to spend time in the Alps. You get to see tons of wild flowers, grouses, eagles, ibex, chamois, black salamanders, summer snow, deer bellowing in the middle of the night...
 {: .notice}
 
 # What we found
