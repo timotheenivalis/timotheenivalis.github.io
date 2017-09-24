@@ -8,7 +8,7 @@ tags: [Naturalism, Birding, Timothée, Bonnet, Timothée Bonnet, Australia, Bird
 categories:
 comments: true
 image:
-  feature: churwalden.JPG
+  feature: galah.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
@@ -17,7 +17,14 @@ I have just moved to from Western Europe to Canberra, Australia, and currently p
 
 # Becoming a bird expert again
 
+# Reconquest beyond birds
+
 # Where do I stop?
+
+<figure>
+  <img src="/images/HuntmanSpider.jpg">
+</figure>
+
 
 <section id="table-of-contents" class="toc">
   <header>
