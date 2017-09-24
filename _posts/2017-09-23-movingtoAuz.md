@@ -2,8 +2,8 @@
 layout: post
 title: Life as an itinerant naturalist
 excerpt:"It is tough being a naturalist newbie again"
-date: 2017-09-24T14:30:02+08:00
-modified: 2017-09-24T14:31:02+08:00
+date: 2017-09-23T14:30:02+08:00
+modified: 2017-09-23T14:31:02+08:00
 tags: [Naturalism, Birding, Timothée, Bonnet, Timothée Bonnet, Australia, Birds, birdwatching, orchids, insects, herpethology, reptiles, amphibians, mammals, flowers, outside, outdoor]
 categories:
 comments: true
