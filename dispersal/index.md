@@ -29,20 +29,18 @@ image:
 _______________________
 
 ## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
-__*PhD thesis and first Post-doc.*__
+
+![alt text](/images/uzhlogo.jpg "UZH") __*PhD thesis and first Post-doc.*__
 
 **Collaborators:** [Erik Postma](http://erikpostma.net/index.html), [Arpat Ozgul](http://www.popecol.org/team/arpat-ozgul/), [Koen van Benthem](http://www.popecol.org/team/koen-van-benthem/), [Vicente García-Navas](http://vicentegarcianavas.weebly.com/), [Glauco Camenisch](http://independent.academia.edu/GlaucoCamenisch), [Peter Wandeler](http://www.fr.ch/mhn/de/pub/museum/museums_mannschaft.htm).
 
-<figure>
-	<a href="http://www.ieu.uzh.ch/en.html"><img src="/images/uzhlogo.jpg"></a>
-	<figcaption><a href="" title="UZH"></a>.</figcaption>
-</figure>
 _______________________
 
 ## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
-__*Master thesis.*__
+![alt text](/images/LOGO_MP2 "UM2") __*Master thesis.*__
 
 **Collaborators:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
+
 _______________________
 
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
