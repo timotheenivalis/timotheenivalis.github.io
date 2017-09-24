@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Life as an itinerant naturalist
+excerpt:"It is tough being a naturalist newbie again"
 date: 2017-09-24T14:30:02+08:00
 modified: 2017-09-24T14:31:02+08:00
+tags: [Naturalism, Birding, Timothée, Bonnet, Timothée Bonnet, Australia, Birds, birdwatching, orchids, insects, herpethology, reptiles, amphibians, mammals, flowers, outside, outdoor]
 categories:
 comments: true
-excerpt:"It is tough being a naturalist newbie again"
-tags: [Naturalism, Birding, Timothée, Bonnet, Timothée Bonnet, Australia, Birds, birdwatching, orchids, insects, herpethology, reptiles, amphibians, mammals, flowers, outside, outdoor]
 image:
-  feature:
+  feature: churwalden.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
@@ -17,7 +17,7 @@ I have just moved to from Western Europe to Canberra, Australia, and currently p
 
 # Becoming a bird expert again
 
-# Where do I stop? 
+# Where do I stop?
 
 <section id="table-of-contents" class="toc">
   <header>
