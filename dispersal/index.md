@@ -44,7 +44,7 @@ _______________________
 _______________________
 
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
-![alt text](/images/logo.CEBC.png "CEBC") __*Internship during my gap year.*__
+![alt text](/images/logo_CEBC.png "CEBC") __*Internship during my gap year.*__
 
 **Collaborators:** Bertrand Gauffre, Adrien Pinot & Vincent Bretagnolle.
 
