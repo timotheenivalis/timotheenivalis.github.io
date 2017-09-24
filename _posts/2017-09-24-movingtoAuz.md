@@ -1,12 +1,30 @@
 ---
 layout: post
-title: Sparrow Hybrids
-modified:
-categories: 
-excerpt:
-tags: []
+title: Life as an itinerant naturalist
+date: 2017-09-24T14:30:02+08:00
+modified: 2017-09-24T14:31:02+08:00
+categories:
+comments: true
+excerpt:"It is tough being a naturalist newbie again"
+tags: [Naturalism, Birding, Timothée, Bonnet, Timothée Bonnet, Australia, Birds, birdwatching, orchids, insects, herpethology, reptiles, amphibians, mammals, flowers, outside, outdoor]
 image:
   feature:
-date: 2017-02-25T23:24:02+01:00
+  credit: Timothee Bonnet
+  creditlink: http://timotheenivalis.github.io
 ---
 
+I have just moved to from Western Europe to Canberra, Australia, and currently plan to stay there for the next three years.
+
+# Becoming a bird expert again
+
+# Where do I stop? 
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
