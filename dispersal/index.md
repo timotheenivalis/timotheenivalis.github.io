@@ -37,32 +37,25 @@ _______________________
 _______________________
 
 ## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
-![alt text](/images/LOGO_MP2 "UM2") __*Master thesis.*__
+![alt text](/images/LOGO_MP2.png "UM2") __*Master thesis.*__
 
 **Collaborators:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
 
 _______________________
 
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
-__*Internship during my gap year.*__
+![alt text](/images/logo.CEBC.png "CEBC") __*Internship during my gap year.*__
 
 **Collaborators:** Bertrand Gauffre, Adrien Pinot & Vincent Bretagnolle.
-<figure>
-	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/logo_CEBC.png"></a>
-	<figcaption><a href="" title="CEBC"></a>.</figcaption>
-</figure>
+
 _______________________
 
 ## __*t-4:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
-__*Internship during my gap year.*__
+![alt text](/images/cees.jpg "CEES") __*Internship during my gap year.*__
 
 **Collaborators:**
  Glenn-Peter Sætre, Tore Oldeide Elgvin, Jo Skeie Hermansen, Anna Fijarczyk.
 
-<figure>
-	<a href="http://www.cebc.cnrs.fr/GB_index.htm"><img src="/images/cees.jpg"></a>
-	<figcaption><a href="" title="CEES"></a>.</figcaption>
-</figure>
 _______________________
 
 ## __*t-5:*__ Home is in Viane, Tarn, Occitanie, France
