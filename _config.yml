@@ -51,8 +51,8 @@ analytics:
 owner:
   name: Timothée Bonnet
   avatar: biophoto.jpg
-  bio: "Evolutionary biologist/ecologist or something around that"
-  email: timothee.bonnet@ieu.uzh.ch
+  bio: "Evolutionary biologist/ecologist"
+  email: timotheebonnetc@gmail.com
   disqus-shortname:
   twitter: TimotheeBonnet
   facebook: #username
@@ -93,6 +93,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+# Comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-timotheenivalis-github-io"
