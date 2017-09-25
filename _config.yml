@@ -96,6 +96,17 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      comments: true
+      read_time: true
+      share: true
+      author_profile: true
+      related: false
+
 # Comments
 comments:
   provider: "disqus"
