@@ -23,15 +23,6 @@ image:
 
 I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching.
 
----
-## Warning
-This website is still being constructed. You can have a look at my personal pages on the websites of my current groups:
-<div markdown="0"><a href="http://www.popecol.org/team/timothee-bonnet/" class="btn btn-success">PopEcol</a></div>
-<div markdown="0"><a
- href="http://erikpostma.net/group.html#timothee" class="btn btn-info">Postma's group</a></div>
-
- ---
-
 
 # Contemporary evolution: how it works and whether it matters  
 
@@ -48,7 +39,7 @@ I am also interested in the evolutionary consequences of hybridization, in parti
 
 # Biodiversity and human activities
 
-Although it is currently not a research focus of mine, I find hard to imagine doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides).
+Although it is currently not a major research focus of mine, it is difficult doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides).
 
 How do small field mammals deal with repeated disturbance associated with modern farming?
 For more on this thematic, check out the work of [Bertrand Gauffre](http://www.cebc.cnrs.fr/Fidentite/gauffre/GB_gauffre.htm), and the team [AgriPop](http://www.za.plainevalsevre.cnrs.fr/).
