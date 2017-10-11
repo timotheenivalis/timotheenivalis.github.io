@@ -11,6 +11,16 @@ image:
 
 <span id='badgeCont419579' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont419579&mashlet=badge&showTitle=false&className=a&rid=B-8899-2015'></script></span>
 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 ## 2017
 - **Bonnet, T.**, Leblois, R., Rousset, F., Crochet, P.A. (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ Early view. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.
 
@@ -51,3 +61,7 @@ G.P. (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Mo
 
 - **Bonnet, T.**, Slagsvold, P.K. & Sætre, G.P. (2011). Genetic species identification of a Collared Pied
 Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1007/s10336-011-0703-4](https://link.springer.com/article/10.1007%2Fs10336-011-0703-4){:target="_blank"}.
+
+## Published data
+
+- **Bonnet, T.**, Postma, E (2016). Data from: Successful by chance? the power of mixed models and neutral simulations for the detection of individual fixed heterogeneity in fitness components. _**Dryad Digital Repository**_. (https://doi.org/10.5061/dryad.3cb61)[https://doi.org/10.5061/dryad.3cb61].
