@@ -35,13 +35,12 @@ Spoilers: Based on my PhD and postdoc work on a snow vole population, the answer
 
 # Recursive evolution: hybridization and speciation
 
-I am also interested in the evolutionary consequences of hybridization. Closely related species sometimes hybridize and exchange genes (introgression) after having diverged, leading to recursive evolution. I have done work on how this process can create new species ([Elgvin et al. 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract), and on why some parts of the genome tend to introgress more that others ([Bonnet et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full)).
+I am also interested in the evolutionary consequences of hybridization. Closely related species sometimes hybridize and exchange genes (introgression) after having diverged, leading to recursive evolution. I have done work on how this process can create new species ([Elgvin et al. 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract)), and on why some parts of the genome tend to introgress more that others ([Bonnet et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full)).
 
 # Biodiversity and human activities
 
 Although it is currently not a major research focus of mine, it is difficult doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides).
 
-How do small field mammals deal with repeated disturbance associated with modern farming?
-For more on this thematic, check out the work of [Bertrand Gauffre](http://www.cebc.cnrs.fr/Fidentite/gauffre/GB_gauffre.htm), and the team [AgriPop](http://www.za.plainevalsevre.cnrs.fr/).
+I studied how voles deal with repeated disturbance associated with modern farming ([Bonnet et al. 2013](http://dx.doi.org/10.1016/j.agee.2013.05.005)). Spoiler: they get literally crushed, but take advantage of productive crops to reproduce fast between two ploughing events.
 
-I did an internship on the conservation of birds in extensive Alpine meadows and contributed with a local branch of Birdlife France ( [LPO Isère](http://isere.lpo.fr/) ).
+I did an internship on the conservation of birds in extensive Alpine meadows with a local branch of Birdlife France ( [LPO Isère](http://isere.lpo.fr/) ).
