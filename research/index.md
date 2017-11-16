@@ -35,7 +35,7 @@ Spoilers: Based on my PhD and postdoc work on a snow vole population, the answer
 
 # Recursive evolution: hybridization and speciation
 
-I am also interested in the evolutionary consequences of hybridization, in particular how genetic introgression affects varies along genomes, and why.
+I am also interested in the evolutionary consequences of hybridization. Closely related species sometimes hybridize and exchange genes (introgression) after having diverged, leading to recursive evolution. I have done work on how this process can create new species ([Elgvin et al. 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract), and on why some parts of the genome tend to introgress more that others ([Bonnet et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full)).
 
 # Biodiversity and human activities
 
