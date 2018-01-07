@@ -21,6 +21,9 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+## 2018
+- (Hopefully) coming soon on this screen: *Fluctuating selection and its evolutionary relevance*; *Correcting measurement error for quantitative genetic models*; *Synchrony in survival across bird species at a country scale*; *Repeatability and evolutionary potential in metabolic rates*.
+
 ## 2017
 - **Bonnet, T**, Leblois, R, Rousset, F, Crochet, PA (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ 71(9): 2140-2158. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.
 
