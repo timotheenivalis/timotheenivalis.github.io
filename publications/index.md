@@ -24,7 +24,7 @@ image:
 ## 2018
 - (Hopefully) coming soon on this screen: *Genetic evolution of parturition in a red deer population*; *Synchrony in survival across bird species at a country scale*
 
-- Ponzi, E, **Bonnet, T**, Keller, L & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**BioRxiv**_ Preprint. [doi:https://doi.org/10.1101/247189](https://www.biorxiv.org/content/early/2018/01/12/247189)
+- Ponzi, E, **Bonnet, T**, Keller, L & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**BioRxiv**_ Preprint. [doi:https://doi.org/10.1101/247189](https://www.biorxiv.org/content/early/2018/01/15/247189)
 
 - **Bonnet, T** & Postma, E (2018). Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Journal of Evolutionary Biology**_ 31(4): 572-586. [doi:10.1111/jeb.13246](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full)
 
