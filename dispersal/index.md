@@ -22,7 +22,7 @@ image:
 
 
 # __*Current territory:*__ Research School of Biology, The Australian University, Canberra
-![alt text](/images/ANU.jpg "ANU") __*Lecturer position*__  
+![alt text](/images/ANU.jpg "ANU") __*Post-doc position*__  
 
 **Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics), [Andrew Cockburn](http://biology.anu.edu.au/people/andrew-cockburn)
 
