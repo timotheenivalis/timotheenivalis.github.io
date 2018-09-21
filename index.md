@@ -12,6 +12,8 @@ image:
 ---
 I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching. I am currently a Lecturer at the Australian National University (Research School of Biology, Canberra).  
 
+For a complete CV see [here](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
+
 *Thanks for visiting my website. Here is how it is (dis-)organized:*
 - [A brief overview of my research interests](/research/)
 - [A list of publications](/publications/)
