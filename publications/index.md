@@ -22,7 +22,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## 2018
-- (Hopefully) coming soon on this screen: *Genetic evolution of parturition in a red deer population*; *Synchrony in survival across bird species at a country scale*
+- (Hopefully) coming soon on this screen: *Genetic evolution of parturition in a red deer population*; *Synchrony in survival across bird species at a country scale; *How to estimate genetic variance in fitness from Poisson, overdispersed and Zero-Inflated data.*
 
 - Ponzi, E, Keller, L, **Bonnet, T** & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**Evolution**_ early view. [doi:10.1111/evo.13573](https://doi.org/10.1111/evo.13573){:target="_blank"}
 
