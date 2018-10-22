@@ -39,7 +39,7 @@ I am also interested in the evolutionary consequences of hybridization. Closely 
 
 # Biodiversity and human activities
 
-Although it is currently not a major research focus of mine, it is difficult doing wildlife research without thinking about the effects of human activities on biodiversity (sadly mainly negative, but do not forget the good sides).
+Although it is currently not a major research focus of mine, it is difficult doing wildlife research without thinking about the effects of human activities on biodiversity.
 
 I studied how voles deal with repeated disturbance associated with modern farming ([Bonnet et al. 2013](http://dx.doi.org/10.1016/j.agee.2013.05.005)). Spoiler: they get literally crushed, but take advantage of productive crops to reproduce fast between two ploughing events.
 
