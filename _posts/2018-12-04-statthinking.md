@@ -8,7 +8,7 @@ tags: [timothée bonnet, tutorial, r, r-stats, statistics, workshop, coding]
 categories: [teaching, science, coding, statistics]
 comments: true
 image:
-  feature: rscreenshot.jpg
+  feature: Rcapture.jpg
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
