@@ -2,7 +2,7 @@
 layout: home
 title: Home
 date: 2017-02-25T23:28:58+01:00
-modified: 2017-08-23T16:59:00+02:00
+modified: 2018-12-24T18:02:00+09:00
 excerpt: "Timothée Bonnet's research website."
 tags: [Timothée Bonnet, research, quantitative genetics, Chionomys nivalis, snow vole, home]
 image:
@@ -10,14 +10,14 @@ image:
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
-I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching. I am currently a Lecturer at the Australian National University (Research School of Biology, Canberra).  
+I am an evolutionary biologist primarily interested in recent genetic evolution and its interaction with the ecology and life-history of the organisms I see around me while hiking or birdwatching. I am currently a post-doctorate at the Australian National University (Research School of Biology, Canberra).
 
-For a complete CV see [here](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
+A complete CV hides [here](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
 
-*Thanks for visiting my website. Here is how it is (dis-)organized:*
-- [A brief overview of my research interests](/research/)
-- [A list of publications](/publications/)
-- [My current and past affiliations and collaborations](/dispersal/)
+*Find your way :*
+- [Overview of my research interests](/research/)
+- [Publication most](/publications/)
+- [Current and past affiliations and collaborations](/dispersal/)
 - [Some information on my non-so-academic interests](/outside/)
-- [A blog in case I happen to be not so lazy](/posts/)
+- [The latest news!](/posts/)
 - [Contact information](/contact/)
