@@ -31,7 +31,9 @@ Human activities changes the environment of many species, to the point where the
 A subsidiary question more rarely asked, but the one we need to know whether populations persist of go extinct, is:
 2) Does it matter for population dynamics?
 
-Spoilers: Based on my PhD and postdoc work on a snow vole population, the answers are 1) absolutely, yes; and 2) probably yes, but it is very difficult to be sure.
+Spoilers: Based on my PhD and postdoc work on a snow vole population, the answers are 1) absolutely, yes ([Bonnet et Postma 2018](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full), [Bonnet et al. 2017](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592)); and 2) probably yes, but it is very difficult to be sure.
+
+# Statistical methods for evolutionary quantitative genetics
 
 # Recursive evolution: hybridization and speciation
 
@@ -40,6 +42,8 @@ I am also interested in the evolutionary consequences of hybridization. Closely 
 # Biodiversity and human activities
 
 Although it is currently not a major research focus of mine, it is difficult doing wildlife research without thinking about the effects of human activities on biodiversity.
+
+With CNRS researchers (Manon Ghislain, [Pierre-Yves Henry](http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves), [Olivier Giminez](https://oliviergimenez.github.io/)), we are working to measure how much the survival of songbird is synchronized among species at the scale of France, and what climatic variables are responsible for killing or sustaining all songbird species. A paper presenting our findings should come out in 2019.
 
 I studied how voles deal with repeated disturbance associated with modern farming ([Bonnet et al. 2013](http://dx.doi.org/10.1016/j.agee.2013.05.005)). Spoiler: they get literally crushed, but take advantage of productive crops to reproduce fast between two ploughing events.
 
