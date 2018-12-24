@@ -46,7 +46,7 @@ _______________________
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
 ![alt text](/images/logo_CEBC.png "CEBC") __*Internship during my gap year.*__
 
-**Collaborators:** Bertrand Gauffre, Adrien Pinot & Vincent Bretagnolle.
+**Collaborators:** [Bertrand Gauffre](https://orcid.org/0000-0001-5431-8098), [Adrien Pinot](https://www.researchgate.net/profile/Adrien_Pinot) & [Vincent Bretagnolle](https://scholar.google.com/citations?user=8TZfEwsAAAAJ&hl=fr).
 
 _______________________
 
@@ -54,7 +54,7 @@ _______________________
 ![alt text](/images/cees.jpg "CEES") __*Internship during my gap year.*__
 
 **Collaborators:**
- Glenn-Peter Sætre, Tore Oldeide Elgvin, Jo Skeie Hermansen, Anna Fijarczyk.
+ [Glenn-Peter Sætre](https://www.mn.uio.no/cees/english/people/core/glennp/), [Tore Oldeide Elgvin](https://www.nhm.uio.no/english/about/organization/exhibitions-public-services/people/toreoe/index.html), [Jo Skeie Hermansen](https://www.mn.uio.no/cees/english/people/researcher-postdoc/josh/), [Anna Fijarczyk](https://landrylab.ibis.ulaval.ca/?page_id=1411).
 
 _______________________
 
