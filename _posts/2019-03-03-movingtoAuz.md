@@ -5,7 +5,7 @@ excerpt: "It is tough being a naturalist newbie again"
 date: 2019-03-03T23:36:02+11:00
 modified: 2019-03-03T23:36:02+11:00
 tags: [Naturalism, Birding, Timothée, Bonnet, Timothée Bonnet, Australia, Birds, birdwatching, orchids, insects, herpethology, reptiles, amphibians, mammals, flowers, outside, outdoor]
-categories:
+categories: [outside, naturalism]
 comments: true
 image:
   feature: galah.jpg
