@@ -21,10 +21,12 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-# __*Current territory:*__ Research School of Biology, The Australian University, Canberra
-![alt text](/images/ANU.jpg "ANU") __*Post-doc position*__  
+# __*Current territory:*__ Research School of Biology and Biological Data Science Institute, The Australian University, Canberra
+![alt text](/images/ANU.jpg "ANU") __*Post-doc*__  
 
-**Collaborators:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics), [Andrew Cockburn](http://biology.anu.edu.au/people/andrew-cockburn)
+**Working with:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics), [Andrew Cockburn](http://biology.anu.edu.au/people/andrew-cockburn), [Michael Morrissey](https://synergy.st-andrews.ac.uk/megaloceros/).
+
+Also helping with statistics and programming at the [Biological Data Science Institute](http://bdsi.anu.edu.au/).
 
 _______________________
 
@@ -32,21 +34,21 @@ _______________________
 
 ![alt text](/images/uzhlogo.jpg "UZH") __*PhD thesis and first Post-doc.*__
 
-**Collaborators:** [Erik Postma](http://erikpostma.net/index.html), [Arpat Ozgul](http://www.popecol.org/team/arpat-ozgul/), [Koen van Benthem](http://www.popecol.org/team/koen-van-benthem/), [Vicente García-Navas](http://vicentegarcianavas.weebly.com/), [Glauco Camenisch](http://independent.academia.edu/GlaucoCamenisch), [Peter Wandeler](http://www.fr.ch/mhn/de/pub/museum/museums_mannschaft.htm).
+**Supervised by:** [Erik Postma](http://erikpostma.net/index.html), and **Working with:** [Arpat Ozgul](http://www.popecol.org/team/arpat-ozgul/), [Koen van Benthem](http://www.popecol.org/team/koen-van-benthem/), [Vicente García-Navas](http://vicentegarcianavas.weebly.com/), [Glauco Camenisch](http://independent.academia.edu/GlaucoCamenisch), [Peter Wandeler](http://www.fr.ch/mhn/de/pub/museum/museums_mannschaft.htm).
 
 _______________________
 
 ## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
 ![alt text](/images/LOGO_MP2.png "UM2") __*Master thesis.*__
 
-**Collaborators:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
+**Supervised by:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
 
 _______________________
 
 ## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
 ![alt text](/images/logo_CEBC.png "CEBC") __*Internship during my gap year.*__
 
-**Collaborators:** [Bertrand Gauffre](https://orcid.org/0000-0001-5431-8098), [Adrien Pinot](https://www.researchgate.net/profile/Adrien_Pinot) & [Vincent Bretagnolle](https://scholar.google.com/citations?user=8TZfEwsAAAAJ&hl=fr).
+**Supervised by:** [Bertrand Gauffre](https://orcid.org/0000-0001-5431-8098), [Adrien Pinot](https://www.researchgate.net/profile/Adrien_Pinot) & [Vincent Bretagnolle](https://scholar.google.com/citations?user=8TZfEwsAAAAJ&hl=fr).
 
 _______________________
 
