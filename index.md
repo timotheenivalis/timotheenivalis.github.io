@@ -16,7 +16,7 @@ A complete CV hides [here](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
 
 *Find your way :*
 - [Overview of my research interests](/research/)
-- [Publication most](/publications/)
+- [Publication](/publications/)
 - [Current and past affiliations and collaborations](/dispersal/)
 - [Some information on my non-so-academic interests](/outside/)
 - [The latest news!](/posts/)
