@@ -22,9 +22,11 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## 2019
-- (Hopefully) coming soon on this screen: *Genetic evolution of parturition in a red deer population*; *Synchrony in survival across bird species at a country scale; *How to estimate genetic variance in fitness from Poisson, overdispersed and Zero-Inflated data.*
+- (Hopefully) coming soon on this screen: *Genetic evolution of parturition in a red deer population*; *Synchrony in survival across bird species at a country scale.*
 
 - **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ accepted for a special issue to be published in May 2019. 
+
+- Morrissey, M & **Bonnet, T** (2019). Analogues of the fundamental and secondary theorems of selection, assuming a log-normal distribution of expected fitness. _**Journal of Heredity**_ accepted for a special issue to be published in May 2019. 
 
 ## 2018
 - Ponzi, E, Keller, L, **Bonnet, T** & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**Evolution**_ early view. [doi:10.1111/evo.13573](https://doi.org/10.1111/evo.13573){:target="_blank"}
