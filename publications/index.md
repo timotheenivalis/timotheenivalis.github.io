@@ -46,7 +46,8 @@ image:
 - **Bonnet, T** & Postma, E (2016). Successful by chance? The power of mixed models and neutral simulations
 for the detection of individual fixed heterogeneity in fitness components. _**The American Naturalist**_
 187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}. 
-[![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
+[![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](publications/bonnetetal2016bib.txt){:target="_blank"}
 
 
 
