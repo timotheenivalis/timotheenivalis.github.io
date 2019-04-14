@@ -53,7 +53,7 @@ for the detection of individual fixed heterogeneity in fitness components. _**Th
  
 <div class="wsite-spacer" style="height:18px;"></div>
 
-[![bibtex](/images/bibtex_3.png)](bonnetetal2016bib.txt){:target="_blank"}
+[![bibtex](/images/bibtex_3.png)](bonnetetal2016.bib){:target="_blank"}
 
 
 
