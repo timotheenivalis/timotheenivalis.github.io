@@ -1,0 +1,139 @@
+@article{Benthem,
+	title = {Disentangling evolutionary , plastic and demographic processes underlying trait dynamics : {A} review of four frameworks},
+	volume = {8},
+	issn = {2041210X},
+	doi = {10.1111/2041-210X.12627},
+	number = {1},
+	journal = {Methods in Ecology and Evolution},
+	author = {Benthem, Koen J Van and Bruijning, Marjolein and Bonnet, Timothée and Jongejans, Eelke and Postma, Erik and Ozgul, Arpat},
+	year = {2017},
+	pages = {75--85}
+}
+
+@article{Bonnet2011,
+	title = {Genetic species identification of a {Collared} {Pied} {Flycatcher} from {Norway}},
+	volume = {152},
+	issn = {0021-8375},
+	url = {http://www.journals.uchicago.edu/doi/10.1086/684158},
+	doi = {10.1007/s10336-011-0703-4},
+	number = {4},
+	urldate = {2011-09-27},
+	journal = {Journal of Ornithology},
+	author = {Bonnet, Timothée and Slagsvold, Per Kristian and Sætre, Glenn-Peter},
+	month = may,
+	year = {2011},
+	pages = {1069--1073},
+}
+@article{Bonnet2013,
+	title = {How the common vole copes with modern farming: {Insights} from a capture–mark–recapture experiment},
+	volume = {177},
+	issn = {01678809},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0167880913001448},
+	doi = {10.1016/j.agee.2013.05.005},
+	journal = {Agriculture, Ecosystems \& Environment},
+	author = {Bonnet, Timothée and Crespin, Laurent and Pinot, Adrien and Bruneteau, Laurent and Bretagnolle, Vincent and Gauffre, Bertrand},
+	month = sep,
+	year = {2013},
+	pages = {21--27}
+}
+
+@article{Bonnet2016,
+	title = {Successful by {Chance} ? {The} {Power} of {Mixed} {Models} and {Neutral} {Simulations} for the {Detection} of {Individual} {Fixed} {Heterogeneity} in {Fitness} {Components}},
+	volume = {187},
+	url = {http://www.jstor.org/stable/10.1086/684158},
+	doi = {10.1086/684158},
+	number = {1},
+	journal = {The American naturalist},
+	author = {Bonnet, Timothée and Postma, Erik},
+	year = {2016},
+	pages = {60--74}
+}
+
+@article{Bonnet2017,
+	title = {Bigger {Is} {Fitter}? {Quantitative} {Genetic} {Decomposition} of {Selection} {Reveals} an {Adaptive} {Evolutionary} {Decline} of {Body} {Mass} in a {Wild} {Rodent} {Population}},
+	volume = {15},
+	url = {http://dx.plos.org/10.1371/journal.pbio.1002592},
+	doi = {10.1371/journal.pbio.1002592},
+	number = {1},
+	journal = {PLOS Biology},
+	author = {Bonnet, Timothée and Wandeler, Peter and Camenisch, Glauco and Postma, Erik},
+	year = {2017},
+	pages = {e1002592}
+}
+
+@article{bonnet_reassessment_2017,
+	title = {A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes},
+	url = {http://doi.wiley.com/10.1111/evo.13296},
+	doi = {10.1111/evo.13296},
+	journal = {Evolution},
+	author = {Bonnet, Timothée and Leblois, Raphaël and Rousset, François and Crochet, Pierre-André},
+	year = {2017},
+	pages = {1--19}
+}
+
+@article{bonnet_fluctuating_2018,
+	title = {Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population},
+	doi = {10.1111/jeb.13246},
+	author = {Bonnet, T and Postma, E},
+	year = {2018},
+	pages = {1--15},
+}
+
+@article{Elgvin2011,
+	title = {Hybrid speciation in sparrows {II}: a role for sex chromosomes?},
+	volume = {20},
+	url = {http://www.ncbi.nlm.nih.gov/pubmed/21762432},
+	doi = {10.1111/j.1365-294X.2011.05182.x},
+	journal = {Molecular ecology},
+	author = {Elgvin, Tore O and Hermansen, Jo S and Fijarczyk, Anna and Bonnet, Timothée and Borge, Thomas and Sæther, Stein a and Voje, Kjetil L and Sætre, Glenn-Peter},
+	year = {2011},
+	pages = {3823--3837}
+}
+
+@article{Garcia-Navas2015a,
+	title = {The role of fecundity and sexual selection in the evolution of size and sexual size dimorphism in {New} {World} and {Old} {World} voles ({Rodentia}: {Arvicolinae})},
+	volume = {125},
+	url = {http://doi.wiley.com/10.1111/oik.03026},
+	doi = {10.1111/oik.03026},
+	number = {9},
+	journal = {Oikos},
+	author = {García-Navas, Vicente and Bonnet, Timothée and Bonal, Raúl and Postma, Erik},
+	year = {2016},
+	pages = {1250--1260}
+}
+
+@article{Garcia-Navas2015,
+	title = {Gene flow counteracts the effect of drift in a {Swiss} population of snow voles fluctuating in size},
+	volume = {191},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S000632071500244X},
+	doi = {10.1016/j.biocon.2015.06.021},
+	journal = {Biological Conservation},
+	author = {García-Navas, Vicente and Bonnet, Timothée and Waldvogel, Dominique and Wandeler, Peter and Camenisch, Glauco and Postma, Erik},
+	year = {2015},
+	pages = {168--177}
+}
+
+@article{Garcia-Navas2016,
+	title = {Consequences of natal philopatry for reproductive success and mate choice in an {Alpine} rodent},
+	volume = {27},
+	url = {https://academic.oup.com/beheco/article-lookup/doi/10.1093/beheco/arw031},
+	doi = {10.1093/beheco/arw031},
+	number = {4},
+	journal = {Behavioral Ecology},
+	author = {García-Navas, Vicente and Bonnet, Timothée and Waldvogel, Dominique and Camenisch, Glauco and Postma, Erik},
+	year = {2016},
+	pages = {978--987}
+}
+
+@article{ponzi_heritability_2018,
+	title = {Heritability, selection, and the response to selection in the presence of phenotypic measurement error: {Effects}, cures, and the role of repeated measurements},
+	volume = {72},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13573},
+	doi = {10.1111/evo.13573},
+	number = {10},
+	urldate = {2018-12-19},
+	journal = {Evolution},
+	author = {Ponzi, Erica and Keller, Lukas F. and Bonnet, Timothée and Muff, Stefanie},
+	year = {2018},
+	pages = {1992--2004}
+}
