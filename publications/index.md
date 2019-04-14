@@ -48,11 +48,8 @@ for the detection of individual fixed heterogeneity in fitness components. _**Th
 187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}.
 
 <div class="wsite-spacer" style="height:18px;"></div>
-
 [![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
- 
 <div class="wsite-spacer" style="height:18px;"></div>
-
 [![bibtex](/images/bibtex_3.png)](bonnetetal2016.bib){:target="_blank"}
 
 
