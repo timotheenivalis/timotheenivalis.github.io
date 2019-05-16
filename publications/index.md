@@ -21,12 +21,18 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+- (Hopefully) coming soon on this screen: *Rate of contemporary genetic evolution in wild vertebrates*; *Synchrony in survival across bird species at a country scale.*
+
+## Preprints (not peer-reviewed)
+
+- **Bonnet, T**, Morrissey, M, Clutton-Brock, T, Pemberton, J & Kruuk, L (2019, May 16). The role of selection and evolution in changing parturition date in a red deer population. _**EcoEvoRxiv**_ [https://doi.org/10.32942/osf.io/d4azb](https://ecoevorxiv.org/d4azb/)
+
+
 ## 2019
-- (Hopefully) coming soon on this screen: *Genetic evolution of parturition date in a red deer population*; *Synchrony in survival across bird species at a country scale.*
 
-- **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ accepted for a special issue to be published in May 2019. 
+- **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ accepted for a special issue to be published in July 2019. 
 
-- Morrissey, M & **Bonnet, T** (2019). Analogues of the fundamental and secondary theorems of selection, assuming a log-normal distribution of expected fitness. _**Journal of Heredity**_ accepted for a special issue to be published in May 2019. 
+- Morrissey, M & **Bonnet, T** (2019). Analogues of the fundamental and secondary theorems of selection, assuming a log-normal distribution of expected fitness. _**Journal of Heredity**_ accepted for a special issue to be published in July 2019. 
 
 ## 2018
 - Ponzi, E, Keller, L, **Bonnet, T** & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**Evolution**_ 72(10): 1992-2004. [doi:10.1111/evo.13573](https://doi.org/10.1111/evo.13573){:target="_blank"}
