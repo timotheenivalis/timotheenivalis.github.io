@@ -14,10 +14,5 @@ I am an evolutionary biologist primarily interested in recent genetic evolution 
 
 A complete CV hides [here](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
 
-*Find your way :*
-- [Overview of my research interests](/research/)
-- [Publications](/publications/)
-- [Current and past affiliations and collaborations](/dispersal/)
-- [Some information on my non-so-academic interests](/outside/)
-- [The latest news!](/posts/)
-- [Contact information](/contact/)
+
+Workshops of Bio-Statistics in R hide [here](https://timotheenivalis.github.io/RSB-R-Stats-Biology/).
