@@ -51,7 +51,8 @@ image:
 
 - **Bonnet, T**, Wandeler, P, Camenisch, G & Postma, E (2017). Bigger is fitter? Quantitative genetic decomposition of selection reveals an adaptive evolutionary decline of body mass in a wild rodent population. _**PLoS Biology**_ 15(1): e1002592.  [doi:10.1371/journal.pbio.1002592](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2017plos.bib){:target="_blank"} - 
-[![GitHub](/images/github.png)](https://github.com/timotheenivalis/SelRepSel)
+[![GitHub](/images/github.png)](https://github.com/timotheenivalis/SelRepSel){:target="_blank"} - 
+[![Biorxiv](/images/biorxiv.png)](https://www.biorxiv.org/content/10.1101/038604v3){:target="_blank"}
 
 - van Benthem, KJ<sup>**1**</sup>, Bruijning, M<sup>**1**</sup>, **Bonnet, T**<sup>**1**</sup>, Jongejans, E<sup>**2**</sup>, Postma, E<sup>**2**</sup> & Ozgul, A<sup>**2**</sup> (2017). Disentangling evolutionary, plastic and demographic processes underlying trait dynamics: A review of four frameworks. _**Methods in Ecology and Evolution**_ 8: 75–85.  [doi:10.1111/2041-210X.12627](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract){:target="_blank"}.
 (<sup>**1**</sup>shared first authorship;  <sup>**2**</sup>shared last authorship)<br/>
