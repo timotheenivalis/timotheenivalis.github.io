@@ -53,7 +53,9 @@ image:
 
 - van Benthem, KJ<sup>**1**</sup>, Bruijning, M<sup>**1**</sup>, **Bonnet, T**<sup>**1**</sup>, Jongejans, E<sup>**2**</sup>, Postma, E<sup>**2**</sup> & Ozgul, A<sup>**2**</sup> (2017). Disentangling evolutionary, plastic and demographic processes underlying trait dynamics: A review of four frameworks. _**Methods in Ecology and Evolution**_ 8: 75–85.  [doi:10.1111/2041-210X.12627](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract){:target="_blank"}.
 (<sup>**1**</sup>shared first authorship;  <sup>**2**</sup>shared last authorship)<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/benthem2017.bib){:target="_blank"}
+[![bibtex](/images/bibtex_3.png)](bibs/benthem2017.bib){:target="_blank"} - 
+[![GitHub](/images/github.png)](https://github.com/koenvanbenthem/Disentangling_Dynamics_IBM){:target="_blank"} - 
+[![DOI](https://zenodo.org/badge/23675/koenvanbenthem/Disentangling_Dynamics_IBM.svg)](https://zenodo.org/badge/latestdoi/23675/koenvanbenthem/Disentangling_Dynamics_IBM)
 
 ## 2016
 - **Bonnet, T** & Postma, E (2016). Successful by chance? The power of mixed models and neutral simulations
