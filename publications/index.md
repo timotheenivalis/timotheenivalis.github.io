@@ -46,10 +46,12 @@ image:
 - **Bonnet, T**, Leblois, R, Rousset, F & Crochet, PA (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ 71(9): 2140-2158. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2017evol.bib){:target="_blank"} - 
 [![dryad](/images/dryad.jpg)](https://datadryad.org/resource/doi:10.5061/dryad.44sv0){:target="_blank"} - 
+[*[GitHub](/images/github.png)](https://github.com/timotheenivalis/CodeAllForward){:target="_blank"} - 
 [Top 20 most read article](/images/mostread.png){:target="_blank"}
 
 - **Bonnet, T**, Wandeler, P, Camenisch, G & Postma, E (2017). Bigger is fitter? Quantitative genetic decomposition of selection reveals an adaptive evolutionary decline of body mass in a wild rodent population. _**PLoS Biology**_ 15(1): e1002592.  [doi:10.1371/journal.pbio.1002592](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/bonnet2017plos.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/bonnet2017plos.bib){:target="_blank"} - 
+[![GitHub](/images/github.png)](https://github.com/timotheenivalis/SelRepSel)
 
 - van Benthem, KJ<sup>**1**</sup>, Bruijning, M<sup>**1**</sup>, **Bonnet, T**<sup>**1**</sup>, Jongejans, E<sup>**2**</sup>, Postma, E<sup>**2**</sup> & Ozgul, A<sup>**2**</sup> (2017). Disentangling evolutionary, plastic and demographic processes underlying trait dynamics: A review of four frameworks. _**Methods in Ecology and Evolution**_ 8: 75–85.  [doi:10.1111/2041-210X.12627](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract){:target="_blank"}.
 (<sup>**1**</sup>shared first authorship;  <sup>**2**</sup>shared last authorship)<br/>
@@ -63,6 +65,7 @@ for the detection of individual fixed heterogeneity in fitness components. _**Th
 187(1): 60-74.  [doi:10.1086/684158](http://www.journals.uchicago.edu/doi/10.1086/684158){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnetetal2016.bib){:target="_blank"} - 
 [![dryad](/images/dryad.jpg)](https://datadryad.org/resource/doi:10.5061/dryad.3cb61){:target="_blank"} - 
+[![GitHub](/images/github.png)](https://github.com/timotheenivalis/FixDynHet){:target="_blank"}
 [![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
 
 
@@ -97,6 +100,8 @@ Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1
 ## Published data
 
 - **Bonnet, T** & Postma, E (2018). Data from: Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Dryad Digital Repository**_. [https://datadryad.org//resource/doi:10.5061/dryad.6767m](https://datadryad.org//resource/doi:10.5061/dryad.6767m)
+
+- **Bonnet, T**, Wandeler, P, Camenisch, G & Postma, E (2017). Data from: Bigger is fitter? Quantitative genetic decomposition of selection reveals an adaptive evolutionary decline of body mass in a wild rodent population. _**PLoS Biology**_ 15(1): e1002592. [https://doi.org/10.1371/journal.pbio.1002592.s008](https://doi.org/10.1371/journal.pbio.1002592.s008)
 
 - **Bonnet, T**, Leblois, R, Rousset, F & Crochet, PA (2017). Data from: A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Dryad Digital Repository**_.  [https://doi.org/10.5061/dryad.44sv0](https://doi.org/10.5061/dryad.44sv0){:target="_blank"}.
 
