@@ -36,7 +36,8 @@ image:
 
 ## 2018
 - Ponzi, E, Keller, L, **Bonnet, T** & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**Evolution**_ 72(10): 1992-2004. [doi:10.1111/evo.13573](https://doi.org/10.1111/evo.13573){:target="_blank"}<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/ponzi2018.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/ponzi2018.bib){:target="_blank"} - 
+[![Biorxiv](/images/biorxiv.png)](https://www.biorxiv.org/content/10.1101/247189v3){:target="_blank"}
 
 - **Bonnet, T** & Postma, E (2018). Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Journal of Evolutionary Biology**_ 31(4): 572-586. [doi:10.1111/jeb.13246](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2018.bib){:target="_blank"} - 
