@@ -40,11 +40,13 @@ image:
 
 - **Bonnet, T** & Postma, E (2018). Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Journal of Evolutionary Biology**_ 31(4): 572-586. [doi:10.1111/jeb.13246](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2018.bib){:target="_blank"} - 
-[Top 20 most read article](/images/mostread.png){:target="_blank"}
+[![dryad](/images/dryad.jpg)](https://datadryad.org//resource/doi:10.5061/dryad.6767m){:target="_blank"}
 
 ## 2017
 - **Bonnet, T**, Leblois, R, Rousset, F & Crochet, PA (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ 71(9): 2140-2158. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/bonnet2017evol.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/bonnet2017evol.bib){:target="_blank"} - 
+[![dryad](/images/dryad.jpg)](https://datadryad.org/resource/doi:10.5061/dryad.44sv0){:target="_blank"} - 
+[Top 20 most read article](/images/mostread.png){:target="_blank"}
 
 - **Bonnet, T**, Wandeler, P, Camenisch, G & Postma, E (2017). Bigger is fitter? Quantitative genetic decomposition of selection reveals an adaptive evolutionary decline of body mass in a wild rodent population. _**PLoS Biology**_ 15(1): e1002592.  [doi:10.1371/journal.pbio.1002592](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2017plos.bib){:target="_blank"} 
