@@ -89,7 +89,8 @@ flow counteracts the effect of drift in a Swiss population of snow voles fluctua
 - **Bonnet, T**, Crespin, L, Pinot, A, Bruneteau, L, Bretagnolle, V & Gauffre, B (2013). How the common
 vole copes with modern farming: Insights from a capture-mark-recapture experiment. _**Agriculture,
 Ecosystems & Environment**_ 177: 21–27. [doi:http://dx.doi.org/10.1016/j.agee.2013.05.005](http://dx.doi.org/10.1016/j.agee.2013.05.005){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/bonnet2013.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/bonnet2013.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Bonnet_et_al_2013_How_common_vole_copes_with_modern_framing_Insights_from_a_cmr_experiment.pdf){:target="_blank"}
 
 - Elgvin, TO, Hermansen, JS, Fijarczyk, A, **Bonnet, T**, Borge, T, Sæther, Sa, Voje, KL & Sætre,
 GP (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Molecular Ecology**_ 20: 3823–3837. [doi:10.1111/j.1365-294X.2011.05182.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract){:target="_blank"}.<br/>
