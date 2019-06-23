@@ -41,7 +41,8 @@ image:
 
 - **Bonnet, T** & Postma, E (2018). Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Journal of Evolutionary Biology**_ 31(4): 572-586. [doi:10.1111/jeb.13246](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2018.bib){:target="_blank"} - 
-[![dryad](/images/dryad.jpg)](https://datadryad.org//resource/doi:10.5061/dryad.6767m){:target="_blank"}
+[![dryad](/images/dryad.jpg)](https://datadryad.org//resource/doi:10.5061/dryad.6767m){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Bonnet_et_al-2018-Journal_of_Evolutionary_Biology_FluctuatingSel.pdf){:target="_blank"}
 
 ## 2017
 - **Bonnet, T**, Leblois, R, Rousset, F & Crochet, PA (2017). A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes. _**Evolution**_ 71(9): 2140-2158. [doi:10.1111/evo.13296](http://onlinelibrary.wiley.com/doi/10.1111/evo.13296/full){:target="_blank"}.<br/>
@@ -74,7 +75,8 @@ for the detection of individual fixed heterogeneity in fitness components. _**Th
 
 - García-Navas, V, **Bonnet, T**, Waldvogel, D, Camenisch, G & Postma, E (2016).Consequences of female
 philopatry for reproductive success and mate choice in an Alpine rodent. _**Behavioral Ecology**_ 27: 1158-1166.  [doi:https://doi.org/10.1093/beheco/arw031](https://doi.org/10.1093/beheco/arw031){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/garcia2016behec.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/garcia2016behec.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/GarciaNavaletal2016BehavEcol_NatalPhilopatry.pdf){:target="_blank"}
 
 - García-Navas, V, **Bonnet, T**, Bonal, R & Postma, E (2016). The role of fecundity and sexual selection
 in the evolution of size and sexual size dimorphism in New World and Old World voles (Rodentia:
@@ -85,6 +87,7 @@ Arvicolinae). _**Oikos**_ 125: 1250-1260. [doi:10.1111/oik.03026](http://onlinel
 - García-Navas, V, **Bonnet, T**, Waldvogel, D, Wandeler, P, Camenisch, G & Postma, E (2015). Gene
 flow counteracts the effect of drift in a Swiss population of snow voles fluctuating in size. _**Biological Conservation**_ 191: 168–177. [doi:http://dx.doi.org/10.1016/j.biocon.2015.06.021](http://dx.doi.org/10.1016/j.biocon.2015.06.021){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/garcia2015.bib){:target="_blank"} 
+[![pdf](/images/pdf.png)](pdfs/GarciaNavas&al_2015_GeneFlowDrift.pdf){:target="_blank"}
 
 ## Pre-PhD studies
 - **Bonnet, T**, Crespin, L, Pinot, A, Bruneteau, L, Bretagnolle, V & Gauffre, B (2013). How the common
@@ -96,6 +99,7 @@ Ecosystems & Environment**_ 177: 21–27. [doi:http://dx.doi.org/10.1016/j.agee.
 - Elgvin, TO, Hermansen, JS, Fijarczyk, A, **Bonnet, T**, Borge, T, Sæther, Sa, Voje, KL & Sætre,
 GP (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Molecular Ecology**_ 20: 3823–3837. [doi:10.1111/j.1365-294X.2011.05182.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/elgvin2011.bib){:target="_blank"} 
+[![pdf](/images/pdf.png)](pdfs/Elgvin_etal_2011_HybridSparrows.pdf){:target="_blank"}
 
 - **Bonnet, T**, Slagsvold, PK & Sætre, GP (2011). Genetic species identification of a Collared Pied
 Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1007/s10336-011-0703-4](https://link.springer.com/article/10.1007%2Fs10336-011-0703-4){:target="_blank"}.<br/>
