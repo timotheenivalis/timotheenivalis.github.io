@@ -25,8 +25,8 @@ image:
 
 ## Preprints (not peer-reviewed)
 
-- **Bonnet, T**, Morrissey, M, Clutton-Brock, T, Pemberton, J & Kruuk, L (2019, May 16). The role of selection and evolution in changing parturition date in a red deer population. _**EcoEvoRxiv**_ [https://doi.org/10.32942/osf.io/d4azb](https://ecoevorxiv.org/d4azb/)
-[![bibtex](/images/ecoevorxiv.png)](https://ecoevorxiv.org/d4azb/){:target="_blank"} 
+- **Bonnet, T**, Morrissey, M, Clutton-Brock, T, Pemberton, J & Kruuk, L (2019, May 16). The role of selection and evolution in changing parturition date in a red deer population. _**EcoEvoRxiv**_ [https://doi.org/10.32942/osf.io/d4azb](https://ecoevorxiv.org/d4azb/){:target="_blank"}<br/>
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/d4azb/){:target="_blank"} 
 
 ## 2019
 
