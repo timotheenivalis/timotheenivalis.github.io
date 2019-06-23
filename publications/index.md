@@ -73,7 +73,7 @@ for the detection of individual fixed heterogeneity in fitness components. _**Th
 [![bibtex](/images/bibtex_3.png)](bibs/bonnetetal2016.bib){:target="_blank"} - 
 [![dryad](/images/dryad.jpg)](https://datadryad.org/resource/doi:10.5061/dryad.3cb61){:target="_blank"} - 
 [![GitHub](/images/github.png)](https://github.com/timotheenivalis/FixDynHet){:target="_blank"} - 
-[![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
+[![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Bonnet_and_Postma-2016-SuccessfulbyChance.pdf){:target="_blank"}
 
 - García-Navas, V, **Bonnet, T**, Waldvogel, D, Camenisch, G & Postma, E (2016). Consequences of female
