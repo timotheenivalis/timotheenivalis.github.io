@@ -37,7 +37,8 @@ image:
 ## 2018
 - Ponzi, E, Keller, L, **Bonnet, T** & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**Evolution**_ 72(10): 1992-2004. [doi:10.1111/evo.13573](https://doi.org/10.1111/evo.13573){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/ponzi2018.bib){:target="_blank"} - 
-[![Biorxiv](/images/biorxiv.png)](https://www.biorxiv.org/content/10.1101/247189v3){:target="_blank"}
+[![Biorxiv](/images/biorxiv.png)](https://www.biorxiv.org/content/10.1101/247189v3){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Ponzi_etal_2018_measurement_error.pdf){:target="_blank"}
 
 - **Bonnet, T** & Postma, E (2018). Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Journal of Evolutionary Biology**_ 31(4): 572-586. [doi:10.1111/jeb.13246](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2018.bib){:target="_blank"} - 
@@ -62,7 +63,8 @@ image:
 (<sup>**1**</sup>shared first authorship;  <sup>**2**</sup>shared last authorship)<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/benthem2017.bib){:target="_blank"} - 
 [![GitHub](/images/github.png)](https://github.com/koenvanbenthem/Disentangling_Dynamics_IBM){:target="_blank"} - 
-[![DOI](https://zenodo.org/badge/23675/koenvanbenthem/Disentangling_Dynamics_IBM.svg)](https://zenodo.org/badge/latestdoi/23675/koenvanbenthem/Disentangling_Dynamics_IBM)
+[![DOI](https://zenodo.org/badge/23675/koenvanbenthem/Disentangling_Dynamics_IBM.svg)](https://zenodo.org/badge/latestdoi/23675/koenvanbenthem/Disentangling_Dynamics_IBM) - 
+[![pdf](/images/pdf.png)](pdfs/vanBenthem_etal_2017_EvoDemo.pdf){:target="_blank"}
 
 ## 2016
 - **Bonnet, T** & Postma, E (2016). Successful by chance? The power of mixed models and neutral simulations
@@ -72,8 +74,9 @@ for the detection of individual fixed heterogeneity in fitness components. _**Th
 [![dryad](/images/dryad.jpg)](https://datadryad.org/resource/doi:10.5061/dryad.3cb61){:target="_blank"} - 
 [![GitHub](/images/github.png)](https://github.com/timotheenivalis/FixDynHet){:target="_blank"} - 
 [![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/726131160){:target="_blank"}
+[![pdf](/images/pdf.png)](pdfs/Bonnet_and_Postma-2016-SuccessfulbyChance.pdf){:target="_blank"}
 
-- García-Navas, V, **Bonnet, T**, Waldvogel, D, Camenisch, G & Postma, E (2016).Consequences of female
+- García-Navas, V, **Bonnet, T**, Waldvogel, D, Camenisch, G & Postma, E (2016). Consequences of female
 philopatry for reproductive success and mate choice in an Alpine rodent. _**Behavioral Ecology**_ 27: 1158-1166.  [doi:https://doi.org/10.1093/beheco/arw031](https://doi.org/10.1093/beheco/arw031){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/garcia2016behec.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/GarciaNavaletal2016BehavEcol_NatalPhilopatry.pdf){:target="_blank"}
