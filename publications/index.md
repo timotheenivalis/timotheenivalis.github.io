@@ -97,7 +97,8 @@ GP (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Mole
 
 - **Bonnet, T**, Slagsvold, PK & Sætre, GP (2011). Genetic species identification of a Collared Pied
 Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1007/s10336-011-0703-4](https://link.springer.com/article/10.1007%2Fs10336-011-0703-4){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/bonnet2011.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/bonnet2011.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/bonnet_et_al_2011_Jornitho.pdf){:target="_blank"}
 
 ## Published data
 
