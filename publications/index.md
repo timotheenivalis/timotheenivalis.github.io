@@ -30,9 +30,11 @@ image:
 
 ## 2019
 
-- **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ accepted for a special issue to be published in July 2019. 
+- **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ 110(4): 383-395. [doi:10.1093/jhered/esz018](https://doi.org/10.1093/jhered/esz018){:target="_blank"}<br/>
+[![pdf](/images/pdf.png)](pdfs/Bonnetetal2019EstimationVA.pdf){:target="_blank"}
 
-- Morrissey, M & **Bonnet, T** (2019). Analogues of the fundamental and secondary theorems of selection, assuming a log-normal distribution of expected fitness. _**Journal of Heredity**_ accepted for a special issue to be published in July 2019. 
+- Morrissey, M & **Bonnet, T** (2019). Analogues of the fundamental and secondary theorems of selection, assuming a log-normal distribution of expected fitness. _**Journal of Heredity**_ 110(4): 396-402. [doi:10.1093/jhered/esz020](https://doi.org/10.1093/jhered/esz020){:target="_blank"}<br/>
+[![pdf](/images/pdf.png)](pdfs/MorrisseyandBonnet2019Analogues.pdf){:target="_blank"}
 
 ## 2018
 - Ponzi, E, Keller, L, **Bonnet, T** & Muff, S (2018). Heritability, selection, and the response to selection in the presence of phenotypic measurement error: effects, cures, and the role of repeated measurements. _**Evolution**_ 72(10): 1992-2004. [doi:10.1111/evo.13573](https://doi.org/10.1111/evo.13573){:target="_blank"}<br/>
