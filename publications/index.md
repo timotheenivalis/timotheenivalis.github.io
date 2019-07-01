@@ -31,9 +31,11 @@ image:
 ## 2019
 
 - **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ 110(4): 383-395. [doi:10.1093/jhered/esz018](https://doi.org/10.1093/jhered/esz018){:target="_blank"}<br/>
+[![bibtex](/images/bibtex_3.png)](bibs/bonnetetal2019.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Bonnetetal2019EstimationVA.pdf){:target="_blank"}
 
 - Morrissey, M & **Bonnet, T** (2019). Analogues of the fundamental and secondary theorems of selection, assuming a log-normal distribution of expected fitness. _**Journal of Heredity**_ 110(4): 396-402. [doi:10.1093/jhered/esz020](https://doi.org/10.1093/jhered/esz020){:target="_blank"}<br/>
+[![bibtex](/images/bibtex_3.png)](bibs/morrisseyetbonnet2019.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/MorrisseyandBonnet2019Analogues.pdf){:target="_blank"}
 
 ## 2018
