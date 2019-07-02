@@ -2,13 +2,13 @@
 layout: post
 title: Models of selection and evolution with a more realistic fitness distribution
 excerpt: "Logarithms are miraculous"
-date: 2019-02-07T10:00:02+9:00
-modified: 2019-02-07T10:00:02+9:00
+date: 2019-07-02T10:00:02+9:00
+modified: 2019-07-02T10:00:02+9:00
 tags: [Timothée Bonnet, research, project, fitness, animal model, GLMM, Poisson, evolution, selection]
 categories: [science]
 comments: true
 image:
-  feature: images/nails.JPG
+  feature: nails.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
