@@ -8,7 +8,7 @@ tags: [Timothée Bonnet, research, project, fitness, animal model, GLMM, Poisson
 categories: [science]
 comments: true
 image:
-  feature: ForAtherton/crocdaintree.jpg
+  feature: images/nails.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
