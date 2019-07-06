@@ -13,6 +13,6 @@ image:
 
 
 Introduciton to R, 17 July 2019:
-[https://timotheenivalis.github.io/Rnotebooks/siteIntroStats/](https://timotheenivalis.github.io/Rnotebooks/siteIntroStats/)
+[https://timotheenivalis.github.io/workshops/siteIntroStats/](https://timotheenivalis.github.io/workshops/siteIntroStats/)
 
 

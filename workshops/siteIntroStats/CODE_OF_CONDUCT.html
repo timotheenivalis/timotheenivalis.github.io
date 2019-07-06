@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-07-06 13:12:26 +1000">
+    <meta http-equiv="last-modified" content="2019-07-06 13:36:11 +1000">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -53,7 +53,7 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-    <title>R for Reproducible Scientific Analysis</title>
+    <title>R for Reproducible Scientific Analysis: Contributor Code of Conduct</title>
   </head>
   <body>
 
@@ -139,8 +139,13 @@
 
 	
         <li><a href="./LICENSE.html">License</a></li>
+		  
+	
+        <li><a href="http://timotheenivalis.github.io/">Back to personal page</a></li>
       </ul>
-      <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
+
+
+		<form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
         <div class="form-group">
           <input type="text" id="google-search" placeholder="Search..." aria-label="Google site search">
         </div>
@@ -163,69 +168,14 @@
 
 
 
-<h1 class="maintitle"><a href="./">R for Reproducible Scientific Analysis</a></h1>
+<h1 class="maintitle"><a href="./">R for Reproducible Scientific Analysis</a>: Contributor Code of Conduct</h1>
 
 <article>
-<script>
-  window.onload = function() {
-    var lesson_episodes = [
-    
-    "/01-rstudio-intro/index.html",
-    
-    "/03-seeking-help/index.html",
-    
-    "/04-data-structures-part1/index.html",
-    
-    "/05-data-structures-part2/index.html",
-    
-    "/06-data-subsetting/index.html",
-    
-    "/08-plot-ggplot2/index.html",
-    
-    "/09-vectorization/index.html",
-    
-    "/10-functions/index.html",
-    
-    "/11-writing-data/index.html"
-    
-    ];
-    var xmlHttp = [];  /* Required since we are going to query every episode. */
-    for (i=0; i < lesson_episodes.length; i++) {
-      xmlHttp[i] = new XMLHttpRequest();
-      xmlHttp[i].episode = lesson_episodes[i];  /* To enable use this later. */
-      xmlHttp[i].onreadystatechange = function() {
-      if (this.readyState == 4 && this.status == 200) {
-        var article_here = document.getElementById(this.episode);
-        var parser = new DOMParser();
-        var htmlDoc = parser.parseFromString(this.responseText,"text/html");
-        var htmlDocArticle = htmlDoc.getElementsByTagName("article")[0];
-        article_here.innerHTML = htmlDocArticle.innerHTML;
-        }
-      }
-      episode_url = "." + lesson_episodes[i];
-      xmlHttp[i].open("GET", episode_url);
-      xmlHttp[i].send(null);
-    }
-  }
-</script>
+<p>As contributors and maintainers of this project,
+we pledge to follow the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Carpentry Code of Conduct</a>.</p>
 
-<article id="/01-rstudio-intro/index.html"></article>
-
-<article id="/03-seeking-help/index.html"></article>
-
-<article id="/04-data-structures-part1/index.html"></article>
-
-<article id="/05-data-structures-part2/index.html"></article>
-
-<article id="/06-data-subsetting/index.html"></article>
-
-<article id="/08-plot-ggplot2/index.html"></article>
-
-<article id="/09-vectorization/index.html"></article>
-
-<article id="/10-functions/index.html"></article>
-
-<article id="/11-writing-data/index.html"></article>
+<p>Instances of abusive, harassing, or otherwise unacceptable behavior
+may be reported by following our <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines">reporting guidelines</a>.</p>
 
 
 </article>
@@ -251,7 +201,7 @@
     </div>
     <div class="col-md-6 help-links" align="right">
 	
-	<a href="/edit//aio.md">Edit on GitHub</a>
+	<a href="/edit//CODE_OF_CONDUCT.md">Edit on GitHub</a>
 	
 	/
 	<a href="/blob//CONTRIBUTING.md">Contributing</a>
