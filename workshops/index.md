@@ -12,7 +12,11 @@ image:
 ---
 
 
-Introduciton to R, 17 July 2019:
+Workshop series about biostatistics in R at the Australian National University (2018-2019):
+[https://timotheenivalis.github.io/RSB-R-Stats-Biology/](https://timotheenivalis.github.io/RSB-R-Stats-Biology/)
+
+One day introduciton to R, 17 July 2019:
 [https://timotheenivalis.github.io/workshops/siteIntroStats/](https://timotheenivalis.github.io/workshops/siteIntroStats/)
+
 
 
