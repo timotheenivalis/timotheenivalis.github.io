@@ -16,5 +16,5 @@ I am an evolutionary biologist primarily interested in recent genetic evolution 
 
 [A complete CV hides here](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
 
-[A small blurp about some stuff I enjoy out of research](https://timotheenivalis.github.io//outside/)
+[A small page about some stuff I enjoy out of research](https://timotheenivalis.github.io//outside/)
 
