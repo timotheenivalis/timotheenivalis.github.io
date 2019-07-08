@@ -3,10 +3,10 @@ layout: page
 title: Workshops, R and statisitcs
 date: 2019-07-06T13:19:48+09:00
 modified: 2019-07-06T13:19:48+09:00
-excerpt: "It is in the world that you should live"
+excerpt: "Bio-statistics and R"
 tags: [R, statistics, workshops, teaching]
 image:
-  feature: DSC_4429.jpg
+  feature: Rintro.jpg
   credit: Timothée Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
