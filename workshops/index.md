@@ -16,7 +16,7 @@ image:
 [https://timotheenivalis.github.io/RSB-R-Stats-Biology/](https://timotheenivalis.github.io/RSB-R-Stats-Biology/)
 
 **One day introduciton to R, 17 July 2019:**
-[https://timotheenivalis.github.io/workshops/siteIntroStats/](https://timotheenivalis.github.io/workshops/siteIntroStats/)
+[https://timotheenivalis.github.io/workshops/siteIntroR/](https://timotheenivalis.github.io/workshops/siteIntroR/)
 
 
 
