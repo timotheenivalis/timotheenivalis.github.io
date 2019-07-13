@@ -115,7 +115,8 @@ Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1
 
 ## Published data
 
-- **Bonnet, T** & Postma, E (2018). Data from: Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Dryad Digital Repository**_. [https://datadryad.org//resource/doi:10.5061/dryad.6767m](https://datadryad.org//resource/doi:10.5061/dryad.6767m)
+- **Bonnet, T** & Postma, E (2018). Data from: Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Dryad Digital Repository**_. [https://datadryad.org//resource/doi:10.5061/dryad.6767m](https://datadryad.org//resource/doi:10.5061/dryad.6767m)<br/>
+[![bibtex](/images/bibtex_3.png)](bibs/dryadFluSel.bib){:target="_blank"}
 
 - **Bonnet, T**, Wandeler, P, Camenisch, G & Postma, E (2017). Data from: Bigger is fitter? Quantitative genetic decomposition of selection reveals an adaptive evolutionary decline of body mass in a wild rodent population. _**PLoS Biology**_ 15(1): e1002592. [https://doi.org/10.1371/journal.pbio.1002592.s008](https://doi.org/10.1371/journal.pbio.1002592.s008)
 
