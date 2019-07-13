@@ -1,0 +1,222 @@
+---
+title: "Some extra analyses"
+author: "Timothee Bonnet"
+date: "14 January 2019"
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(R2jags)
+library(rjags)
+```
+
+```{r, cache=TRUE}
+load("JAGS papier 1/model1_p0_sans_transient_max_especes_50000.RData")
+```
+
+## What are the most extreme years driving synchrony?
+
+I think the most obvious and safest way to tackle this question is to simply look at the estimates of years effects:
+```{r}
+rpti <- grep(x=row.names(model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary), pattern = "random.phi.temps")[1:15]
+
+par(mar=c(6,4,1,1), las=1)
+plot(x=2001:2015,  model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary[rpti,1], ylim=c(-0.8,0.8),
+     ylab="Year effect (latent scale)", xlab = "", xaxt="n")
+axis(side = 1, at = 2001:2015, labels = FALSE)
+text(x = 2001:2015, y=par()$usr[3]-0.05*(par()$usr[4]-par()$usr[3]),
+     labels = paste0(2001:2015, "-", 2001:2015+1), srt=45, adj=1, xpd=TRUE)
+abline(h=0, lty=2)
+segments(x0=2001:2015,y0 = model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary[rpti,3],
+         y1 = model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary[rpti,7])
+
+```
+
+In addition, absolute years effects (the dashed line indicate the mean absolute deviation) may be used as a visual guide to identify extreme years (but careful with interpretation! Narrow confidence intervals indicate years were the effect may have positive or negative!):
+
+```{r}
+plot(x=2001:2015, y=apply(abs(model1_p0_sans_transient_max_especes_groupe$BUGSoutput$sims.array[1,,rpti]), MARGIN = 2, FUN = mean),
+     ylab="Absolute year effect (latent scale)", xlab = "", xaxt="n", ylim=c(0,0.55))
+ciaye <- apply(abs(model1_p0_sans_transient_max_especes_groupe$BUGSoutput$sims.array[1,,rpti]), MARGIN = 2, FUN = function(x){HPDinterval(as.mcmc(x))})
+segments(x0 = 2001:2015, y0=ciaye[1,], y1=ciaye[2,])
+axis(side = 1, at = 2001:2015, labels = FALSE)
+text(x = 2001:2015, y=par()$usr[3]-0.05*(par()$usr[4]-par()$usr[3]),
+     labels = paste0(2001:2015, "-", 2001:2015+1), srt=45, adj=1, xpd=TRUE)
+
+abline(h=mean(apply(abs(model1_p0_sans_transient_max_especes_groupe$BUGSoutput$sims.array[1,,rpti]), MARGIN = 2, FUN=mean)), lty=2)
+```
+
+To me, these graphes suggest that it may not be ideal to think in term of years. The last 8 years are similarly bad, while the 7 first are better (especially the two first one). I wonder if it would not make more sense to think in term of two, or three, periods.
+I recommend not to try and correlate these deviations with climatic variables, the statisitcal associations would not be powerful and any significant result would have a high probability of being spurious and over-estimated.
+
+
+The models we have fitted are not appropriate to compare variance among species in different years, because the models assume all species-year deviations come from the same distribution. We can nevertheless estimate the variance among species within each year, knowing that differences among years are likely shrunk, and that the comparison is very conservative.
+Below I plot the variance in year-species random deviations per-years, and the global estimate for the standard deviation in the random effect species-year, all with 95% credibility intervals.
+
+```{r}
+vptsi <- grep(x=row.names(model1_p0_sans_transient_max_especes$BUGSoutput$summary), pattern = "random.phi.temps.species")
+
+i <- 1:15
+spvalarr <- sapply(i, FUN = function(x) {
+  apply(model1_p0_sans_transient_max_especes$BUGSoutput$sims.array[,1, vptsi[(1:16 - 1)*15+x]], 1, sd)
+  })
+
+plot(x =2001:2015 , y=apply(spvalarr, 2, mean), ylim = c(0,0.35), ylab="Variation among species within years", xaxt="n", xlab = "")
+segments(x0 = 2001:2015, y0 = apply(spvalarr, 2, FUN = function(x){HPDinterval(as.mcmc(x))})[1,],
+         y1=apply(spvalarr, 2, FUN = function(x){HPDinterval(as.mcmc(x))})[2,])
+
+abline(h=model1_p0_sans_transient_max_especes$BUGSoutput$summary["sigma.phi.temps.species",1], lty=1, lwd=3)
+abline(h=model1_p0_sans_transient_max_especes$BUGSoutput$summary["sigma.phi.temps.species","2.5%"], lty=2)
+abline(h=model1_p0_sans_transient_max_especes$BUGSoutput$summary["sigma.phi.temps.species","97.5%"], lty=2)
+
+axis(side = 1, at = 2001:2015, labels = FALSE)
+text(x = 2001:2015, y=par()$usr[3]-0.05*(par()$usr[4]-par()$usr[3]),
+     labels = paste0(2001:2015, "-", 2001:2015+1), srt=45, adj=1, xpd=TRUE)
+
+```
+
+No significant variation among year is apparent. 
+
+## Does climate in Spring explain some of the synchrony?
+
+### Approach with two models
+
+We can calculate the variance explained by fixed effects from model predictions by taking the products of parameter estimates and predictor values and calculating the variance in these products. Here we have two models, one for precipitations, one for temperature, so the variance calculation ignores interactions and correlations between the two variables.
+
+```{r}
+climdim <- as.vector(model1_p0_sans_transient_max_especes_clim_print_prec$BUGSoutput$sims.array[,,"A_prec_1"])
+varprec <- 1:length(climdim)
+for (i in 1:length(climdim))
+{
+  varprec[i] <- var(as.vector(model1_p0_sans_transient_max_especes_clim_print_prec$BUGSoutput$sims.array[,,"A_prec_1"])[i]*as.vector(PREC)+
+        as.vector(model1_p0_sans_transient_max_especes_clim_print_prec$BUGSoutput$sims.array[,,"A_prec_2"])[i]*(as.vector(PREC)^2))
+}
+
+vartemp <- 1:length(climdim)
+for (i in 1:length(climdim))
+{
+  vartemp[i] <- var(as.vector(model1_p0_sans_transient_max_especes_clim_print_temp$BUGSoutput$sims.array[,,"A_temp_1"])[i]*as.vector(TEMP)+
+                      as.vector(model1_p0_sans_transient_max_especes_clim_print_temp$BUGSoutput$sims.array[,,"A_temp_2"])[i]*(as.vector(TEMP)^2))
+}
+
+```
+
+The variance explained by Spring climate is therefore approximated by:
+```{r}
+plot(density(varprec + vartemp, from = 0))
+```
+
+
+The synchrony calculated from the "group" model was:
+```{r}
+0.28897850^2/(0.28897850^2+0.17335992^2+0.08678136^2)
+```
+
+We can substitute the synchrony variance component by the climate variance component to estimate the synchrony due to climate:
+
+```{r}
+climvarprop <- ((varprec + vartemp)/(0.28897850^2+0.17335992^2+0.08678136^2))
+plot(density(climvarprop, from=0))
+
+mean(climvarprop)
+quantile(climvarprop ,  probs = c(0.025, 0.975)) #two ways to calculate CI
+HPDinterval(as.mcmc(climvarprop)) # more accurate, by sticky zero boundary
+
+```
+
+
+So climate explains 8% (between 1 and 18%) of species-by-time variance.
+
+We can express this result as a proportion of synchrony explained:
+```{r}
+mean(climvarprop /(0.28897850^2/(0.28897850^2+0.17335992^2+0.08678136^2)))
+HPDinterval(as.mcmc(climvarprop /(0.28897850^2/(0.28897850^2+0.17335992^2+0.08678136^2))))
+```
+
+Climate explains about 12% of the synchrony (between 1% and 25%).
+
+Some role for the climatic variables is very reassuring to me! The synchrony must come from somewhere after all!
+Missing synchrony could be related to the interaction precipitation/temperature, to other weather processes (wind, cover, UV), but more likely in my opinion, to extreme short-term events that cannot be captured by our index: cold-snap, big storm, heat-wave, a month of continuous rain,...
+
+
+### Approach with one model with interaction
+
+I found the model with interaction temperature-precipitation (including quadratic effects and their interactions). This model accounts for correlations and interactions between temperature and precipitations.
+
+
+```{r}
+climdim <- as.vector(model1_p0_sans_transient_max_especes_clim_print_prec$BUGSoutput$sims.array[,,"A_prec_1"])
+varclim <- 1:length(climdim)
+for (i in 1:length(climdim))
+{
+  varclim[i] <- var(
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_prec_1"])[i]*as.vector(PREC)+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_prec_2"])[i]*(as.vector(PREC)^2)+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_temp_1"])[i]*as.vector(TEMP)+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_temp_2"])[i]*(as.vector(TEMP))^2+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_int_temp_prec_1"])[i]*as.vector(PREC)*as.vector(TEMP)+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_int_temp_prec_2"])[i]*(as.vector(PREC)^2)*(as.vector(TEMP)^2)+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_int_temp_prec_3"])[i]*(as.vector(PREC)^2)*as.vector(TEMP)+
+    as.vector(model1_p0_sans_transient_max_especes_clim_print$BUGSoutput$sims.array[,,"A_int_temp_prec_4"])[i]*as.vector(PREC)*(as.vector(TEMP)^2)
+      
+    )
+}
+
+
+climvarprop <- ((varclim)/(0.28897850^2+0.17335992^2+0.08678136^2))
+plot(density(climvarprop, from=0))
+
+mean(climvarprop)
+quantile(climvarprop ,  probs = c(0.025, 0.975)) #two ways to calculate CI
+HPDinterval(as.mcmc(climvarprop)) # more accurate, by sticky zero boundary
+
+```
+
+Spring climate explains 14.7% of year-variance (95%CI between 3.2% and 29%).
+
+```{r}
+mean(climvarprop /(0.28897850^2/(0.28897850^2+0.17335992^2+0.08678136^2)))
+HPDinterval(as.mcmc(climvarprop /(0.28897850^2/(0.28897850^2+0.17335992^2+0.08678136^2))))
+```
+That is 21.3% of the synchrony (between 4.6% and 42.2%).
+
+
+## Do migratory and non-migratory species differ?
+
+Manon had some models with a group for migratory and non-migratory species. She disregarded them because they had not converged. I think it is not that bad at all, the three chains agreed on the estimate, and although the MCMC mixing was slow, the chains all had reached a stationary distribution. We could re-run the model for longer to have something clean for the paper, but the results would not change, only the confidence intervals would be estimated a bit more accurately:
+
+```{r}
+vptgi <- grep(x=row.names(model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary), pattern = "sigma.phi.temps.groupe")
+traceplot(model1_p0_sans_transient_max_especes_groupe, varname="sigma.phi.temps.groupe", ask=FALSE )
+
+```
+
+Looking at the summary of all variance components shows migratory and non-migratory species do not differ much:
+```{r}
+vci <- grep(x=row.names(model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary), pattern = "sigma")
+model1_p0_sans_transient_max_especes_groupe$BUGSoutput$summary[vci,]
+```
+
+20% of the variation among species can be attached to migratory/non-migratory behaviours, leaving 80% of the variance attached to species:
+
+```{r}
+(0.08678136^2)/(0.17335992^2+0.08678136^2)
+```
+
+Or to put it differently, migratory/non-migratory behaviours explain 6% of the species-time variance:
+```{r}
+(0.08678136^2)/(0.28897850^2+0.17335992^2+0.08678136^2)
+```
+
+While the synchrnoy corrected for migratory/non-migratory behaviours is still 63%:
+```{r}
+(0.28897850^2-0.08678136^2)/(0.28897850^2+0.17335992^2+0.08678136^2)
+```
+
+
