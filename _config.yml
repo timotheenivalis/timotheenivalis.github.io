@@ -23,7 +23,8 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  
+  - jekyll-include-cache
+    
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
