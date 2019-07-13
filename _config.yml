@@ -1,5 +1,9 @@
 # Site wide configuration
 
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 title:            Timothée Bonnet
 locale:           en_US
 url:			  https://timotheenivalis.github.io/
