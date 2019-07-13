@@ -1,0 +1,114 @@
+# Site wide configuration
+
+title:            Timothée Bonnet
+locale:           en_US
+url:			  https://timotheenivalis.github.io/
+
+# Jekyll configuration
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-72868907-1"
+
+# Site owner
+owner:
+  name: Timothée Bonnet
+  avatar: biophoto.jpg
+  bio: "Evolutionary biologist/ecologist"
+  email: timotheebonnetc@gmail.com
+  disqus-shortname: https-timotheenivalis-github-io
+  twitter: TimotheeBonnet
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-72868907-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: timotheenivalis
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: timothée-bonnet-75108415a
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: 144879083@N02
+  codepen: #username
+
+include: [".htaccess", "_pages"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      comments: true
+      read_time: true
+      share: true
+      author_profile: true
+      related: false
+
+# Comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-timotheenivalis-github-io"
