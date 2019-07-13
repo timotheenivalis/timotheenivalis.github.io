@@ -5,3 +5,4 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "octopress", '~> 3.0'
 gem "github-pages"
+gem 'jekyll-include-cache'
