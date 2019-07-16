@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-07-06 13:36:11 +1000">
+    <meta http-equiv="last-modified" content="2019-07-16 16:07:47 +1000">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -720,9 +720,27 @@ same data type. For example</p>
 <p>This is incredibly powerful; we will discuss this further in an
 upcoming lesson.</p>
 
-<h2 id="managing-your-environment">Managing your environment</h2>
+<h2 id="rstudio-projects">Rstudio projects</h2>
 
-<p>There are a few useful commands you can use to interact with the R session.</p>
+<p>It is good practice to keep a set of related data, analyses, and text self-contained in a single folder, called the working directory. All of the scripts within this folder can then use relative paths to files that indicate where inside the project a file is located (as opposed to absolute paths, which point to where a file is on a specific computer). Working this way makes it a lot easier to move your project around on your computer and share it with others without worrying about whether or not the underlying scripts will still work.</p>
+
+<p>RStudio provides a helpful set of tools to do this through its “Projects” interface, which not only creates a working directory for you, but also remembers its location (allowing you to quickly navigate to it) and optionally preserves custom settings and open files to make it easier to resume work after a break. Go through the steps for creating an “R Project” for this tutorial below.</p>
+
+<ul>
+  <li>Start RStudio.</li>
+  <li>Under the File menu, click on New Project. Choose New Directory, then New Project.</li>
+  <li>Enter a name for this new folder (or “directory”), and choose a convenient location for it. This will be your working directory for the rest of the day (e.g., ~/IntroductionToR).</li>
+  <li>Click on Create Project.</li>
+  <li>Download the data at <a href="https://timotheenivalis.github.io/workshops/siteIntroR/data.zip">https://timotheenivalis.github.io/workshops/siteIntroR/data.zip</a> place them in your working directory and rename the folder (e.g., data-Rintro).</li>
+  <li>(Optional) Set Preferences to ‘Never’ save workspace in RStudio.</li>
+</ul>
+
+<p><img src="../fig/rstudio-preferences.png" alt="RStudio project preferences" /></p>
+
+<p>RStudio’s default preferences generally work well, but saving a workspace to .RData can be cumbersome, especially if you are working with larger datasets. To turn that off, go to Tools –&gt; ‘Global Options’ and select the ‘Never’ option for ‘Save workspace to .RData’ on exit.’
+There are a few useful commands you can use to interact with the R session.</p>
+
+<h2 id="managing-your-environment">Managing your environment</h2>
 
 <p><code class="highlighter-rouge">ls</code> will list all of the variables and functions stored in the global environment
 (your working R session):</p>
@@ -782,7 +800,7 @@ needed to give the parentheses to tell R to call the function.</p>
     }
     else all.names
 }
-&lt;bytecode: 0x5602258239f0&gt;
+&lt;bytecode: 0x558029952bc0&gt;
 &lt;environment: namespace:base&gt;
 </code></pre></div></div>
 
