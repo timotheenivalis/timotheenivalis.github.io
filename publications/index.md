@@ -21,7 +21,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Rate of contemporary genetic evolution in wild vertebrates*; *Synchrony in survival across bird species at a country scale.*
+- (Hopefully) coming soon on this screen: *Rate of contemporary genetic evolution in wild vertebrates*; *Synchrony in survival across bird species at a country scale* ; *Repeatability of metabolic rates in snow voles*
 
 ## Preprints (not peer-reviewed)
 
@@ -92,6 +92,7 @@ philopatry for reproductive success and mate choice in an Alpine rodent. _**Beha
 in the evolution of size and sexual size dimorphism in New World and Old World voles (Rodentia:
 Arvicolinae). _**Oikos**_ 125: 1250-1260. [doi:10.1111/oik.03026](http://onlinelibrary.wiley.com/doi/10.1111/oik.03026/abstract){:target="_blank"}.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/garcia2016oikos.bib){:target="_blank"} 
+[![pdf](/images/pdf.png)](pdfs/Garc-a-Navas_et_al-2015-Oikos.pdf){:target="_blank"}
 
 ## 2015
 - García-Navas, V, **Bonnet, T**, Waldvogel, D, Wandeler, P, Camenisch, G & Postma, E (2015). Gene
