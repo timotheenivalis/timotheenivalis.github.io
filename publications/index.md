@@ -31,6 +31,7 @@ image:
 - **Bonnet, T**, Morrissey, M, Morris, A, Morris, S, Clutton-Brock, T, Pemberton, J & Kruuk, L (2019). The role of selection and evolution in changing parturition date in a red deer population. _**PLoS Biology**_ 17(11): e3000493. [https://doi.org/10.1371/journal.pbio.3000493](https://doi.org/10.1371/journal.pbio.3000493){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/bonnetetal2019plos.bib){:target="_blank"} - 
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/d4azb/){:target="_blank"} - 
+[![F1000](/images/F1000badge.jpg)](https://f1000.com/prime/736856549){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Bonnetetal_2019_Deer.pdf){:target="_blank"}
 
 - **Bonnet, T**, Morrissey, M & Kruuk, L (2019). Estimation of genetic variance in fitness, and inference of adaptation, when fitness follows a log-normal distribution. _**Journal of Heredity**_ 110(4): 383-395. [doi:10.1093/jhered/esz018](https://doi.org/10.1093/jhered/esz018){:target="_blank"}<br/>
