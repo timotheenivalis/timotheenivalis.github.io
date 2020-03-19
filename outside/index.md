@@ -20,7 +20,7 @@ I am not doing enough in that direction yet. It takes time, skills, and the fore
 [Dans les testicules de Darwin](http://danslestesticulesdedarwin.blogspot.com.au/)
 (in French). I have also contributed an article to the outreach and teaching resource website "Science Journal for Kids" ([main page, in English](http://www.sciencejournalforkids.org/science-articles/evolution-in-action-are-voles-shrinking); [only the article .pdf in French](http://www.sciencejournalforkids.org/uploads/5/4/2/8/54289603/voles-article-fr.pdf)).
 
-Lately, I got to write a piece about contemporary biologic evolution for Planet-Vie, a French website maintained by the Ecole Normale Superieure, to help biology teachers stay up to date with recent research [article, in French](http://planet-vie.ens.fr/article/2536/evolution-action).
+Lately, I got to write a piece about contemporary biologic evolution for Planet-Vie, a French website maintained by the Ecole Normale Superieure, to help biology teachers stay up to date with recent research [article, in French](https://planet-vie.ens.fr/thematiques/evolution/mecanismes-theories-et-concepts-de-l-evolution/l-evolution-en-action).
 
 ## Naturalism
 
