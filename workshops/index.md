@@ -11,6 +11,8 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
+**5 week courses in R and Statistics at RSB, April/May 2020:**
+[https://timotheenivalis.github.io/]()
 
 **Workshop series about biostatistics in R at the Australian National University (2018-2020):**
 [https://timotheenivalis.github.io/RSB-R-Stats-Biology/](https://timotheenivalis.github.io/RSB-R-Stats-Biology/)
