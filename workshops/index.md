@@ -12,7 +12,7 @@ image:
 ---
 
 **5 week courses in R and Statistics at RSB, April/May 2020:**
-[https://timotheenivalis.github.io/RforRSB/index.md](https://timotheenivalis.github.io/RforRSB/index.md)
+[https://timotheenivalis.github.io/RforRSB/](https://timotheenivalis.github.io/RforRSB/)
 
 **Workshop series about biostatistics in R at the Australian National University (2018-2020):**
 [https://timotheenivalis.github.io/RSB-R-Stats-Biology/](https://timotheenivalis.github.io/RSB-R-Stats-Biology/)
