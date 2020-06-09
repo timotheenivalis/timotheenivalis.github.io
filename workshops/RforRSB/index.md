@@ -17,4 +17,4 @@ image:
 * [Day 7, Statistical modelling part 3: Variance structure and introduction to random effects](StatModel3.html)
 * [Day 8, Statistical modelling part 4: Random effects and mixed models in lme4](StatModel4.html)
 * [Day 9, Statistical modelling part 5: GLMs and logistic regression](StatModel5GLM.html)
-* [Day 9, Statistical modelling part 6: GLMs for count data](StatModel6GLM.html)
+* [Day 10, Statistical modelling part 6: GLMs for count data](StatModel6GLM.html)
