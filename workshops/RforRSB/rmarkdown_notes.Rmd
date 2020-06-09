@@ -14,6 +14,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Find the raw R-Markdown file that I used to generate this html file at https://timotheenivalis.github.io/workshops/RforRSB/rmarkdown_notes.Rmd and figures I have used are at https://timotheenivalis.github.io/workshops/RforRSB/Figures.zip .
+
 ## R-Markdown part of a reproducible workshop
 
 Science is hard enough, do yourself a favor and make it reproducible.
