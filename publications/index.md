@@ -32,6 +32,7 @@ image:
 
 ## 2020
 - Hagmayer, A, Camenisch, G, Canale, C, Postma, E & **Bonnet, T** (2020). Limited mass-independent individual variation in resting metabolic rate in a wild population of snow voles (*Chionomys nivalis*). _**Journal of Evolutionary Biology**_ 32(5): 608-618. [https://doi.org/10.1111/jeb.13595](https://doi.org/10.1111/jeb.13595){:target="_blank"}<br/>
+[![bibtex](/images/bibtex_3.png)](bibs/hagmayeretal2020.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Hagmayer&al_2020_RMR.pdf){:target="_blank"}
 
 ## 2019
