@@ -31,7 +31,8 @@ image:
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
 
 ## 2020
-- Hagmayer, A, Camenisch, G, Canale, C, Postma, E & **Bonnet, T** (2020). Limited mass-independent individual variation in resting metabolic rate in a wild population of snow voles (*Chionomys nivalis*). _**Journal of Evolutionary Biology**_ in press.
+- Hagmayer, A, Camenisch, G, Canale, C, Postma, E & **Bonnet, T** (2020). Limited mass-independent individual variation in resting metabolic rate in a wild population of snow voles (*Chionomys nivalis*). _**Journal of Evolutionary Biology**_ 32(5): 608-618. [https://doi.org/10.1111/jeb.13595](https://doi.org/10.1111/jeb.13595){:target="_blank"}<br/>
+[![pdf](/images/pdf.png)](pdfs/Hagmayer&al_2020_RMR.pdf){:target="_blank"}
 
 ## 2019
 - **Bonnet, T**, Morrissey, M, Morris, A, Morris, S, Clutton-Brock, T, Pemberton, J & Kruuk, L (2019). The role of selection and evolution in changing parturition date in a red deer population. _**PLoS Biology**_ 17(11): e3000493. [https://doi.org/10.1371/journal.pbio.3000493](https://doi.org/10.1371/journal.pbio.3000493){:target="_blank"}<br/>
