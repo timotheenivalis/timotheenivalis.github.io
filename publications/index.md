@@ -21,9 +21,12 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*
+- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*; *Independent effects of male age, size and mating history on female mate choice*.
 
 ## Preprints (currently under review or in revision)
+- Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? EcoEvoRxiv [https://doi.org/10.32942/osf.io/e9fwy](https://doi.org/10.32942/osf.io/e9fwy){:target="blank"}<br/>
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/)
+
 - Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2019). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). EcoEvoRxiv [https://doi.org/10.32942/osf.io/uepxj](https://doi.org/10.32942/osf.io/uepxj){:target="_blank"}<br/>
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
 
