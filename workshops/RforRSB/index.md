@@ -19,3 +19,4 @@ image:
 * [Day 9, Statistical modelling part 5: GLMs and logistic regression](StatModel5GLM.html)
 * [Day 10, Statistical modelling part 6: GLMs for count data](StatModel6GLM.html)
 * [Day 11, R-Markdown](rmarkdown_notes.html)
+* [Day 12, Making packages](package	.html)
