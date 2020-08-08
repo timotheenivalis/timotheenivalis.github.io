@@ -13,9 +13,9 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
-Across Massif Central there are countless recipes of "**cheese soup**", generally winter dishes. None of these "cheese soups" are soups. Instead, they are gratins, sort of lasagnas of bread, cheese, onions, sometimes with white wine, broth, garlic... 
+Across Massif Central there are countless recipes of "**cheese soup**", generally winter dishes. None of these "cheese soups" are soups. Instead, they are monstrous hybrid gratins-lasagnas of bread, cheese, onions, sometimes with white wine, broth, garlic... 
 
-I grew up in a small village, (Viane)[https://goo.gl/maps/qMyuVdvnNts6vcyB6], which has its own, quite special "cheese soup" recipe. So special, that it is sometimes called "cabbage soup" instead. So special, that, since 2008, it has its own world championship every year! ((article about the 2016 competition)[https://www.ladepeche.fr/article/2016/03/25/2311274-la-bonne-soupe-au-fromage-des-vianaises.html])
+I grew up in a small village, [Viane](https://goo.gl/maps/qMyuVdvnNts6vcyB6), which has its own, quite special "cheese soup" recipe. So special in fact, that it is sometimes called "cabbage soup" instead. So special, that, since 2008, it has its own world championship every year ([article about the 2016 competition](https://www.ladepeche.fr/article/2016/03/25/2311274-la-bonne-soupe-au-fromage-des-vianaises.html) ).
 
 Friends will be familiar with this weird things as I have _tried_ to cook it for social events quite often. Without much luck in Zurich (sorry people!), but got better at it, so people started to ask for the recipe; which I could not provide. I got a recipe from my grandma, on the phone, when I was 20 but never wrote it down... until today!
 
