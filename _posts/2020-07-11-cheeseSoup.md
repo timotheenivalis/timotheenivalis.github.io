@@ -28,17 +28,17 @@ Friends will be familiar with this weird things as I have _tried_ to cook it for
 * Olive oil
 * Salt
 * Black pepper
-* (optional 1: summer savory or thyme)
+* (optional 1: summer savoury or thyme)
 * (optional 2: )
 
 1. Wash et slice the cabbage leaves (about 3cm wide).
 2. Blanch the cabbage by boiling it for 3 minutes in non-salty water (that will help digestion). Discard that water.
-3. Boil the cabbage for 15 minutes or until the cabbage is cooked. I add one tea spoon of salt and one of  summer savory (or thyme).
+3. Boil the cabbage for 15 minutes or until the cabbage is cooked. I add one tea spoon of salt and one of  summer savoury (or thyme).
 4. Discard most of the cooking water but do not drain the cabbage fully, it should remain wet. I also keep about a cup of the cooking water on the side to wet the dish in case it looks too dry at the end.
 5. In a gratin dish, at least 10cm deep, put successive layers of 1) bread, 2) cabbage, 3) cheese. After each bread layer I pour a trickle of olive oil (that's my grandma trick) and after each cheese layer I crack some pepper. 
 6. Stack layers until you reach the top of the dish, finishing with a cheese layer.
 7. Compress the layers well.
-8. If the outcome seems dry it is time to add the leftover cabbage cooking water. Instead, you could add a cup or two of veggetable broth, possibly including duck fat, but it is not my thing personally.
+8. If the outcome seems dry it is time to add the leftover cabbage cooking water. Instead, you could add a cup or two of vegetable broth, possibly including duck fat, but it is not my thing personally.
 9. Cook in the over for 40 minutes at 180°C (with fan).
 10. Cut vertical slices (to sample all layers) and enjoy!
 
