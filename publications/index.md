@@ -27,12 +27,12 @@ image:
 --->
 
 ## 2020
-- Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? _**Journal of Evolutionary Biology**_ in press. {:target="blank"}<br/>
+- Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? _**Journal of Evolutionary Biology**_ in press.<br/>
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/)
 
 - Aich, U, **Bonnet, T**, Fox, R & Jennions, MD (2020). An experimental test to separate the effects of male age and mating history on female mate choice. _**Behavioural Ecology**_ in press. 
 
-- Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ in press. EcoEvoRxiv [https://doi.org/10.32942/osf.io/uepxj](https://doi.org/10.32942/osf.io/uepxj){:target="_blank"}<br/>
+- Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ in press.<br/>
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
 
 - Hagmayer, A, Camenisch, G, Canale, C, Postma, E & **Bonnet, T** (2020). Limited mass-independent individual variation in resting metabolic rate in a wild population of snow voles (*Chionomys nivalis*). _**Journal of Evolutionary Biology**_ 32(5): 608-618. [https://doi.org/10.1111/jeb.13595](https://doi.org/10.1111/jeb.13595){:target="_blank"}<br/>
