@@ -27,13 +27,15 @@ image:
 --->
 
 ## 2020
+- Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ in press.<br/>
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
+
 - Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? _**Journal of Evolutionary Biology**_ in press.<br/>
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/)
 
-- Aich, U, **Bonnet, T**, Fox, R & Jennions, MD (2020). An experimental test to separate the effects of male age and mating history on female mate choice. _**Behavioural Ecology**_ in press. 
-
-- Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ in press.<br/>
-[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
+- Aich, U, **Bonnet, T**, Fox, R & Jennions, MD (2020). An experimental test to separate the effects of male age and mating history on female mate choice. _**Behavioural Ecology**_ araa092, [https://doi.org/10.1093/beheco/araa092](https://doi.org/10.1093/beheco/araa092). 
+[![bibtex](/images/bibtex_3.png)](bibs/aichetal2020.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Aichetal2020.pdf){:target="_blank"}
 
 - Hagmayer, A, Camenisch, G, Canale, C, Postma, E & **Bonnet, T** (2020). Limited mass-independent individual variation in resting metabolic rate in a wild population of snow voles (*Chionomys nivalis*). _**Journal of Evolutionary Biology**_ 32(5): 608-618. [https://doi.org/10.1111/jeb.13595](https://doi.org/10.1111/jeb.13595){:target="_blank"}<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/hagmayeretal2020.bib){:target="_blank"} - 
