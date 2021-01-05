@@ -21,17 +21,27 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*; *Repeatability of morphological mesurements on bird museum specimen*...
+- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
 
-## 2020
+## 2021
+
+- Subasinghe, K, Symonds, MRE, Vidal-García, M, **Bonnet, T**, Prober, SM, Williams, KJ & Gardner JL (2021). Repeatability and Validity of Phenotypic Trait Measurements in Birds. _**Evolutionary Biology**_  [https://doi.org/10.1007/s11692-020-09527-5](https://doi.org/10.1007/s11692-020-09527-5).<br/>
+[![bibtex](/images/bibtex_3.png)](bibs/subasingheetal2021.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Subasingheetal_2021_Repeatability.pdf){:target="_blank"}
+
 - Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ in press.<br/>
 [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
 
-- Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? _**Journal of Evolutionary Biology**_ in press.<br/>
-[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/)
+
+## 2020
+
+- Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? _**Journal of Evolutionary Biology**_ 33(12): 1735-1748.<br/>
+[![bibtex](/images/bibtex_3.png)](bibs/cooper_ages_2020.bib){:target="_blank"} - 
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/) -
+[![pdf](/images/pdf.png)](pdfs/Cooperetal_2020_JEB.pdf){:target="_blank"}
 
 - Aich, U, **Bonnet, T**, Fox, R & Jennions, MD (2020). An experimental test to separate the effects of male age and mating history on female mate choice. _**Behavioural Ecology**_ araa092, [https://doi.org/10.1093/beheco/araa092](https://doi.org/10.1093/beheco/araa092). 
 [![bibtex](/images/bibtex_3.png)](bibs/aichetal2020.bib){:target="_blank"} - 
