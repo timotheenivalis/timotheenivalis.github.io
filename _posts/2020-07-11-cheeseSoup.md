@@ -8,7 +8,7 @@ tags: [Recipe, Cabbage, Soup, Cheese, Viane]
 categories: [trips, outside]
 comments: true
 image:
-  feature: images/nails.JPG
+  feature: nails.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
