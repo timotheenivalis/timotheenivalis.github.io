@@ -8,7 +8,7 @@ tags: [Birding]
 categories: [trips, outside]
 comments: true
 image:
-  feature: images/nails.JPG
+  feature: images/kiama.jpg
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
