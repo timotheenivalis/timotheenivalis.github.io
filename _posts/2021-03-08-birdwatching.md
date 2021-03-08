@@ -8,7 +8,7 @@ tags: [Birding]
 categories: [trips, outside]
 comments: true
 image:
-  feature: images/kiama.jpg
+  feature: images/kiama.JPG
   credit: Timothee Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
