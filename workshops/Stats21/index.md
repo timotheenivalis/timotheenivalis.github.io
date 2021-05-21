@@ -11,4 +11,4 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
-* [Linear models 1: Linear models, interpretation, prediction, additive effects, interactions](StatModel2.html)
+* [Linear models 1: Linear models, interpretation, prediction, additive effects, interactions](LinearModels1.html)
