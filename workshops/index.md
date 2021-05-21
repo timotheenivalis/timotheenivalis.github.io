@@ -11,6 +11,9 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
+**2 afternoons on linear models, May 2021:**
+[https://timotheenivalis.github.io/workshops/Stats21/](https://timotheenivalis.github.io/workshops/Stats21/)
+
 **5 week courses in R and Statistics at RSB, April/May 2020:**
 [https://timotheenivalis.github.io/workshops/RforRSB/](https://timotheenivalis.github.io/workshops/RforRSB/)
 
