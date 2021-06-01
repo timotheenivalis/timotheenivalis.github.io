@@ -12,3 +12,4 @@ image:
 ---
 
 * [Linear models 1: Linear models, interpretation, prediction, additive effects, interactions](LinearModels1.html)
+* [Linear models 2: Mixed effect models, interpretation, variance structure](LinearModels2.html)
