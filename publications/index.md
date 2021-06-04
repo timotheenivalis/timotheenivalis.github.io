@@ -34,7 +34,7 @@ image:
 
 - Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ 197(1): 111-127, [https://doi.org/10.1086/711755](https://doi.org/10.1086/711755).<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/cooperetal2021amnat.bib){:target="_blank"} - 
-[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/)
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/) - 
 [![pdf](/images/pdf.png)](pdfs/Cooperetal_2021_AmNat.pdf){:target="_blank"}
 
 ## 2020
