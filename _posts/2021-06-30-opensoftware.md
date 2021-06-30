@@ -28,24 +28,23 @@ I am really not an expert on the topic, but basically I wanted to show that :
 And here is the advertisment for the talk written with Putter Tiatragul :
 
 > Entry: At lunch one arvo of a drab winter day…
+>
+>
 > Putter: Tim... why do you only use Linux? Isn't it complicated...and boring?
+>
 > Tim: Yes and no. With Ubuntu* Linux got really easy. You can use the OS just like Windows or Mac except it doesn't crash and you can customise the computer...
+>
 > Putter: But how about the flashy software that I use like Photoshop and Office? Don't you miss them?
+>
 > Tim: Well, there are good free open-source software that do the same things now, and they're continuously getting better... I have not missed anything for years.
+>
 > Putter: Sounds like you want to tell everyone about freeware and open-science at TE&E?
+>
 > Tim: Uh, not rea...
+>
 > Putter: Beauty! I'll sign you up for 2pm in the Evolution Meeting Room on Wednesday the 30th of June!
+>
+>
 > Exit: The lunch conversation drifts back to fascination about obscure wildlife (e.g. little brown birds), how cold it is, prayers for no rain/border closures, themed party ideas, and the best place to fix broken laptops/bikes...
 
 
-
-
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
