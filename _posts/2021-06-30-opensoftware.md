@@ -21,7 +21,7 @@ I am really not an expert on the topic, but basically I wanted to show that :
 * You can do most stuff with open-source / free software in everyday life
 * I really like [Xaringan](https://github.com/yihui/xaringan) to make slides in R-Markdown
 
-[Here are my slides: ](http://timotheenivalis.github.io/Rnotebooks/openstuff.html) and 
+[**Here are my slides:** ](http://timotheenivalis.github.io/Rnotebooks/openstuff.html) and 
 [here is the code: ](https://github.com/timotheenivalis/OpenStuff_TEE)
 
 
