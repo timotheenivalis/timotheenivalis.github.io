@@ -28,6 +28,8 @@ image:
 
 ## 2021
 
+- Aich, U, **Bonnet, T**, Head, ML & Jennions, MD (2021). Effect of male age and past mating effort on pre-copulatory male-mating behaviour and paternity success. _**Evolution**_ in press.
+
 - Subasinghe, K, Symonds, MRE, Vidal-García, M, **Bonnet, T**, Prober, SM, Williams, KJ & Gardner JL (2021). Repeatability and Validity of Phenotypic Trait Measurements in Birds. _**Evolutionary Biology**_  [https://doi.org/10.1007/s11692-020-09527-5](https://doi.org/10.1007/s11692-020-09527-5).<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/subasingheetal2021.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Subasingheetal_2021_Repeatability.pdf){:target="_blank"}
