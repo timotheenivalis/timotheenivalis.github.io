@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 date: 2017-02-26T00:22:34+01:00
-modified: 2017-04-09T19:10:00+02:00
+modified: 2021-10-21T12:30:00+10:00
 excerpt: "Timothée Bonnet's publications"
 tags: [Timothée Bonnet, timothée bonnet, Chionomys nivalis, Evolution, publications, snow vole, discordance, Plos Biology, American Naturalist]
 image:
@@ -21,14 +21,15 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*
+- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*; Effect of extreme temperatures on bird adult survival.*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
 
 ## 2021
 
-- Aich, U, **Bonnet, T**, Head, ML & Jennions, MD (2021). Effect of male age and past mating effort on pre-copulatory male-mating behaviour and paternity success. _**Evolution**_ in press.
+- Aich, U, **Bonnet, T**, Head, ML & Jennions, MD (2021). Effect of male age and past mating effort on pre-copulatory male-mating behaviour and paternity success. _**Evolution**_ early view, [https://doi.org/10.1111/evo.14371](https://doi.org/10.1111/evo.14371).<br/>
+[![pdf](/images/pdf.png)](pdfs/AichEtAl2021_Evolution.pdf){:target="_blank"}
 
 - Subasinghe, K, Symonds, MRE, Vidal-García, M, **Bonnet, T**, Prober, SM, Williams, KJ & Gardner JL (2021). Repeatability and Validity of Phenotypic Trait Measurements in Birds. _**Evolutionary Biology**_  [https://doi.org/10.1007/s11692-020-09527-5](https://doi.org/10.1007/s11692-020-09527-5).<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/subasingheetal2021.bib){:target="_blank"} - 
