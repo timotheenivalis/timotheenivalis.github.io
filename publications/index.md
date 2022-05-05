@@ -21,10 +21,16 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Rate of contemporary adaptation in wild vertebrates*; *Synchrony in survival across bird species at a country scale*; Effect of extreme temperatures on bird adult survival.*
+- (Hopefully) coming soon on this screen: *Effect of extreme temperatures on bird adult survival.*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
+
+## 2022
+
+- **Bonnet, T**, Morrissey, MB, de Villemereuil, P, Alberts, SC, Arcese, P, Bailey, LD, Boutin, S, Brekke, P, Brent, LJN, Camenisch, G, Charmantier, A, Clutton-Brock, TH, Cockburn, A, Coltman, DW, Courtiol, A, Davidian, E, Evans, SR, Ewen, JG, Festa-Bianchet, M, de Franceschi, C, Gustafsson, L, Höner, OP, Houslay, TM, Keller, LF, Manser, M, McAdam, MG, McLean, E, Nietlisbach, P, Osmond, HL, Pemberton, JM, Postma, E, Reid, JM, Rutschmann, A, Santure, AW, Sheldon, BC, Slate, J, Teplitsky, C, Visser, ME, Wachter, B, LEB Kruuk.(in press)  Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. _**Science**_.
+
+- Ghislain, M, **Bonnet, T**, Godeau, U, Dehorter, O,  Gimenez, O, Henry, PY  (2022). Synchrony in adult survival is remarkably strong among common temperate songbirds across France. _**EcoEvoRxiv**_. https://ecoevorxiv.org/cyeb7/
 
 ## 2021
 
