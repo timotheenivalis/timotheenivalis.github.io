@@ -28,9 +28,14 @@ image:
 
 ## 2022
 
-- **Bonnet, T**, Morrissey, MB, de Villemereuil, P, Alberts, SC, Arcese, P, Bailey, LD, Boutin, S, Brekke, P, Brent, LJN, Camenisch, G, Charmantier, A, Clutton-Brock, TH, Cockburn, A, Coltman, DW, Courtiol, A, Davidian, E, Evans, SR, Ewen, JG, Festa-Bianchet, M, de Franceschi, C, Gustafsson, L, Höner, OP, Houslay, TM, Keller, LF, Manser, M, McAdam, MG, McLean, E, Nietlisbach, P, Osmond, HL, Pemberton, JM, Postma, E, Reid, JM, Rutschmann, A, Santure, AW, Sheldon, BC, Slate, J, Teplitsky, C, Visser, ME, Wachter, B, LEB Kruuk. (in press)  Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. _**Science**_ 376(6596): 1012-1016. [https://doi.org/10.1126/science.abk0853](https://doi.org/10.1126/science.abk0853) <br/> Free-access referral link: [https://www.science.org/stoken/author-tokens/ST-526/full](https://www.science.org/stoken/author-tokens/ST-526/full)
+- Crates, R, Watson, DM, Albery, GF, **Bonnet, T**, Murphy, L, Rayner, L, Stojanovic, D, Timewell, C, Meney, B, Roderick, M, Ingwersen, D & Heinsohn, R. (2022) Mistletoes could moderate drought impacts on birds, but are themselves susceptible to drought-induced dieback. _**Proceedings of the Royal Society B**_ 289:20220358. [https://doi.org/10.1098/rspb.2022.0358](https://doi.org/10.1098/rspb.2022.0358) <br/> 
+[![pdf](/images/pdf.png)](pdfs/Cratesetal2022_Mistletoes.pdf){:target="_blank"} - [![bibtex](/images/bibtex_3.png)](bibs/cratesetal2022.bib){:target="_blank"} - 
 
-- Ghislain, M, **Bonnet, T**, Godeau, U, Dehorter, O,  Gimenez, O, Henry, PY  (2022). Synchrony in adult survival is remarkably strong among common temperate songbirds across France. _**EcoEvoRxiv**_. https://ecoevorxiv.org/cyeb7/
+
+- **Bonnet, T**, Morrissey, MB, de Villemereuil, P, Alberts, SC, Arcese, P, Bailey, LD, Boutin, S, Brekke, P, Brent, LJN, Camenisch, G, Charmantier, A, Clutton-Brock, TH, Cockburn, A, Coltman, DW, Courtiol, A, Davidian, E, Evans, SR, Ewen, JG, Festa-Bianchet, M, de Franceschi, C, Gustafsson, L, Höner, OP, Houslay, TM, Keller, LF, Manser, M, McAdam, MG, McLean, E, Nietlisbach, P, Osmond, HL, Pemberton, JM, Postma, E, Reid, JM, Rutschmann, A, Santure, AW, Sheldon, BC, Slate, J, Teplitsky, C, Visser, ME, Wachter, B & LEB Kruuk. (2022)  Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. _**Science**_ 376(6596): 1012-1016. [https://doi.org/10.1126/science.abk0853](https://doi.org/10.1126/science.abk0853) <br/> Free-access referral link: [https://www.science.org/stoken/author-tokens/ST-526/full](https://www.science.org/stoken/author-tokens/ST-526/full) - 
+[![bibtex](/images/bibtex_3.png)](bibs/bonnetetal2022Science.bib){:target="_blank"}
+
+- Ghislain, M, **Bonnet, T**, Godeau, U, Dehorter, O,  Gimenez, O, Henry, PY  (2022). Synchrony in adult survival is remarkably strong among common temperate songbirds across France. _**EcoEvoRxiv**_. [https://ecoevorxiv.org/cyeb7/](https://ecoevorxiv.org/cyeb7/)
 
 ## 2021
 
