@@ -29,7 +29,8 @@ image:
 ## 2022
 
 - Crates, R, Watson, DM, Albery, GF, **Bonnet, T**, Murphy, L, Rayner, L, Stojanovic, D, Timewell, C, Meney, B, Roderick, M, Ingwersen, D & Heinsohn, R. (2022) Mistletoes could moderate drought impacts on birds, but are themselves susceptible to drought-induced dieback. _**Proceedings of the Royal Society B**_ 289:20220358. [https://doi.org/10.1098/rspb.2022.0358](https://doi.org/10.1098/rspb.2022.0358) <br/> 
-[![pdf](/images/pdf.png)](pdfs/Cratesetal2022_Mistletoes.pdf){:target="_blank"} - [![bibtex](/images/bibtex_3.png)](bibs/cratesetal2022.bib){:target="_blank"} - 
+ [![bibtex](/images/bibtex_3.png)](bibs/cratesetal2022.bib){:target="_blank"} - 
+ [![pdf](/images/pdf.png)](pdfs/Cratesetal2022_Mistletoes.pdf){:target="_blank"} 
 
 
 - **Bonnet, T**, Morrissey, MB, de Villemereuil, P, Alberts, SC, Arcese, P, Bailey, LD, Boutin, S, Brekke, P, Brent, LJN, Camenisch, G, Charmantier, A, Clutton-Brock, TH, Cockburn, A, Coltman, DW, Courtiol, A, Davidian, E, Evans, SR, Ewen, JG, Festa-Bianchet, M, de Franceschi, C, Gustafsson, L, Höner, OP, Houslay, TM, Keller, LF, Manser, M, McAdam, MG, McLean, E, Nietlisbach, P, Osmond, HL, Pemberton, JM, Postma, E, Reid, JM, Rutschmann, A, Santure, AW, Sheldon, BC, Slate, J, Teplitsky, C, Visser, ME, Wachter, B & LEB Kruuk. (2022)  Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. _**Science**_ 376(6596): 1012-1016. [https://doi.org/10.1126/science.abk0853](https://doi.org/10.1126/science.abk0853) <br/> Free-access referral link: [https://www.science.org/stoken/author-tokens/ST-526/full](https://www.science.org/stoken/author-tokens/ST-526/full) - 
@@ -40,7 +41,7 @@ image:
 ## 2021
 
 - Aich, U, **Bonnet, T**, Head, ML & Jennions, MD (2021). Effect of male age and past mating effort on pre-copulatory male-mating behaviour and paternity success. _**Evolution**_ early view, [https://doi.org/10.1111/evo.14371](https://doi.org/10.1111/evo.14371).<br/>
-[![pdf](/images/pdf.png)](pdfs/AichEtAl2021_Evolution.pdf){:target="_blank"}
+[![bibtex](/images/bibtex_3.png)](bibs/aichetal2021.bib){:target="_blank"} - [![pdf](/images/pdf.png)](pdfs/AichEtAl2021_Evolution.pdf){:target="_blank"}
 
 - Subasinghe, K, Symonds, MRE, Vidal-García, M, **Bonnet, T**, Prober, SM, Williams, KJ & Gardner JL (2021). Repeatability and Validity of Phenotypic Trait Measurements in Birds. _**Evolutionary Biology**_  [https://doi.org/10.1007/s11692-020-09527-5](https://doi.org/10.1007/s11692-020-09527-5).<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/subasingheetal2021.bib){:target="_blank"} - 
@@ -131,13 +132,13 @@ philopatry for reproductive success and mate choice in an Alpine rodent. _**Beha
 - García-Navas, V, **Bonnet, T**, Bonal, R & Postma, E (2016). The role of fecundity and sexual selection
 in the evolution of size and sexual size dimorphism in New World and Old World voles (Rodentia:
 Arvicolinae). _**Oikos**_ 125: 1250-1260. [doi:10.1111/oik.03026](http://onlinelibrary.wiley.com/doi/10.1111/oik.03026/abstract){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/garcia2016oikos.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/garcia2016oikos.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Garc-a-Navas_et_al-2015-Oikos.pdf){:target="_blank"}
 
 ## 2015
 - García-Navas, V, **Bonnet, T**, Waldvogel, D, Wandeler, P, Camenisch, G & Postma, E (2015). Gene
 flow counteracts the effect of drift in a Swiss population of snow voles fluctuating in size. _**Biological Conservation**_ 191: 168–177. [doi:http://dx.doi.org/10.1016/j.biocon.2015.06.021](http://dx.doi.org/10.1016/j.biocon.2015.06.021){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/garcia2015.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/garcia2015.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/GarciaNavas&al_2015_GeneFlowDrift.pdf){:target="_blank"}
 
 ## Pre-PhD studies
@@ -149,7 +150,7 @@ Ecosystems & Environment**_ 177: 21–27. [doi:http://dx.doi.org/10.1016/j.agee.
 
 - Elgvin, TO, Hermansen, JS, Fijarczyk, A, **Bonnet, T**, Borge, T, Sæther, Sa, Voje, KL & Sætre,
 GP (2011). Hybrid speciation in sparrows II: a role for sex chromosomes? _**Molecular Ecology**_ 20: 3823–3837. [doi:10.1111/j.1365-294X.2011.05182.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05182.x/abstract){:target="_blank"}.<br/>
-[![bibtex](/images/bibtex_3.png)](bibs/elgvin2011.bib){:target="_blank"} 
+[![bibtex](/images/bibtex_3.png)](bibs/elgvin2011.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Elgvin_etal_2011_HybridSparrows.pdf){:target="_blank"}
 
 - **Bonnet, T**, Slagsvold, PK & Sætre, GP (2011). Genetic species identification of a Collared Pied
