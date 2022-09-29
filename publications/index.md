@@ -21,12 +21,17 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Effect of extreme temperatures on bird adult survival.*
+- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
 
 ## 2022
+
+- Gardner, JL, Clayton, M, Allen, R, Stein, J, **Bonnet, T** (2022) The effects of temperature extremes on survival in two semi‐arid Australian bird communities over three decades, with predictions to 2104. _**Global Ecology and Biogeography**_ Early View [http://dx.doi.org/10.1111/geb.13591](http://dx.doi.org/10.1111/geb.13591) <br/>
+ [![bibtex](/images/bibtex_3.png)](bibs/gardneretal2022.bib){:target="_blank"} - 
+ [![pdf](/images/pdf.png)](pdfs/GardnerEtAl_2022_GEB.pdf){:target="_blank"}
+
 
 - Crates, R, Watson, DM, Albery, GF, **Bonnet, T**, Murphy, L, Rayner, L, Stojanovic, D, Timewell, C, Meney, B, Roderick, M, Ingwersen, D & Heinsohn, R. (2022) Mistletoes could moderate drought impacts on birds, but are themselves susceptible to drought-induced dieback. _**Proceedings of the Royal Society B**_ 289:20220358. [https://doi.org/10.1098/rspb.2022.0358](https://doi.org/10.1098/rspb.2022.0358) <br/> 
  [![bibtex](/images/bibtex_3.png)](bibs/cratesetal2022.bib){:target="_blank"} - 
