@@ -1,8 +1,8 @@
 ---
 layout: page
-title: My dispersal route and successive symbioses
+title: Dispersal route and symbioses
 date: 2017-02-26T16:07:57+01:00
-modified: 2017-04-09T20:36:00+02:00
+modified: 2023-02-15T17:30:00+02:00
 excerpt: "Where I went, what I did, with who"
 tags: [Timothée Bonnet, Zurich, Oslo, Viane, Montpellier, UZH, IEU, CEES, CEFE, ISEM, CBGP, CEBC, collaborations, collaborators, dispersal, positions]
 image:
@@ -21,16 +21,21 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-# __*Current territory:*__ Research School of Biology and Biological Data Science Institute, The Australian University, Canberra
+# Chizé Center for Biological Studies (CEBC)
+![alt text](/images/logo_CEBC.png "CEBC") __*CNRS Researcher*__  
+
+Part of the [*Marine Predators* team](https://www.cebc.cnrs.fr/predateurs-marins/?lang=en). 
+
+## __*t-1*__ Research School of Biology and Biological Data Science Institute, The Australian University, Canberra
 ![alt text](/images/ANU.jpg "ANU") __*Post-doc*__  
 
-**Working with:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics), [Andrew Cockburn](http://biology.anu.edu.au/people/andrew-cockburn), [Michael Morrissey](https://synergy.st-andrews.ac.uk/megaloceros/).
+**Worked with:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics), [Andrew Cockburn](http://biology.anu.edu.au/people/andrew-cockburn), [Michael Morrissey](https://synergy.st-andrews.ac.uk/megaloceros/).
 
-Also helping with statistics and programming at the [Biological Data Science Institute](http://bdsi.anu.edu.au/).
+Also helped with statistics and programming at the [Biological Data Science Institute](http://bdsi.anu.edu.au/).
 
 _______________________
 
-## __*t-1:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
+## __*t-2:*__ Department of Evolutionary Biology and Environmental Studies (IEU), University of Zurich
 
 ![alt text](/images/uzhlogo.jpg "UZH") __*PhD thesis and first Post-doc.*__
 
@@ -38,21 +43,21 @@ _______________________
 
 _______________________
 
-## __*t-2:*__ University of Montpellier (CBGP, CEFE, ISEM)
+## __*t-3:*__ University of Montpellier (CBGP, CEFE, ISEM)
 ![alt text](/images/LOGO_MP2.png "UM2") __*Master thesis.*__
 
 **Supervised by:** [Raphaël Leblois](http://raphael.leblois.free.fr/), [Pierre-André Crochet](https://www.researchgate.net/profile/Pierre-Andre_Crochet), [François Rousset](http://www.isem.univ-montp2.fr/recherche/teams/evolutionary-genetics/staff/roussetfrancois/?lang=en).
 
 _______________________
 
-## __*t-3:*__ Chizé Center for Biological Studies (CEBC)
+## __*t-4:*__ Chizé Center for Biological Studies (CEBC)
 ![alt text](/images/logo_CEBC.png "CEBC") __*Internship during my gap year.*__
 
 **Supervised by:** [Bertrand Gauffre](https://orcid.org/0000-0001-5431-8098), [Adrien Pinot](https://www.researchgate.net/profile/Adrien_Pinot) & [Vincent Bretagnolle](https://scholar.google.com/citations?user=8TZfEwsAAAAJ&hl=fr).
 
 _______________________
 
-## __*t-4:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
+## __*t-5:*__ Center for Ecological and Evolutionary Synthesis (CEES), Oslo University
 ![alt text](/images/cees.jpg "CEES") __*Internship during my gap year.*__
 
 **Collaborators:**
@@ -60,11 +65,11 @@ _______________________
 
 _______________________
 
-## __*t-5:*__ Home is in Viane, Tarn, Occitanie, France
+## __*t-6:*__ Home is in Viane, Tarn, Occitanie, France
 __*Learning about European temperate wildlife from first hand experience.*__
 
 <figure>
-	<a href="http://viane.fr/presentation/"><img src="/images/roqueceziere.jpg"></a>
+	<a href="http://viane.fr/presentation/"><img src="/images/lecolumbier.jpg"></a>
 	<figcaption><a href="" title="Viane"></a>.</figcaption>
 </figure>
 
