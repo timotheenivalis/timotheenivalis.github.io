@@ -26,9 +26,15 @@ image:
 <!--- ## Preprints (currently under review or in revision)
 --->
 
+## 2023
+
+- Shokirov, S, Jucker, T, Levick, SR, Manning, AD, **Bonnet, T**, Yebra, M,Youngentob, KN (2023) Habitat highs and lows: Using terrestrial and UAV LiDAR for modelling avian species richness and abundance in a restored woodland. _**Remote Sensing of Environment**_ 285 [https://doi.org/10.1016/j.rse.2022.113326](https://doi.org/10.1016/j.rse.2022.113326) <br/> 
+ [![bibtex](/images/bibtex_3.png)](bibs/shokirov2023.bib){:target="_blank"} - 
+ [![pdf](/images/pdf.png)](pdfs/Shokirovetal2022.pdf){:target="_blank"}
+
 ## 2022
 
-- Gardner, JL, Clayton, M, Allen, R, Stein, J, **Bonnet, T** (2022) The effects of temperature extremes on survival in two semi‐arid Australian bird communities over three decades, with predictions to 2104. _**Global Ecology and Biogeography**_ Early View [http://dx.doi.org/10.1111/geb.13591](http://dx.doi.org/10.1111/geb.13591) <br/>
+- Gardner, JL, Clayton, M, Allen, R, Stein, J, **Bonnet, T** (2022) The effects of temperature extremes on survival in two semi‐arid Australian bird communities over three decades, with predictions to 2104. _**Global Ecology and Biogeography**_ 31(12):2498-2509. [http://dx.doi.org/10.1111/geb.13591](http://dx.doi.org/10.1111/geb.13591) <br/>
  [![bibtex](/images/bibtex_3.png)](bibs/gardneretal2022.bib){:target="_blank"} - 
  [![pdf](/images/pdf.png)](pdfs/GardnerEtAl_2022_GEB.pdf){:target="_blank"}
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dispersal route and symbioses
+title: Dispersal and symbioses
 date: 2017-02-26T16:07:57+01:00
 modified: 2023-02-15T17:30:00+02:00
 excerpt: "Where I went, what I did, with who"
@@ -25,6 +25,8 @@ image:
 ![alt text](/images/logo_CEBC.png "CEBC") __*CNRS Researcher*__  
 
 Part of the [*Marine Predators* team](https://www.cebc.cnrs.fr/predateurs-marins/?lang=en). 
+
+_______________________
 
 ## __*t-1*__ Research School of Biology and Biological Data Science Institute, The Australian University, Canberra
 ![alt text](/images/ANU.jpg "ANU") __*Post-doc*__  
