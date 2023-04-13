@@ -28,7 +28,9 @@ image:
 
 ## 2023
 
-- Latimer, A, Sherratt, E, **Bonnet, T**, Scheyer, TM (2023) Semicircular canal shape diversity among modern lepidosaurs – Life habit, size, allometry. _**BMC Ecology and Evolution**_ in press
+- Latimer, A, Sherratt, E, **Bonnet, T**, Scheyer, TM (2023) Semicircular canal shape diversity among modern lepidosaurs – Life habit, size, allometry. _**BMC Ecology and Evolution**_ 23(10) <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/latimer2023.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Latimer_et_al_2023.pdf){:target="_blank"}
 
 - Shokirov, S, Jucker, T, Levick, SR, Manning, AD, **Bonnet, T**, Yebra, M,Youngentob, KN (2023) Habitat highs and lows: Using terrestrial and UAV LiDAR for modelling avian species richness and abundance in a restored woodland. _**Remote Sensing of Environment**_ 285 [https://doi.org/10.1016/j.rse.2022.113326](https://doi.org/10.1016/j.rse.2022.113326) <br/> 
  [![bibtex](/images/bibtex_3.png)](bibs/shokirov2023.bib){:target="_blank"} - 
