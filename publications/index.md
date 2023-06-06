@@ -9,6 +9,17 @@ image:
   feature:
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XT3501YRJE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XT3501YRJE');
+</script>
+
 <span id='badgeCont419579' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont419579&mashlet=badge&showTitle=false&className=a&rid=B-8899-2015'></script></span>
 
 <section id="table-of-contents" class="toc">

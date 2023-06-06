@@ -11,6 +11,17 @@ image:
   creditlink: http://timotheenivalis.github.io
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XT3501YRJE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XT3501YRJE');
+</script>
+
+
 **2 afternoons on linear models, May 2021:**
 [https://timotheenivalis.github.io/workshops/Stats21/](https://timotheenivalis.github.io/workshops/Stats21/)
 
