@@ -2,8 +2,8 @@
 layout: post
 title: My 2-cents on open software
 excerpt: "Why I try to use open software"
-date: 2021-06-30T15:58:0+10:00
-modified: 2021-06-30T15:58:0+10:00
+date: 2023-08-11T15:58:0+10:00
+modified: 2023-08-11T15:58:0+10:00
 tags: [science]
 categories: [science, coding]
 comments: true
