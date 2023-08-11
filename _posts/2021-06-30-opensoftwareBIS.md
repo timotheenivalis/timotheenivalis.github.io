@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My 2-cents on open software
-excerpt: "Why I try to use open software"
+title: Media coverage of our Science paper
+excerpt: "Better late than never"
 date: 2023-08-11T15:58:0+10:00
 modified: 2023-08-11T15:58:0+10:00
 tags: [science]
