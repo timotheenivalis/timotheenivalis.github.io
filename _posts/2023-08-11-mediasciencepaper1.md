@@ -29,8 +29,6 @@ Since I have to report on media coverage for a grant report, I thought I might p
 - [Focus.PL (*Polish*)](https://www.focus.pl/artykul/ewolucja-przyspiesza-zaskakujace-wyniki-badan)
 - [El Perdiodico (*Spanish*)](https://www.elperiodico.com/es/verde-y-azul/20220601/especies-evolucionan-adaptan-rapido-creia-13747640)
 - [Canaltech (*Portuguese*)](https://canaltech.com.br/ciencia/evolucao-de-darwin-pode-ser-4-vezes-mais-rapida-que-o-previsto-diz-estudo-217700/)
-- [Australian National Computing Infrastructure](https://nci.org.au/research/research-highlights/understanding-speed-evolution)
-- [The ANU press release](https://mailchi.mp/anu/fuel-of-evolution-more-abundant-than-previously-thought-in-wild-animals?e=d03f81a735)
 
 Radio:
 
@@ -41,3 +39,12 @@ Radio:
 - Interview on ABC pacific on June 2nd 2022, no recording available
 - Interview on [2ser.com](https://2ser.com/) on June 3rd 2022, no recording available
 
+Social media:
+
+- [https://twitter.com/TimotheeBonnet/status/1529995567946153984?s=20](https://twitter.com/TimotheeBonnet/status/1529995567946153984?s=20)
+- [https://twitter.com/pdevillemereuil/status/1530088190534639616](https://twitter.com/pdevillemereuil/status/1530088190534639616)
+
+Press releases:
+
+- [The ANU press release](https://mailchi.mp/anu/fuel-of-evolution-more-abundant-than-previously-thought-in-wild-animals?e=d03f81a735)
+- [Australian National Computing Infrastructure](https://nci.org.au/research/research-highlights/understanding-speed-evolution)
