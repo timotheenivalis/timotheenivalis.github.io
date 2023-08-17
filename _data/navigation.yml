@@ -1,19 +1,15 @@
+# main links
+main:
 # Site navigation links
-- title: Research
-  url: /research/
-
-- title: Publications
-  url: /publications/
-
-- title: Dispersal and symbioses
-  url: /dispersal/
-
-- title: Workshops
-  url: /workshops/
-
-
-- title: Blog
-  url: /posts/
-
-- title: Contact
-  url: /contact/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Dispersal and symbioses
+    url: /dispersal/
+  - title: Workshops
+    url: /workshops/
+  - title: Blog
+    url: /posts/
+  - title: Contact
+    url: /contact/
