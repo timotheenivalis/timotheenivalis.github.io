@@ -32,12 +32,14 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*
+- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*, *Variation in effect sizes due to analytical decisions in ecology and evolutionary biology*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
 
 ## 2023
+
+- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB. Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ *In press*
 
 - Latimer, A, Sherratt, E, **Bonnet, T**, Scheyer, TM (2023) Semicircular canal shape diversity among modern lepidosaurs – Life habit, size, allometry. _**BMC Ecology and Evolution**_ 23(10) <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/latimer2023.bib){:target="_blank"} - 
