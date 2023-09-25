@@ -39,7 +39,9 @@ image:
 
 ## 2023
 
-- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB. Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ *In press*
+- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB. Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ *In press* <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/menario2023.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Menario_et_al_2023_Kangaroos){:target="_blank"}
 
 - Latimer, A, Sherratt, E, **Bonnet, T**, Scheyer, TM (2023) Semicircular canal shape diversity among modern lepidosaurs – Life habit, size, allometry. _**BMC Ecology and Evolution**_ 23(10) <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/latimer2023.bib){:target="_blank"} - 
