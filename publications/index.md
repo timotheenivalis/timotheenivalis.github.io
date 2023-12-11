@@ -32,14 +32,20 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*, *Variation in effect sizes due to analytical decisions in ecology and evolutionary biology*
+- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
 
+## 2024
+
+- Subasinghe, K, Symonds, MRE, Prober, SM, Bonnet, T, Williams, KJ, Ware, C, Gardner, JL. Spatial variation in avian bill size is associated with temperature extremes in a major radiation of Australian passerines. Proceedings of the Royal Society B. *accepted*
+
 ## 2023
 
-- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB. Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ *In press* <br/>
+- Gould, E, Fraser, HS, Parker, TH, Nakagawa, S, et al. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. _**EcoEvoRxiv**_. [https://ecoevorxiv.org/repository/view/6000/](https://ecoevorxiv.org/repository/view/6000/)
+
+- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB (2023). Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ 34(6) <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/menario2023.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Menario_et_al_2023_Kangaroos){:target="_blank"}
 
