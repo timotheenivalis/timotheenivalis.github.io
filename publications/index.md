@@ -32,14 +32,16 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*
+- (Hopefully) coming soon on this screen: *Cross-sex analysis of additive genetic variance for fitness*; *Evolution in population matrix models (in a way that actually works)*; *When evolution hurts populations*; *Something-something about albatross beak size*
 
 <!--- ## Preprints (currently under review or in revision)
 --->
 
 ## 2024
 
-- Subasinghe, K, Symonds, MRE, Prober, SM, Bonnet, T, Williams, KJ, Ware, C, Gardner, JL. Spatial variation in avian bill size is associated with temperature extremes in a major radiation of Australian passerines. Proceedings of the Royal Society B. *accepted*
+- Subasinghe, K, Symonds, MRE, Prober, SM, **Bonnet, T**, Williams, KJ, Ware, C, Gardner, JL. (2024) Spatial variation in avian bill size is associated with temperature extremes in a major radiation of Australian passerines. Proceedings of the Royal Society B. 291 [https://doi.org/10.1098/rspb.2023.2480](https://doi.org/10.1098/rspb.2023.2480) <br/>
+ [![bibtex](/images/bibtex_3.png)](bibs/subasinghe2024.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/subasinghe2024.pdf){:target="_blank"}
 
 ## 2023
 
