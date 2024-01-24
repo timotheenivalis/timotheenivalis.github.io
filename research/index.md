@@ -33,14 +33,16 @@ A subsidiary question more rarely asked, but the one we need to know whether pop
 
 Spoilers: Based on my PhD and postdoc work on a snow vole population, the answers are 1) absolutely, yes ([Bonnet & Postma 2018](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13246/full), [Bonnet et al. 2017](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002592)); and 2) probably yes, but it is very difficult to be sure.
 
+Across 19 bird and mammal populations it looks like adaptive evolution is rather common and fast enough to alter population dynamics and explain a large share of phenotypic change ([Bonnet et al. 2022](https://doi.org/10.1126/science.abk0853)).
+
 # Statistical methods for evolutionary quantitative genetics
 
 When you work with wild animals it is bloody difficult to see evolution happening in real time, even worse to understand what drives evolution, and nightmarish to predict the future of populations. 
 Because natural ecosystems are so complex, and because field data tend to be noisy, you need special statistical tools to isolate selection, evolution and demographic trends.
 
-I have done some work to tell apart selective signals from neutral processes  ([Bonnet & Postma 2016](http://www.journals.uchicago.edu/doi/10.1086/684158), [van Benthem, Bruijning, Bonnet et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract)), and to correct measurement error from estimates of selection and heritability ([Ponzi, Keller, Bonnet, Muff 2018](https://doi.org/10.1111/evo.13573)). 
 
-At the moment I am focusing on improving statistical models of quantitative genetic variation in fitness, and other strangely distributed traits. Two publications were submitted late 2018.
+I have done some work to properly model genetic variation and selection with empirical data ([Bonnet, Morrissey, Kruuk 2019](https://doi.org/10.1093/jhered/esz018), [Morrissey, Bonnet 2019](https://doi.org/10.1093/jhered/esz020)), to tell apart selective signals from neutral processes  ([Bonnet & Postma 2016](http://www.journals.uchicago.edu/doi/10.1086/684158), [van Benthem, Bruijning, Bonnet et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract)), and to correct measurement error from estimates of selection and heritability ([Ponzi, Keller, Bonnet, Muff 2018](https://doi.org/10.1111/evo.13573), [Subasinghe et al. 2021](https://doi.org/10.1007/s11692-020-09527-5)). 
+
 
 # Recursive evolution: hybridization and speciation
 
