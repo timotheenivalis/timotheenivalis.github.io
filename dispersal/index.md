@@ -33,17 +33,18 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+Where I am, where I have been, who I did work with.
 
 # Current: Chizé Center for Biological Studies (CEBC)
 ![alt text](/images/logo_CEBC.png "CEBC") __*CNRS Researcher*__  
 
 Part of the [*Marine Predators* team](https://www.cebc.cnrs.fr/predateurs-marins/?lang=en). 
 
-Supervision:
+**Supervision:**
 
 * Jan-Jun 2024, Laura Martínez Antón on a Master 2 internship 
 
-Working with: [Christophe Barbraud](https://www.cebc.cnrs.fr/predateurs-marins/christophe-barbraud/), [Karine Delord](https://www.cebc.cnrs.fr/predateurs-marins/karine-delord-2/), [Cécile Ribout](https://www.cebc.cnrs.fr/cecile-ribout/), [Stéphanie Jenouvrier](https://www.whoi.edu/profile/sjenouvrier/), [Jimmy Garnier](https://jgarnier.perso.math.cnrs.fr/), [Joanie Van de Walle](https://joanievandewalle.weebly.com/)
+**Working with:** [Christophe Barbraud](https://www.cebc.cnrs.fr/predateurs-marins/christophe-barbraud/), [Karine Delord](https://www.cebc.cnrs.fr/predateurs-marins/karine-delord-2/), [Cécile Ribout](https://www.cebc.cnrs.fr/cecile-ribout/), [Stéphanie Jenouvrier](https://www.whoi.edu/profile/sjenouvrier/), [Jimmy Garnier](https://jgarnier.perso.math.cnrs.fr/), [Joanie Van de Walle](https://joanievandewalle.weebly.com/)
 
 _______________________
 
