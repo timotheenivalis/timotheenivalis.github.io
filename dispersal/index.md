@@ -34,14 +34,20 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-# Chizé Center for Biological Studies (CEBC)
+# Current: Chizé Center for Biological Studies (CEBC)
 ![alt text](/images/logo_CEBC.png "CEBC") __*CNRS Researcher*__  
 
 Part of the [*Marine Predators* team](https://www.cebc.cnrs.fr/predateurs-marins/?lang=en). 
 
+Supervision:
+
+* Jan-Jun 2024, Laura Martínez Antón on a Master 2 internship 
+
+Working with: [Christophe Barbraud](https://www.cebc.cnrs.fr/predateurs-marins/christophe-barbraud/), [Karine Delord](https://www.cebc.cnrs.fr/predateurs-marins/karine-delord-2/), [Cécile Ribout](https://www.cebc.cnrs.fr/cecile-ribout/), [Stéphanie Jenouvrier](https://www.whoi.edu/profile/sjenouvrier/), [Jimmy Garnier](https://jgarnier.perso.math.cnrs.fr/), [Joanie Van de Walle](https://joanievandewalle.weebly.com/)
+
 _______________________
 
-## __*t-1*__ Research School of Biology and Biological Data Science Institute, The Australian University, Canberra
+## __*t-1:*__ Research School of Biology and Biological Data Science Institute, The Australian University, Canberra
 ![alt text](/images/ANU.jpg "ANU") __*Post-doc*__  
 
 **Worked with:** [Loeske Kruuk](http://biology.anu.edu.au/research/labs/kruuk-lab-evolutionary-ecology-and-quantitative-genetics), [Andrew Cockburn](http://biology.anu.edu.au/people/andrew-cockburn), [Michael Morrissey](https://synergy.st-andrews.ac.uk/megaloceros/).
