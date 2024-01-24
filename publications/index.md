@@ -47,11 +47,11 @@ image:
 
 - Gould, E, Fraser, HS, Parker, TH, Nakagawa, S, et al. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. _**EcoEvoRxiv**_. [https://ecoevorxiv.org/repository/view/6000/](https://ecoevorxiv.org/repository/view/6000/)
 
-- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB (2023). Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ 34(6) <br/>
+- Menário Costa, W, Kind, WJ, **Bonnet, T**, Festa-Bianchet, M, Kruuk, LEB (2023). Early-life behavior, survival, and maternal personality in a wild marsupial. _**Behavioral Ecology**_ 34(6) [https://doi.org/10.1093/beheco/arad070](https://doi.org/10.1093/beheco/arad070) <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/menario2023.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Menario_et_al_2023_Kangaroos){:target="_blank"}
 
-- Latimer, A, Sherratt, E, **Bonnet, T**, Scheyer, TM (2023) Semicircular canal shape diversity among modern lepidosaurs – Life habit, size, allometry. _**BMC Ecology and Evolution**_ 23(10) <br/>
+- Latimer, A, Sherratt, E, **Bonnet, T**, Scheyer, TM (2023) Semicircular canal shape diversity among modern lepidosaurs – Life habit, size, allometry. _**BMC Ecology and Evolution**_ 23(10) [https://doi.org/10.1186/s12862-023-02113-1](https://doi.org/10.1186/s12862-023-02113-1) <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/latimer2023.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Latimer_et_al_2023.pdf){:target="_blank"}
 
