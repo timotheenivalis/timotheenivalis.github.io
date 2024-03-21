@@ -22,16 +22,19 @@ image:
 </script>
 
 
-## Looking for a PhD Student
-
- **Fully funded PhD project to work on current natural selection, evolution and demography in several population of Albatrosses, with fieldwork in the subantarctic.**  A French version of the project is here: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf), but if you do not read French know that it is flexible anyway. [Contact me](mailto:timothee.bonnet@cebc.cnrs.fr) ASAP if you may be interested.
-
-_______________________
-
-
 I am a researcher at the French National Centre for Scientific Research, at Centre d'Etudes Biologiques de Chizé (CNRS & La Rochelle Université).
 
 I do research on **recent genetic evolution** and **demography** in wild animal populations. I work with various animals, but my current projects focus on **albatrosses**.
+
+_______________________
+
+## Looking for a PhD Student
+
+ **Fully funded PhD project to work on current natural selection, evolution and demography in several population of Albatrosses, with fieldwork in the subantarctic.**
+ 
+ A French version of the project is here: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf), but if you do not read French know that it is flexible anyway.
+ 
+ [Contact me](mailto:timothee.bonnet@cebc.cnrs.fr) ASAP if you may be interested.
 
 _______________________
 
