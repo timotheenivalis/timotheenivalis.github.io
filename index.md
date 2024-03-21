@@ -22,13 +22,20 @@ image:
 </script>
 
 
-I am a researcher at the French National Centre for Scientific Research, at Centre d'Etudes Biologiques de Chizé (CNRS & La Rochelle Université).
+# Looking for a PhD Student
 
-I do research on **recent genetic evolution** and **demography** in wild animal populations. I work with various animals, but I am starting projects focussed on sub-antarctic seabirds, especially albatrosses.
+ _**I have a fully funded PhD project to work on current natural selection, evolution and demography in several population of Albatrosses._**  A French version of the project is here: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf), but if you do not read French know that it is flexible anyway. [Contact me](timothee.bonnet@cebc.cnrs.fr) ASAP if you may be interested.
 
 _______________________
 
-Until January 2023 I was a DECRA fellow at the [Research School of Biology](https://biology.anu.edu.au/) and gave part-time support in statistics and programming within the [Biological Data Science Institute](http://bdsi.anu.edu.au/); both part of the Australian National University in Canberra.
+
+I am a researcher at the French National Centre for Scientific Research, at Centre d'Etudes Biologiques de Chizé (CNRS & La Rochelle Université).
+
+I do research on **recent genetic evolution** and **demography** in wild animal populations. I work with various animals, but my current projects focus on **albatrosses**.
+
+_______________________
+
+### Quick links
 
 [**Workshops of Bio-Statistics and R-programming** are at https://timotheenivalis.github.io//workshops/](https://timotheenivalis.github.io//workshops/).
 
