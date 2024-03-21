@@ -21,7 +21,7 @@ image:
 </script>
 
 ## E-mail
-[timotheebonnetc followed by "at gmail dot com" ](mailto:timotheebonnetc@gmail.com)
+[timothee.bonnet@cebc.cnrs.fr](mailto:timothee.bonnet@cebc.cnrs.fr)
 
 ## Send a pigeon 
 Timothée Bonnet  

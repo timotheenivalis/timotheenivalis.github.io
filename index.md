@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Animal evolution, selection, demography, NOW!
 date: 2017-02-25T23:28:58+01:00
 modified: 2023-08-15T10:17:00+09:00
 excerpt: "Timothée Bonnet's research website."
@@ -22,9 +22,9 @@ image:
 </script>
 
 
-# Looking for a PhD Student
+## Looking for a PhD Student
 
- _**I have a fully funded PhD project to work on current natural selection, evolution and demography in several population of Albatrosses._**  A French version of the project is here: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf), but if you do not read French know that it is flexible anyway. [Contact me](timothee.bonnet@cebc.cnrs.fr) ASAP if you may be interested.
+ **Fully funded PhD project to work on current natural selection, evolution and demography in several population of Albatrosses, with fieldwork in the subantarctic.**  A French version of the project is here: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf), but if you do not read French know that it is flexible anyway. [Contact me](mailto:timothee.bonnet@cebc.cnrs.fr) ASAP if you may be interested.
 
 _______________________
 
