@@ -32,9 +32,12 @@ _______________________
 
  **Fully funded PhD project to work on current natural selection, evolution and demography in several population of Albatrosses, with fieldwork in the subantarctic.**
  
- A French version of the project is here: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf), but if you do not read French know that it is flexible anyway.
+Full description of the project at [https://timotheenivalis.github.io/Rnotebooks/PhDProjectEnglish.pdf](https://timotheenivalis.github.io/Rnotebooks/PhDProjectEnglish.pdf).
  
- [Contact me](mailto:timothee.bonnet@cebc.cnrs.fr) ASAP if you may be interested.
+ 
+Version Française: [https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf](https://www.univ-larochelle.fr/wp-content/uploads/TBonnet_CEBC_AAP_AllocDoc_2024-1.pdf).
+ 
+Apply (CV + cover letter before May 31st 2024) or enquire at [timothee.bonnet@cebc.cnrs.fr](mailto:timothee.bonnet@cebc.cnrs.fr)
 
 _______________________
 
