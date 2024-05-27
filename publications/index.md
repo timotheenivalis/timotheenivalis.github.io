@@ -45,8 +45,8 @@ image:
 
 - Ghislain, M<sup>**1**</sup>, **Bonnet, T**<sup>**1**</sup>, Godeau, U, Dehorter, 0, Gimenez, O, Henry, P-Y. (2024) Synchrony in adult survival is remarkably strong among common temperate songbirds across France. [https://doi.org/10.1002/ecy.4305](https://doi.org/10.1002/ecy.4305) (<sup>**1**</sup>shared first authorship) <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/ghislainetal2024.bib){:target="_blank"} - 
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/cyeb7/){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Ghislainetal2024Synchrony.pdf){:target="_blank"}
-
 
 - Subasinghe, K, Symonds, MRE, Prober, SM, **Bonnet, T**, Williams, KJ, Ware, C, Gardner, JL. (2024) Spatial variation in avian bill size is associated with temperature extremes in a major radiation of Australian passerines. Proceedings of the Royal Society B. 291 [https://doi.org/10.1098/rspb.2023.2480](https://doi.org/10.1098/rspb.2023.2480) <br/>
  [![bibtex](/images/bibtex_3.png)](bibs/subasinghe2024.bib){:target="_blank"} - 
@@ -83,8 +83,6 @@ image:
 - **Bonnet, T**, Morrissey, MB, de Villemereuil, P, Alberts, SC, Arcese, P, Bailey, LD, Boutin, S, Brekke, P, Brent, LJN, Camenisch, G, Charmantier, A, Clutton-Brock, TH, Cockburn, A, Coltman, DW, Courtiol, A, Davidian, E, Evans, SR, Ewen, JG, Festa-Bianchet, M, de Franceschi, C, Gustafsson, L, Höner, OP, Houslay, TM, Keller, LF, Manser, M, McAdam, MG, McLean, E, Nietlisbach, P, Osmond, HL, Pemberton, JM, Postma, E, Reid, JM, Rutschmann, A, Santure, AW, Sheldon, BC, Slate, J, Teplitsky, C, Visser, ME, Wachter, B & LEB Kruuk. (2022)  Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. _**Science**_ 376(6596): 1012-1016. [https://doi.org/10.1126/science.abk0853](https://doi.org/10.1126/science.abk0853) <br/> Free-access referral link: [https://www.science.org/stoken/author-tokens/ST-526/full](https://www.science.org/stoken/author-tokens/ST-526/full) - 
 [![bibtex](/images/bibtex_3.png)](bibs/bonnetetal2022Science.bib){:target="_blank"}
 
-- Ghislain, M, **Bonnet, T**, Godeau, U, Dehorter, O,  Gimenez, O, Henry, PY  (2022). Synchrony in adult survival is remarkably strong among common temperate songbirds across France. _**EcoEvoRxiv**_. [https://ecoevorxiv.org/cyeb7/](https://ecoevorxiv.org/cyeb7/)
-
 ## 2021
 
 - Aich, U, **Bonnet, T**, Head, ML & Jennions, MD (2021). Effect of male age and past mating effort on pre-copulatory male-mating behaviour and paternity success. _**Evolution**_ early view, [https://doi.org/10.1111/evo.14371](https://doi.org/10.1111/evo.14371).<br/>
@@ -96,14 +94,14 @@ image:
 
 - Cooper, E, **Bonnet, T**, Osmond, H, Cockburn, A & Kruuk, L (2020). Ageing and senescence across reproductive traits and survival in superb fairy-wrens (_Malurus cyaneus_). _**The American Naturalist**_ 197(1): 111-127, [https://doi.org/10.1086/711755](https://doi.org/10.1086/711755).<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/cooperetal2021amnat.bib){:target="_blank"} - 
-[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/) - 
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/uepxj/){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Cooperetal_2021_AmNat.pdf){:target="_blank"}
 
 ## 2020
 
 - Cooper, E, **Bonnet, T**, Cockburn, A & Kruuk, L (2020). Do the ages of parents or helpers affect offspring fitness in a cooperatively breeding bird? _**Journal of Evolutionary Biology**_ 33(12): 1735-1748.<br/>
 [![bibtex](/images/bibtex_3.png)](bibs/cooper_ages_2020.bib){:target="_blank"} - 
-[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/) -
+[![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/e9fwy/){:target="_blank"} -
 [![pdf](/images/pdf.png)](pdfs/Cooperetal_2020_JEB.pdf){:target="_blank"}
 
 - Aich, U, **Bonnet, T**, Fox, R & Jennions, MD (2020). An experimental test to separate the effects of male age and mating history on female mate choice. _**Behavioural Ecology**_ araa092, [https://doi.org/10.1093/beheco/araa092](https://doi.org/10.1093/beheco/araa092).<br/>
