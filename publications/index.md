@@ -39,6 +39,15 @@ image:
 
 ## 2024
 
+- Cuchot, P, **Bonnet, T**, Dehorter, O, Henry, P-Y, Teplitsky, C. (2024) How interacting anthropogenic pressures alter the plasticity of breeding time in two common songbirds. Journal of Animal Ecology. [https://doi.org/10.1111/1365-2656.14113](https://doi.org/10.1111/1365-2656.14113) <br/> 
+[![bibtex](/images/bibtex_3.png)](bibs/cuchotetal2024.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Cuchotetal2024Plasticity.pdf){:target="_blank"}
+
+- Ghislain, M<sup>**1**</sup>, **Bonnet, T**<sup>**1**</sup>, Godeau, U, Dehorter, 0, Gimenez, O, Henry, P-Y. (2024) Synchrony in adult survival is remarkably strong among common temperate songbirds across France. [https://doi.org/10.1002/ecy.4305](https://doi.org/10.1002/ecy.4305) (<sup>**1**</sup>shared first authorship) <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/ghislainetal2024.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Ghislainetal2024Synchrony.pdf){:target="_blank"}
+
+
 - Subasinghe, K, Symonds, MRE, Prober, SM, **Bonnet, T**, Williams, KJ, Ware, C, Gardner, JL. (2024) Spatial variation in avian bill size is associated with temperature extremes in a major radiation of Australian passerines. Proceedings of the Royal Society B. 291 [https://doi.org/10.1098/rspb.2023.2480](https://doi.org/10.1098/rspb.2023.2480) <br/>
  [![bibtex](/images/bibtex_3.png)](bibs/subasinghe2024.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/subasinghe2024.pdf){:target="_blank"}
