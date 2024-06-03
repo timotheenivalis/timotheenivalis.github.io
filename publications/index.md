@@ -203,6 +203,12 @@ Flycatcher from Norway. _**Journal of Ornithology**_ 152: 1069–1073. [doi:10.1
 [![bibtex](/images/bibtex_3.png)](bibs/bonnet2011.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/bonnet_et_al_2011_Jornitho.pdf){:target="_blank"}
 
+## Non peer-review publications
+
+- **Bonnet, T**, Ghislain, M, Henry, PY. Studying Interspecific Synchrony in Bird Survival Using Constant Effort Sites Mist-Netting Scheme. The Bulletin of the Ecological Society of America. [doi:10.1002/bes2.2155](https://doi.org/10.1002/bes2.2155){:target="_blank"}.<br/>
+[![pdf](/images/pdf.png)](pdfs/Bonnetetal2024SynchroBulletin.pdf){:target="_blank"}
+
+
 ## Published data
 
 - **Bonnet, T** & Postma, E (2018). Data from: Fluctuating selection and its (elusive) evolutionary consequences in a wild rodent population. _**Dryad Digital Repository**_. [https://datadryad.org//resource/doi:10.5061/dryad.6767m](https://datadryad.org//resource/doi:10.5061/dryad.6767m)<br/>
