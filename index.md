@@ -26,6 +26,12 @@ I am a researcher at the French National Centre for Scientific Research, at Cent
 
 I do research on **recent genetic evolution** and **demography** in wild animal populations. I work with various animals, but my current projects focus on **albatrosses**.
 
+_______________________
+
+### Come work with me?
+
+Get in touch if you would be interested in applying for funding to come do a Post-Doc or PhD with me. Several national, European and international funding bodies could provide appropriate fellowships.
+
 
 _______________________
 
