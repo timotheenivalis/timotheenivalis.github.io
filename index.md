@@ -30,11 +30,9 @@ _______________________
 
 ### Come work with me?
 
-_**I am offering a fully-funded PhD, co-supervised with Christophe Barbraud, on white stork migration and habitat use. Come work with us to analyse GPS, accelerometry, demographic and physiologic data.**_
+_**I will be opening a post-doc position, starting from early 2026, to work on individual genomic data of wandering albatrosses (RAD-seq and low-coverage WGS), to estimate quantitative genetic parameters and infer signals of recent selection.**_
 
-[Details here](https://timotheenivalis.github.io/Rnotebooks/AAP_AllocDoc_2025_Form_Cigognes_BarbraudBonnetetal_cb_ENGLISH.pdf)
-
-_**Contact me to apply before May 31st 2025 or for information.**_
+_**Contact me if you would like to discuss details.**_
 
 
 

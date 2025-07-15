@@ -42,6 +42,8 @@ Part of the [*Marine Predators* team](https://www.cebc.cnrs.fr/predateurs-marins
 
 **Supervision:**
 
+* Nov 2024 - Oct 2027, Pauline Richard, PhD
+* Apr-May 2024, Jean-Joseph Matta on a 3rd year internship 
 * Jan-Jun 2024, Laura Martínez Antón on a Master 2 internship 
 
 **Working with:** [Christophe Barbraud](https://www.cebc.cnrs.fr/predateurs-marins/christophe-barbraud/), [Karine Delord](https://www.cebc.cnrs.fr/predateurs-marins/karine-delord-2/), [Cécile Ribout](https://www.cebc.cnrs.fr/cecile-ribout/), [Stéphanie Jenouvrier](https://www.whoi.edu/profile/sjenouvrier/), [Jimmy Garnier](https://jgarnier.perso.math.cnrs.fr/), [Joanie Van de Walle](https://joanievandewalle.weebly.com/)
