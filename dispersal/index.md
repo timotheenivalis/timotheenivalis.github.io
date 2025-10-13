@@ -33,7 +33,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Where I am, where I have been, who I did work with.
+Location and collaborations through time.
 
 # Current: Chizé Center for Biological Studies (CEBC)
 ![alt text](/images/logo_CEBC.png "CEBC") __*CNRS Researcher*__  
@@ -42,9 +42,10 @@ Part of the [*Marine Predators* team](https://www.cebc.cnrs.fr/predateurs-marins
 
 **Supervision:**
 
-* Nov 2024 - Oct 2027, Pauline Richard, PhD
-* Apr-May 2024, Jean-Joseph Matta on a 3rd year internship 
-* Jan-Jun 2024, Laura Martínez Antón on a Master 2 internship 
+* Oct 2025 - Sep 2028, Marie Thalhammer, PhD on white stork migration and habitat use
+* Nov 2024 - Oct 2027, Pauline Richard, PhD on natural selection in albatross populations
+* Apr-May 2024, Jean-Joseph Matta, 3rd year internship on depredation of giant petrel eggs by skuas
+* Jan-Jun 2024, Laura Martínez Antón, Master 2 internship on cause of bill size change in wandering albatross
 
 **Working with:** [Christophe Barbraud](https://www.cebc.cnrs.fr/predateurs-marins/christophe-barbraud/), [Karine Delord](https://www.cebc.cnrs.fr/predateurs-marins/karine-delord-2/), [Cécile Ribout](https://www.cebc.cnrs.fr/cecile-ribout/), [Stéphanie Jenouvrier](https://www.whoi.edu/profile/sjenouvrier/), [Jimmy Garnier](https://jgarnier.perso.math.cnrs.fr/), [Joanie Van de Walle](https://joanievandewalle.weebly.com/)
 
