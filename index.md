@@ -21,10 +21,20 @@ image:
   gtag('config', 'G-XT3501YRJE');
 </script>
 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 
 I am a researcher at the French National Centre for Scientific Research, at Centre d'Etudes Biologiques de Chizé (CNRS & La Rochelle Université).
 
-I do research on **recent genetic evolution** and **demography** in wild animal populations. I work with various animals, but my current projects focus on **albatrosses**.
+I do research on **recent genetic evolution** and **demography** in wild animal populations, including **albatrosses** for my current main project.
 
 _______________________
 
@@ -48,4 +58,22 @@ _______________________
 [My CV](http://timotheenivalis.github.io/Rnotebooks/cv.pdf).
 
 [A small page about some stuff I enjoy out of research](https://timotheenivalis.github.io//outside/)
+
+_______________________
+
+### Contact details
+
+timothee.bonnet at cebc.cnrs.fr
+
+Timothée Bonnet
+Centre d’Etudes Biologiques de Chizé
+UMR 7372 Université de la Rochelle-CNRS
+405 route de Prissé la Charrière
+79360 Villiers en Bois
+France
+
+* [Mastodon: ecoevo.social/@TimotheeBonnet](https://ecoevo.social/@TimotheeBonnet)  
+* [ResearchGate](https://www.researchgate.net/profile/Timothee_Bonnet)  
+* [GitHub: timotheenivalis](https://github.com/timotheenivalis/)
+* [Gitlab: timotheebonnet](https://src.koda.cnrs.fr/timotheebonnet)
 
