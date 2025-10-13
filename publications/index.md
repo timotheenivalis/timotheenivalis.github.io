@@ -41,7 +41,8 @@ Group members in **bold**.
 
 ## 2025
 
-- van de Walle J, Garnier J, **Bonnet T**, Jenouvrier S (2025).	Toward a unified approach to modeling adaptation among demographers and evolutionary ecologists. _**Methods in Ecology and Evolution**_ 16:1644–1657 [https://doi.org/10.1111/2041-210X.70075](https://doi.org/10.1111/2041-210X.70075).
+- van de Walle J, Garnier J, **Bonnet T**, Jenouvrier S (2025).	Toward a unified approach to modeling adaptation among demographers and evolutionary ecologists. _**Methods in Ecology and Evolution**_ 16:1644–1657 [https://doi.org/10.1111/2041-210X.70075](https://doi.org/10.1111/2041-210X.70075). <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/vandewalle2025.bib){:target="_blank"} - 
 
 - Gould E, Fraser HS, Parker TH, Nakagawa S, et al. (2025) Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. BMC biology 23 (1), 35 [https://doi.org/10.1186/s12915-024-02101-x](https://doi.org/10.1186/s12915-024-02101-x)
 

@@ -108,7 +108,7 @@ defaults:
       related: false
 
 # Comments
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "https-timotheenivalis-github-io"
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "https-timotheenivalis-github-io"
