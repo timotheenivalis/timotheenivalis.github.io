@@ -17,6 +17,9 @@ The project is funded by the *Agence Nationale de la Recherche*, takes place at 
 
 ![](/images/anr-logo-footer-2021-2.png) ![](/images/logo_CEBC_PJG_24-300x164.png)  ![](/images/ipev-214553532white.png) ![](/images/taaf.png)
 
+<img src="/images/logo_CEBC_PJG_24-300x164.png" alt="Description" width="100">
+
+<img src="/images/taaf.png" alt="Description" width="100">
 
 ## Project context and goals
 
