@@ -40,7 +40,9 @@ _______________________
 
 ### Come work with me?
 
-_**I will be opening a post-doc position, starting from early 2026, to work on individual genomic data of wandering albatrosses (RAD-seq and low-coverage WGS), to estimate quantitative genetic parameters and infer signals of recent selection.**_
+_**<span style="color:red">I am looking for post-doc</span>., starting from early 2026 and for 2 years, to work on individual genomic data of wandering albatrosses (RAD-seq and low-coverage WGS), to estimate quantitative genetic parameters and infer signals of recent selection.**_
+
+Information and application here: [https://emploi.cnrs.fr/Offres/CDD/UMR7372-TIMBON-003/Default.aspx](https://emploi.cnrs.fr/Offres/CDD/UMR7372-TIMBON-003/Default.aspx)
 
 _**Contact me if you would like to discuss details.**_
 
