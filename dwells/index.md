@@ -15,7 +15,7 @@ The project Demography With Evolution in Long-Lived Seabirds (**DWELLS**) from 2
 
 The project is funded by the *Agence Nationale de la Recherche*, takes place at CEBC, with logistical support from the French polar institute IPEV and the French Antarctic and sub-antarctic territories (TAAFs).
 
-<img src="/images/anr-logo-footer-2021-2.png" alt="Description" width="40"> <img src="/images/logo_CEBC_PJG_24-300x164.png" alt="Description" width="40"> <img src="/images/ipev-214553532white.png" alt="Description" width="40"> <img src="/images/taaf.png" alt="Description" width="40">
+<img src="/images/anr-logo-footer-2021-2.png" alt="Description" width="100"> <img src="/images/logo_CEBC_PJG_24-300x164.png" alt="Description" width="100"> <img src="/images/ipev-214553532white.png" alt="Description" width="100"> <img src="/images/taaf.png" alt="Description" width="80">
 
 ## Project context and goals
 
