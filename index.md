@@ -2,7 +2,7 @@
 layout: home
 title: Animal evolution, selection, demography, NOW!
 date: 2017-02-25T23:28:58+01:00
-modified: 2023-08-15T10:17:00+09:00
+modified: 2026-02-27T10:30:00+09:00
 excerpt: "Timothée Bonnet's research website."
 tags: [Timothée Bonnet, research, quantitative genetics, Chionomys nivalis, snow vole, home, albatross]
 image:
@@ -40,16 +40,9 @@ _______________________
 
 ### Come work with me?
 
-_**<span style="color:red">I am looking for a post-doc</span>., for 2 years starting from early 2026, to work on individual genomic data of wandering albatrosses (RAD-seq and low-coverage WGS), to estimate quantitative genetic parameters and infer signals of recent selection.**_
-
-Information and application here: [https://emploi.cnrs.fr/Offres/CDD/UMR7372-TIMBON-003/Default.aspx](https://emploi.cnrs.fr/Offres/CDD/UMR7372-TIMBON-003/Default.aspx)
-
-_**Contact me if you would like to discuss details.**_
-
-
-
 Get in touch if you would be interested in applying for funding to come do a Post-Doc or PhD with me. Several national, European and international funding bodies could provide appropriate fellowships.
 
+I also welcome applications for Masters-level internship from students with a taste for quantitative approaches and special interest in evolutionary biology or quantitative genetics.
 
 _______________________
 
