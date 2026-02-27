@@ -39,20 +39,35 @@ image:
 
 Group members in **bold**.
 
+## 2026
+
+- Rouby E, Van De Walle J, Plard F, Delord K, Aubry L, Barbraud C, **Bonnet T**, Weimerskirch H, Jenouvrier S (2026). Drivers of age at first reproduction in the wandering albatross (<i>Diomedea exulans</i>): demographic factors, environmental conditions and sex-specific responses. Journal of Animal Ecology *in press*.
+
 ## 2025
+
+- Cuchot P, **Bonnet T**, Robinson RA, Arizaga J, Fiedler W, Geiter O, Henshaw I, Herrmann C, van der Jeugd H, Karcza Z, Leal A, Lehikoinen P, von Rönn JAC, Thorup K, Teplitsky C, Henry PY (2025) Phenological Plasticity and Its Temperature‐Related Drivers in Common Songbirds Across Europe. Global Change Biology 31 (11), e70600 [https://doi.org/10.1111/gcb.70600](https://doi.org/10.1111/gcb.70600). <br/> 
+[![bibtex](/images/bibtex_3.png)](bibs/cuchotetal2025.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Cuchot2025_PhenologicalPlasticity.pdf){:target="_blank"}
 
 - van de Walle J, Garnier J, **Bonnet T**, Jenouvrier S (2025).	Toward a unified approach to modeling adaptation among demographers and evolutionary ecologists. _**Methods in Ecology and Evolution**_ 16:1644–1657 [https://doi.org/10.1111/2041-210X.70075](https://doi.org/10.1111/2041-210X.70075). <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/vandewalle2025.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/VandeWalle_et_al_2025_EvoDemo.pdf){:target="_blank"}
 
-- Gould E, Fraser HS, Parker TH, Nakagawa S, et al. (2025) Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. BMC biology 23 (1), 35 [https://doi.org/10.1186/s12915-024-02101-x](https://doi.org/10.1186/s12915-024-02101-x)
+- Gould E, Fraser HS, Parker TH, Nakagawa S, et al. (2025) Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. BMC biology 23 (1), 35 [https://doi.org/10.1186/s12915-024-02101-x](https://doi.org/10.1186/s12915-024-02101-x). <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/gould2025.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/gould2025manyanalists.pdf){:target="_blank"}
 
-- Taylor CJ, **Bonnet T**, Taylor CJ, Langmore NE (2025). Perch proximity does not predict the probability of cuckoo parasitism in a woodland host. _**Animal Behaviour**_ 221 [https://doi.org/10.1016/j.anbehav.2024.10.019](https://doi.org/10.1016/j.anbehav.2024.10.019).
+- Taylor CJ, **Bonnet T**, Taylor CJ, Langmore NE (2025). Perch proximity does not predict the probability of cuckoo parasitism in a woodland host. _**Animal Behaviour**_ 221 [https://doi.org/10.1016/j.anbehav.2024.10.019](https://doi.org/10.1016/j.anbehav.2024.10.019). <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/taylor2024.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/taylor2024.pdf){:target="_blank"}
 
 ## 2024
 
 - **Martínez Antón L**, Delord K, Barbraud C, Ribout C **Bonnet T** (2024). Causes of recent changes in bill length in Crozet wandering albatross, a long-lived seabird. [https://doi.org/10.32942/X2NP72](https://doi.org/10.32942/X2NP72) <br/> [![EcoEvoRXiv](/images/ecoevorxiv.png)](https://ecoevorxiv.org/repository/view/8090/){:target="_blank"} - 
 
-- **Bonnet T** (2024) Joining forces to push past paradoxes: Combining quantitative genetics and genomics shows evolution hiding in plain sight. _**Proceedings of the National Accademy of Sciences**_ 121(42) [https://doi.org/10.1073/pnas.2417220121](https://doi.org/10.1073/pnas.2417220121).
+- **Bonnet T** (2024) Joining forces to push past paradoxes: Combining quantitative genetics and genomics shows evolution hiding in plain sight. _**Proceedings of the National Accademy of Sciences**_ 121(42) [https://doi.org/10.1073/pnas.2417220121](https://doi.org/10.1073/pnas.2417220121). <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/bonnet2024pnas.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/bonnet2024joining.pdf){:target="_blank"}
 
 - Cuchot P, **Bonnet T**, Dehorter O, Henry P-Y, Teplitsky C. (2024) How interacting anthropogenic pressures alter the plasticity of breeding time in two common songbirds. _**Journal of Animal Ecology**_. 93(7):918-931 [https://doi.org/10.1111/1365-2656.14113](https://doi.org/10.1111/1365-2656.14113) <br/> 
 [![bibtex](/images/bibtex_3.png)](bibs/cuchotetal2024.bib){:target="_blank"} - 
