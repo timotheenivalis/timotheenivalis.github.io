@@ -41,6 +41,10 @@ Group members in **bold**.
 
 ## 2026
 
+- Clessin A et al. (2026). Dispersal, adaptation and persistence of H5N1 in the sub-Antarctic and Antarctica. BioRxiv *preprint*. <br/>
+[![bibtex](/images/bibtex_3.png)](clessin_2026.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/clessin_2026.pdf){:target="_blank"}
+
 - Rouby E, Van De Walle J, Plard F, Delord K, Aubry L, Barbraud C, **Bonnet T**, Weimerskirch H, Jenouvrier S (2026). Drivers of age at first reproduction in the wandering albatross (<i>Diomedea exulans</i>): demographic factors, environmental conditions and sex-specific responses. Journal of Animal Ecology *in press*.
 
 ## 2025
