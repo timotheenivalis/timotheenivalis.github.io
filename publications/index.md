@@ -45,7 +45,10 @@ Group members in **bold**.
 [![bibtex](/images/bibtex_3.png)](bibs/clessin_2026.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/clessin_2026.pdf){:target="_blank"}
 
-- Rouby E, Van De Walle J, Plard F, Delord K, Aubry L, Barbraud C, **Bonnet T**, Weimerskirch H, Jenouvrier S (2026). Drivers of age at first reproduction in the wandering albatross (<i>Diomedea exulans</i>): demographic factors, environmental conditions and sex-specific responses. Journal of Animal Ecology *in press*.
+- Rouby E, Van De Walle J, Plard F, Delord K, Aubry L, Barbraud C, **Bonnet T**, Weimerskirch H, Jenouvrier S (2026). Drivers of age at first reproduction in the wandering albatross (<i>Diomedea exulans</i>): demographic factors, environmental conditions and sex-specific responses. Journal of Animal Ecology *early view*.
+[![bibtex](/images/bibtex_3.png)](bibs/roubyetal2026.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Roubyetal2026.pdf){:target="_blank"}
+
 
 ## 2025
 
