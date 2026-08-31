@@ -1,0 +1,15 @@
+@article{https://doi-org.inee.bib.cnrs.fr/10.1111/1365-2435.70427,
+Click and Read
+
+author = {Carle, Hannah J. and Bonnett, Timothée and Nicotra, Adrienne B. and Godoong, Elia and Hector, Andrew and Meir, Patrick and O'Brien, Michael J.},
+title = {Trait variation driven by tree size more than environment and shows limited translation to species vital rates},
+journal = {Functional Ecology},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {dipterocarp, functional trait, hierarchical models, intraspecific variation, plant size},
+doi = {https://doi-org.inee.bib.cnrs.fr/10.1111/1365-2435.70427},
+url = {https://besjournals-onlinelibrary-wiley-com.inee.bib.cnrs.fr/doi/abs/10.1111/1365-2435.70427},
+eprint = {https://besjournals-onlinelibrary-wiley-com.inee.bib.cnrs.fr/doi/pdf/10.1111/1365-2435.70427},
+abstract = {Abstract Functional traits are expected to predict vital rates and performance outcomes because they mediate how organisms interact with the environment. However, trait-based models often have poor predictive power for tree species survival and growth. One potential reason is that traits vary substantially within species, in relation to tree size and environment, especially given multiple interacting environmental gradients, for example light, soil moisture, climate and topography. We used a seedling translocation experiment and Bayesian hierarchical models to test whether a suite of nine physiological and morphological traits correspond with species survival and growth, and how within-species variation affects these trait-vital rate relationships. Trait variation and trait covariation/syndromes were driven by tree size and to a lesser extent by environment. Nonetheless, economic trade-offs between acquisitive versus conservative trait values were apparent, even at the small spatial and taxonomic scales captured in this study. Species wood density and specific leaf area were associated with species-level survival. In addition, within species, survival was greater for moderately droughted trees where soil waterlogging was alleviated. There were no clear trait associations with species-level growth. These results demonstrate complex dynamics between tree size, environment and traits, wherein multidimensional trait variation and trait trade-offs work in concert to define seedling performance outcomes. The complexity of within-species trait variation shown here illustrates why trait-vital rate associations are often difficult to resolve. Read the free Plain Language Summary for this article on the Journal blog.}
+}

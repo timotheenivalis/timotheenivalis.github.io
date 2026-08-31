@@ -41,7 +41,11 @@ Group members in **bold**.
 
 ## 2026
 
-- Carle H, Bonnet T, Nicotra A, Godoong E, Hector A, Meir P, O'Brien M (2026). Trait variation driven by tree size more than environment and shows limited translation to species vital rates. Functional Ecology *in press*.
+- Jenouvrier S, Garnier J, Holland M, van de Walle J,  Patrick SC, **Bonnet T**, Delord K, Ventura F, Barbraud C, Weimerskirch H (2026). Climate mitigation contributes more to population persistence than evolutionary adaptation in a long-lived seabird. PNAS *in press*
+
+- Carle H, Bonnet T, Nicotra A, Godoong E, Hector A, Meir P, O'Brien M (2026). Trait variation driven by tree size more than environment and shows limited translation to species vital rates. Functional Ecology *early view*. [https://dx.doi.org/10.1111/1365-2435.70427](https://dx.doi.org/10.1111/1365-2435.70427). <br/> 
+[![bibtex](/images/bibtex_3.png)](bibs/carle2026.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/Carleetal_2026.pdf){:target="_blank"}
 
 - Clessin A et al. (2026). Dispersal, adaptation and persistence of H5N1 in the sub-Antarctic and Antarctica. BioRxiv *preprint*. https://www.biorxiv.org/content/10.64898/2026.03.20.713283v1 <br/>
 [![bibtex](/images/bibtex_3.png)](bibs/clessin_2026.bib){:target="_blank"} - 
