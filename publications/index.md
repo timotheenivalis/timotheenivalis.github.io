@@ -41,7 +41,10 @@ Group members in **bold**.
 
 ## 2026
 
-- Jenouvrier S, Garnier J, Holland M, van de Walle J,  Patrick SC, **Bonnet T**, Delord K, Ventura F, Barbraud C, Weimerskirch H (2026). Climate mitigation contributes more to population persistence than evolutionary adaptation in a long-lived seabird. PNAS *in press*
+- Jenouvrier S, Garnier J, Holland M, van de Walle J,  Patrick SC, **Bonnet T**, Delord K, Ventura F, Barbraud C, Weimerskirch H (2026). Climate mitigation contributes more to population persistence than evolutionary adaptation in a long-lived seabird. _**Proceedings of the National Accademy of Sciences**_ 123 (39) [https://doi.org/10.1073/pnas.2620362123](https://doi.org/10.1073/pnas.2620362123) <br/>
+[![bibtex](/images/bibtex_3.png)](bibs/jenouvrier2026.bib){:target="_blank"} - 
+[![pdf](/images/pdf.png)](pdfs/JenouvrierPNAS2026.pdf){:target="_blank"}
+
 
 - Carle H, Bonnet T, Nicotra A, Godoong E, Hector A, Meir P, O'Brien M (2026). Trait variation driven by tree size more than environment and shows limited translation to species vital rates. Functional Ecology *early view*. [https://dx.doi.org/10.1111/1365-2435.70427](https://dx.doi.org/10.1111/1365-2435.70427). <br/> 
 [![bibtex](/images/bibtex_3.png)](bibs/carle2026.bib){:target="_blank"} - 
@@ -51,7 +54,7 @@ Group members in **bold**.
 [![bibtex](/images/bibtex_3.png)](bibs/clessin_2026.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/clessin_2026.pdf){:target="_blank"}
 
-- Rouby E, Van De Walle J, Plard F, Delord K, Aubry L, Barbraud C, **Bonnet T**, Weimerskirch H, Jenouvrier S (2026). Drivers of age at first reproduction in the wandering albatross (<i>Diomedea exulans</i>): demographic factors, environmental conditions and sex-specific responses. Journal of Animal Ecology *early view*.
+- Rouby E, Van De Walle J, Plard F, Delord K, Aubry L, Barbraud C, **Bonnet T**, Weimerskirch H, Jenouvrier S (2026). Drivers of age at first reproduction in the wandering albatross (<i>Diomedea exulans</i>): demographic factors, environmental conditions and sex-specific responses. Journal of Animal Ecology *early view*. <br/> 
 [![bibtex](/images/bibtex_3.png)](bibs/roubyetal2026.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Roubyetal2026.pdf){:target="_blank"}
 
