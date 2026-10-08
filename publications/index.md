@@ -46,7 +46,7 @@ Group members in **bold**.
 [![pdf](/images/pdf.png)](pdfs/JenouvrierPNAS2026.pdf){:target="_blank"}
 
 
-- Carle H, Bonnet T, Nicotra A, Godoong E, Hector A, Meir P, O'Brien M (2026). Trait variation driven by tree size more than environment and shows limited translation to species vital rates. Functional Ecology *early view*. [https://dx.doi.org/10.1111/1365-2435.70427](https://dx.doi.org/10.1111/1365-2435.70427). <br/> 
+- Carle H, **Bonnet T**, Nicotra A, Godoong E, Hector A, Meir P, O'Brien M (2026). Trait variation driven by tree size more than environment and shows limited translation to species vital rates. Functional Ecology 40(10). [https://dx.doi.org/10.1111/1365-2435.70427](https://dx.doi.org/10.1111/1365-2435.70427). <br/> 
 [![bibtex](/images/bibtex_3.png)](bibs/carle2026.bib){:target="_blank"} - 
 [![pdf](/images/pdf.png)](pdfs/Carleetal_2026.pdf){:target="_blank"}
 
